@@ -1,0 +1,3001 @@
+predicate,total_frequency,type,geo_alias
+on,418423,geo,on
+in,181930,geo,in
+wearing,129084,semantic,
+has,118643,semantic,
+with,92653,semantic,
+of,58848,semantic,
+holding,51351,action,
+next to,35277,geo,next to
+behind,34253,geo,behind
+near,32254,geo,near
+sitting on,28392,action,on
+on top of,22410,geo,on
+riding,19851,action,on
+in front of,18506,geo,in front of
+at,16431,semantic,near
+by,15986,semantic,next to
+on a,14657,semantic,on
+under,14612,geo,under
+standing on,13931,action,on
+wears,12857,semantic,
+standing in,10440,action,in
+above,10171,geo,above
+has a,10034,semantic,
+wearing a,9690,semantic,
+eating,9601,action,
+over,7558,geo,above
+beside,7049,geo,next to
+sitting in,6891,action,in
+on side of,6518,geo,on
+laying on,6392,action,on
+looking at,6071,action,
+standing next to,5997,geo,next to
+of a,5959,semantic,
+walking on,5762,action,on
+in a,5728,semantic,in
+sitting at,5466,action,
+are on,5172,semantic,on
+carrying,5075,action,
+flying,5053,action,
+holds,4913,action,
+filled with,4774,semantic,
+watching,4752,action,
+parked on,4448,action,on
+inside,4383,geo,in
+attached to,4316,geo,overlap
+sitting on top of,4010,geo,on
+for,3939,semantic,
+around,3909,geo,near
+and,3814,semantic,
+playing,3774,action,
+using,3759,action,
+swinging,3545,action,
+down,3386,geo,under
+sits on,3016,action,on
+are in,2968,semantic,in
+covered in,2952,semantic,
+along,2935,geo,next to
+riding on,2835,action,on
+hanging on,2762,semantic,
+sitting next to,2760,geo,next to
+walking down,2755,geo,under
+against,2705,geo,overlap
+covering,2704,action,overlap
+standing in front of,2693,geo,in front of
+full of,2652,semantic,
+below,2636,geo,under
+hanging from,2597,action,above
+talking on,2567,action,
+between,2511,geo,next to
+playing with,2502,action,
+flying in,2484,action,in
+inside of,2482,geo,in
+walking in,2455,action,in
+lying on,2446,action,on
+on front of,2423,geo,on
+from,2306,semantic,
+crossing,2301,action,on
+hitting,2293,action,
+covered with,2221,semantic,
+throwing,2171,action,
+have,2143,semantic,
+standing near,2097,geo,near
+laying in,2093,action,in
+standing by,2056,action,next to
+driving down,2006,geo,under
+made of,1987,semantic,
+to,1928,semantic,
+cutting,1873,action,
+across,1787,geo,next to
+surrounded by,1783,geo,near
+outside,1778,geo,next to
+holding up,1705,geo,above
+grazing in,1684,action,in
+rides,1647,action,on
+topped with,1619,semantic,
+parked in,1592,action,in
+standing on top of,1591,geo,on
+through,1493,semantic,
+sitting in front of,1482,geo,in front of
+underneath,1455,geo,under
+growing on,1436,action,on
+mounted on,1399,geo,overlap
+catching,1389,action,
+walking,1388,action,
+going down,1385,geo,under
+standing behind,1378,geo,behind
+with a,1367,semantic,
+worn by,1290,semantic,
+drinking,1280,action,
+skiing down,1262,geo,under
+traveling down,1230,geo,under
+containing,1206,action,
+driving on,1204,action,on
+pulling,1192,action,
+parked next to,1179,geo,next to
+riding a,1142,action,on
+walking through,1140,action,in
+belonging to,1106,semantic,
+beneath,1089,geo,under
+grazing on,1089,action,on
+flying over,1087,geo,above
+resting on,1083,action,on
+walking across,1068,geo,next to
+hanging in,1066,semantic,
+leaning on,1049,geo,overlap
+standing around,1046,geo,near
+standing with,1039,action,
+touching,1036,geo,overlap
+sleeping on,1002,action,on
+sit on,970,action,on
+playing in,960,action,in
+feeding,957,action,
+walking with,943,action,
+on back of,938,geo,on
+waiting for,926,action,
+reading,918,action,
+standing at,906,action,
+parked in front of,898,geo,in front of
+playing on,891,action,
+built into,888,geo,in
+stands on,883,action,on
+showing,876,action,
+surfing on,871,action,on
+contains,850,action,
+dressed in,837,semantic,
+preparing,835,action,
+part of,834,semantic,
+surfing,809,action,
+sits in,806,action,in
+laying on top of,804,geo,on
+skiing on,799,action,on
+parked at,792,semantic,
+working on,791,action,
+floating in,770,action,in
+are behind,751,semantic,behind
+leaning against,751,geo,overlap
+in the background,751,geo,behind
+into,750,geo,in
+eats,749,action,
+standing,746,action,
+swimming in,741,action,in
+outside of,740,geo,next to
+watches,739,action,
+driving,738,action,
+surfing in,726,action,in
+perched on,724,action,on
+walking along,718,geo,next to
+has on,711,semantic,
+facing,700,geo,near
+close to,696,geo,near
+riding down,686,geo,under
+held by,686,action,
+sitting under,682,geo,under
+surrounding,669,geo,near
+sitting on a,668,action,on
+growing in,664,action,in
+including,661,action,
+is on,660,semantic,on
+in middle of,659,geo,in
+looking out,648,action,
+next,644,geo,next to
+petting,642,action,
+making,641,action,
+sitting around,637,geo,near
+standing under,634,geo,under
+covered,628,semantic,
+reflected in,622,action,in
+overlooking,622,action,above
+jumping,618,action,
+enjoying,610,action,
+lying in,608,action,in
+flying through,607,action,in
+has an,605,semantic,
+holding onto,603,action,
+swinging at,596,action,
+sitting,589,action,
+standing beside,584,geo,next to
+during,577,semantic,
+stopped at,575,action,
+out of,564,semantic,
+stands in,560,action,in
+hanging over,559,geo,above
+on the side of,558,geo,on
+off,555,semantic,
+lining,544,action,
+running on,538,action,on
+parked near,538,geo,near
+laying down on,525,geo,under
+adorning,520,semantic,
+front,519,geo,in front of
+swings,515,action,
+kicking,512,action,
+sitting by,508,action,next to
+coming down,507,geo,under
+sitting with,507,action,
+atop,505,geo,on
+in the middle of,503,geo,in
+beyond,494,geo,near
+serving,486,action,
+near a,486,geo,near
+posing with,485,action,
+includes,481,action,
+lying on top of,479,geo,on
+parked by,478,action,next to
+walking by,475,action,
+covers,453,action,overlap
+to right of,450,geo,next to
+looks at,447,action,
+talking to,446,action,
+alongside,444,geo,next to
+sticking out of,435,action,overlap
+lined with,435,semantic,
+past,434,semantic,
+watch,433,action,
+carries,433,action,
+among,427,geo,near
+throws,426,action,
+sits at,423,action,
+on the,422,semantic,on
+sitting near,412,geo,near
+reaching for,411,action,
+shows,409,action,
+skiing in,406,action,in
+wears a,405,semantic,
+floating on,402,action,on
+front of,399,geo,in front of
+running in,398,action,in
+is,398,semantic,
+in front,397,geo,in front of
+drinking from,397,action,
+in back of,396,geo,behind
+on side,394,geo,on
+hits,393,action,
+covered by,392,semantic,
+walking around,389,geo,near
+putting,387,action,
+of an,385,semantic,
+eating from,383,action,
+leading to,382,action,
+to left of,382,geo,next to
+looking in,379,action,
+doing,377,action,
+placed on,376,action,on
+riding in,371,action,on
+walking near,369,geo,near
+on top of a,367,geo,on
+flying above,358,geo,above
+walking next to,357,geo,next to
+are on top of,357,geo,on
+grazing,354,action,
+staring at,353,action,
+on top,349,geo,on
+hold,348,action,
+decorated with,348,semantic,
+pulling into,347,action,
+stands next to,346,geo,next to
+up,341,geo,above
+about to hit,340,action,
+behind a,339,geo,behind
+stand on,338,action,on
+uses,334,action,
+stand in,334,action,in
+parked,333,action,
+getting ready to hit,333,action,
+displayed on,333,action,on
+traveling on,332,action,on
+pitching,331,action,
+walking past,329,action,next to
+says,328,semantic,
+passing,325,action,next to
+skateboarding on,323,action,on
+wrapped in,323,action,overlap
+flies,320,action,
+approaching,319,action,
+painted on,318,action,on
+on bottom of,318,geo,on
+sits next to,318,geo,next to
+across from,318,geo,next to
+laying next to,316,geo,next to
+ride,316,action,on
+towards,315,geo,near
+lays on,312,action,on
+selling,312,action,
+features,310,action,
+hanging above,308,geo,above
+jumping on,308,action,
+riding on top of,308,geo,on
+sitting behind,307,geo,behind
+boarding,303,action,
+without,303,semantic,
+carrying a,302,action,
+looking into,301,action,
+parked along,301,geo,next to
+standing over,300,geo,above
+cooking,300,action,
+looking over,297,geo,above
+leaning over,295,geo,above
+leading,294,action,
+hugging,293,action,
+walking up,292,geo,above
+walking towards,290,geo,near
+passing by,288,action,next to
+jumping over,286,geo,above
+waiting on,283,action,
+helping,283,action,
+having,283,action,
+pushing,282,action,
+sits in front of,282,geo,in front of
+waiting at,280,action,
+snowboarding down,280,geo,under
+out in,280,semantic,
+sleeping in,278,action,in
+sitting inside of,276,geo,in
+stands in front of,276,geo,in front of
+sniffing,275,action,
+next to a,274,geo,next to
+stacked on,273,action,on
+in the background of,271,geo,behind
+stuck in,270,geo,overlap
+chasing,270,action,
+mounted to,270,geo,overlap
+hit,269,action,
+has on a,266,semantic,
+looking out of,266,action,
+shining on,266,action,
+lined up on,264,geo,above
+holding an,263,action,
+catches,263,action,
+seated on,263,action,on
+taking,261,action,
+reflecting,261,action,
+in between,260,geo,in
+at a,259,semantic,near
+connected to,259,geo,overlap
+on side of a,258,geo,on
+standing on a,258,action,on
+grabbing,258,action,
+stopped on,254,action,
+tied to,254,geo,overlap
+typing on,253,semantic,
+are near,253,semantic,near
+following,252,action,
+tossing,248,action,
+line,247,semantic,
+left of,247,geo,next to
+parked on side of,245,geo,on
+nearby,245,geo,near
+pouring,244,action,
+at top of,244,geo,on
+herding,243,action,
+held in,242,action,
+holds up,242,geo,above
+worn on,241,semantic,
+skating on,239,action,on
+sit in,239,action,in
+laying down in,234,geo,under
+looking down at,233,geo,under
+cutting into,232,action,
+seen through,232,semantic,
+displaying,231,action,
+supporting,229,action,
+looking on,228,action,
+onto,227,semantic,
+standing outside,227,geo,next to
+eat,227,action,
+seated at,226,action,on
+sitting beside,223,geo,next to
+stands near,222,geo,near
+looking,222,action,
+getting ready to,221,semantic,
+leaving,221,action,
+flying a,221,action,
+to catch,221,action,
+besides,220,geo,next to
+fixing,220,action,
+checking,220,action,
+running through,219,action,in
+kneeling on,217,action,on
+off of,217,semantic,
+drives down,216,geo,under
+in front of a,216,geo,in front of
+hanging,215,action,
+reflecting on,214,action,
+are under,213,semantic,under
+sitting inside,213,geo,in
+shown with,212,action,
+coming out of,212,semantic,
+crosses,210,action,on
+is in,210,semantic,in
+rests on,209,action,on
+set with,208,semantic,
+walking behind,206,geo,behind
+lies on,205,action,on
+sits on top of,204,geo,on
+are on a,204,semantic,
+on an,203,semantic,on
+plays with,203,action,
+sit at,202,action,
+standing outside of,202,geo,next to
+getting,201,action,
+looking through,201,action,
+are,198,semantic,
+talks on,198,action,
+fly,198,action,
+a,197,semantic,
+gathered around,197,geo,near
+belongs to,196,semantic,
+licking,194,action,
+parked beside,193,geo,next to
+under a,193,geo,under
+at end of,192,geo,next to
+hanging off,192,semantic,
+trying to catch,191,action,
+skateboarding down,191,geo,under
+to hit,191,action,
+running with,190,action,
+on edge of,190,geo,on
+adjusting,189,action,
+rides on,189,action,on
+moving down,187,geo,under
+sharing,187,action,
+consisting of,187,semantic,
+by a,186,semantic,next to
+reads,186,semantic,
+inside a,186,geo,in
+going through,185,action,in
+printed on,184,action,on
+giving,183,action,
+resting in,183,action,in
+balancing on,183,action,on
+are at,181,semantic,
+washing,181,action,
+sitting in a,181,action,in
+out on,180,semantic,
+wearing black,180,semantic,
+parked behind,179,geo,behind
+taking off from,178,semantic,
+walking into,178,action,
+walking in front of,178,geo,in front of
+driving past,177,action,next to
+posing on,176,action,
+looking up at,175,geo,above
+graze in,175,action,in
+spraying,173,action,
+shaped like,173,semantic,
+pointing at,173,action,
+are next to,172,geo,next to
+opening,172,action,
+holding on to,171,action,
+walks on,169,action,on
+look at,169,action,
+before,168,geo,in front of
+located on,168,action,on
+toward,168,geo,near
+lying next to,168,geo,next to
+reflected on,167,action,
+carry,167,action,
+swings at,167,action,
+preparing to hit,166,action,
+moving,164,action,
+standing in a,164,action,in
+chewing on,164,action,
+raising,163,action,
+are in front of,163,geo,in front of
+eating a,163,action,
+running across,163,geo,next to
+surrounds,163,geo,near
+cuts,162,action,
+displayed in,161,action,in
+at edge of,161,geo,near
+stands with,160,action,
+observing,159,action,
+eating at,159,action,
+stand next to,159,geo,next to
+are attached to,157,geo,overlap
+set on,156,action,on
+with no,155,semantic,
+beside of,155,geo,next to
+along side of,155,geo,next to
+getting on,154,semantic,
+skateboarding in,154,action,in
+are in a,154,semantic,
+side,153,geo,next to
+traveling past,152,action,next to
+wading in,152,action,in
+biting,152,action,
+parked outside,152,geo,next to
+sitting down on,151,geo,under
+hangs from,150,action,above
+using a,150,action,
+jumping off,150,action,
+picking up,149,geo,above
+walking toward,149,geo,near
+moving along,148,geo,next to
+walking beside,148,geo,next to
+moving on,147,action,
+sitting underneath,147,geo,under
+skiing,146,action,
+about to throw,146,action,
+wrapped around,145,geo,near
+stand near,144,geo,near
+entering,144,action,
+made out of,144,semantic,
+smiling,144,action,
+relaxing on,144,action,on
+in action on,142,semantic,
+walk on,142,action,on
+sitting down,142,geo,under
+towering over,141,geo,above
+on other side of,141,geo,on
+wear,141,semantic,
+perched on top of,140,geo,on
+slicing,140,action,
+eating in,140,action,in
+in the,140,semantic,in
+are by,139,semantic,
+rowing,139,action,
+are above,139,semantic,above
+holding out,139,action,
+looking for,139,action,
+for a,138,semantic,
+holds a,138,action,
+cover,137,action,overlap
+crashing on,137,semantic,
+being held by,137,action,
+loaded with,137,semantic,
+play,137,action,
+driving through,136,action,in
+bordering,136,action,
+poses with,136,action,
+over a,136,geo,above
+laid out on,136,action,on
+docked in,135,action,in
+at bottom of,135,geo,under
+are beside,135,semantic,next to
+going up,135,geo,above
+right of,135,geo,next to
+standing inside,135,geo,in
+up to,134,geo,above
+trying to hit,134,action,
+prepares to hit,133,action,
+feeds,133,action,
+side of,133,semantic,
+traveling through,133,action,in
+tying,133,action,
+biting into,133,action,
+smelling,133,action,
+parked outside of,132,geo,next to
+on front,132,geo,on
+sitting between,131,geo,next to
+made with,131,semantic,
+walks down,131,geo,under
+hung on,130,action,on
+featuring,130,action,
+sitting down with,130,geo,under
+swinging a,129,action,
+lifting,129,action,
+walking under,128,geo,under
+standing against,128,geo,overlap
+travelling on,128,semantic,
+standing between,127,geo,next to
+doing tricks on,127,semantic,
+climbing,126,action,
+look on,126,semantic,
+gripping,125,action,
+putting on,125,action,
+kissing,125,action,
+has no,125,semantic,
+walk down,125,geo,under
+as,124,semantic,
+walking away from,124,geo,near
+performing,124,action,
+open,123,semantic,
+posing in front of,123,geo,in front of
+landing on,123,action,on
+placed in,122,semantic,
+hangs on,122,semantic,
+are sitting on,121,action,on
+falling off,121,semantic,
+growing behind,121,geo,behind
+seen in,120,action,in
+driving in,120,action,
+cross,120,action,on
+walking on a,119,action,on
+standing underneath,119,geo,under
+and a,119,semantic,
+ride on,118,action,on
+looks on,118,action,
+smiling at,118,action,
+standing together in,118,action,
+holding a,118,action,
+amongst,117,geo,near
+walking to,117,action,
+plays,117,action,
+threw,116,action,
+showing off,116,action,
+posted on,114,action,on
+eating out of,114,action,
+are playing at,114,action,
+made from,114,semantic,
+laying,114,action,
+extending,114,action,
+ready to hit,114,action,
+running,114,action,
+shown on,113,action,on
+stands by,113,action,next to
+setting on,113,semantic,
+laying down,113,geo,under
+looks like,112,semantic,
+going over,112,geo,above
+growing near,112,geo,near
+outside in,112,geo,next to
+stands at,112,action,
+some,111,semantic,
+moving through,110,action,in
+set up on,110,geo,above
+growing next to,110,geo,next to
+hanging out of,110,semantic,
+snowboarding on,109,action,on
+up on,109,geo,above
+traveling along,109,geo,next to
+feeding on,109,action,
+docked at,109,semantic,
+lines,108,action,
+left,108,geo,next to
+bending over,108,geo,above
+reflecting in,108,action,in
+surround,108,semantic,
+lying inside,107,geo,in
+loading,107,action,
+laying under,107,geo,under
+wearing an,107,semantic,
+guiding,107,action,
+jumping to catch,107,action,
+flies over,106,geo,above
+riding through,106,action,on
+pulls,106,action,
+towing,106,action,
+reflects,105,action,
+arranged on,105,action,on
+talking,105,action,
+standing among,105,geo,near
+stands behind,105,geo,behind
+asleep on,105,action,on
+wearing blue,105,semantic,
+texting on,104,semantic,
+laying on a,104,action,on
+draped over,104,geo,above
+along side,103,geo,next to
+along with,103,geo,next to
+exiting,103,action,
+skis down,103,geo,under
+jumping with,103,action,
+blocking,103,action,
+pointing to,103,action,
+sleeping on top of,102,geo,on
+within,102,geo,in
+lying down on,102,geo,under
+sits atop,102,geo,on
+lounging on,101,action,on
+dragging,101,action,
+sitting above,101,geo,above
+up in,100,geo,above
+parked with,100,semantic,
+together with,100,semantic,
+on left side of,100,geo,on
+waiting to cross,100,action,on
+posing in,100,action,
+standing alongside,100,geo,next to
+flying high in,99,geo,above
+on right side of,99,geo,on
+reflecting off,99,action,
+sits near,99,geo,near
+sitting outside,99,geo,next to
+decorating,98,action,
+walks through,98,action,in
+in an,98,semantic,in
+taking a swing at,98,action,
+on the back of,97,geo,on
+hauling,97,action,
+in the air on,97,geo,above
+rides down,96,geo,under
+cleaning,96,action,
+in the air,96,geo,above
+drinking out of,96,action,
+cutting up,96,geo,above
+leaning up against,96,geo,overlap
+where,96,semantic,
+consists of,96,semantic,
+waiting,96,action,
+milking,96,action,
+include,95,action,
+pointing,95,action,
+running down,95,geo,under
+pulled up to,94,geo,above
+growing from,94,action,
+like,94,semantic,
+displays,94,action,
+operating,94,action,
+sitting at a,93,action,
+sticking out,93,action,overlap
+separating,93,action,
+breaking on,93,semantic,
+meets,93,action,
+parked under,93,geo,under
+parked on top of,93,geo,on
+on left of,93,geo,on
+sleeps on,93,action,on
+pets,92,action,
+makes,92,action,
+matches,92,action,
+standing close to,92,geo,near
+visible through,92,semantic,
+floating on top of,92,geo,on
+jumps,92,action,
+lay on,91,action,on
+stand in front of,91,geo,in front of
+standing holding,91,action,
+on surface of,91,geo,on
+outside on,90,geo,next to
+sits with,90,action,
+sits,90,action,
+grasping,89,action,
+overlooks,89,action,above
+standing around in,89,geo,near
+teaching,89,action,
+away from,89,geo,near
+up against,89,geo,overlap
+scattered on,88,action,on
+cooking in,88,action,in
+view of,88,semantic,
+are inside,88,geo,in
+curled up on,88,geo,above
+close up of,88,geo,near
+at the top of,88,geo,on
+on display,87,geo,on
+approaches,87,action,
+stand around,87,geo,near
+served with,87,action,
+throwing a,87,action,
+travels down,87,geo,under
+i,87,semantic,
+looking out at,87,action,
+graze on,87,action,on
+smiling with,87,action,
+are on side of,87,geo,on
+growing,87,action,
+kicking up,87,geo,above
+on display in,86,geo,on
+wearing white,86,semantic,
+drives,86,action,
+sitting below,86,geo,under
+placing,86,action,
+touches,86,action,
+leans on,86,action,overlap
+mixed with,86,semantic,
+parked alongside,86,geo,next to
+topping,85,semantic,
+shaking,85,action,
+riding on a,85,action,on
+on h,85,semantic,
+doing trick on,85,semantic,
+docked on,85,semantic,
+getting ready to throw,85,action,
+passes,85,action,next to
+preparing to throw,84,action,
+that has,84,semantic,
+sitting up against,84,geo,overlap
+prepares,84,action,
+sailing in,84,action,in
+in blue,84,semantic,
+located in,84,action,in
+standing inside of,84,geo,in
+buying,84,action,
+splashing,83,action,
+sitting against,83,geo,overlap
+walking around in,83,geo,near
+walk through,82,action,in
+standing together,82,action,
+running after,82,action,
+pulling up to,82,geo,above
+being pulled by,82,action,
+racing,82,action,
+reaching into,82,action,
+are inside of,82,geo,in
+walking out of,81,action,
+pulled by,81,action,
+passes by,81,action,next to
+coming through,81,semantic,
+attached,81,action,overlap
+coming up,80,geo,above
+out,80,semantic,
+catching a,80,action,
+balancing,80,action,
+waits for,80,action,
+shining through,80,action,
+sit around,80,geo,near
+missing,79,action,
+inside of a,79,geo,in
+sitting down at,79,geo,under
+crashing in,79,semantic,
+waiting to board,79,action,
+piled on,79,action,on
+chained to,79,geo,overlap
+white,79,semantic,
+sleeping with,79,action,
+top of,79,semantic,
+growing by,79,action,
+lays in,78,action,in
+affixed to,78,geo,overlap
+drinks,78,action,
+together in,78,semantic,
+are over,78,semantic,above
+standing up,78,geo,above
+serves,78,action,
+play with,78,action,
+wading through,78,action,in
+tending to,77,semantic,
+to a,77,semantic,
+posing next to,77,geo,next to
+in the back of,77,geo,behind
+flipping,77,action,
+running towards,77,geo,near
+have a,77,semantic,
+are for,77,semantic,
+about to catch,76,action,
+coming from,76,semantic,
+adjacent to,76,geo,next to
+running along,76,geo,next to
+open on,76,semantic,
+resting,76,action,
+to eat,75,action,
+on face of,75,geo,on
+viewing,75,action,
+flies through,75,action,in
+relaxing in,75,semantic,
+high in,75,geo,above
+are standing on,75,action,on
+sitting atop,75,geo,on
+sleeping next to,75,geo,next to
+used by,75,action,
+rest on,74,action,on
+walk along,74,geo,next to
+in mans,74,semantic,
+flies in,74,action,in
+near by,74,geo,near
+left on,74,semantic,
+walks in,73,action,in
+swing,73,action,
+stirring,73,action,
+getting ready to serve,73,action,
+passing through,73,action,in
+hanging on a,73,semantic,
+coming into,73,geo,in
+going into,73,geo,in
+reaching,73,action,
+protecting,73,action,
+walks along,72,geo,next to
+arranged in,72,semantic,
+getting off,72,semantic,
+written on,72,action,on
+traveling over,72,geo,above
+taking off,72,semantic,
+being flown in,72,semantic,
+preparing to,71,action,
+flying by,71,action,next to
+travelling down,71,geo,under
+reaches for,71,action,
+sliding down,71,geo,under
+sitting outside of,71,geo,next to
+strapped to,71,geo,overlap
+returning,71,action,
+beside a,71,geo,next to
+on the other side of,71,semantic,
+in center of,71,geo,in
+on right of,71,geo,on
+on display on,71,geo,on
+waving,70,action,
+raises,70,action,
+laying down with,70,geo,under
+cluttered with,70,semantic,
+preparing to serve,70,action,
+are holding,70,action,
+sailing on,70,action,
+passing under,70,geo,under
+kneeling in,70,action,
+snowboarding in,70,action,in
+heading down,70,geo,under
+stand by,70,action,
+paddling,70,action,
+back of,69,geo,behind
+while riding,69,action,on
+about to eat,69,action,
+rolling on,69,action,on
+skating down,69,geo,under
+flying near,69,geo,near
+such as,69,semantic,
+gather around,69,geo,near
+traveling in,69,semantic,
+grinding,69,action,
+growing along,69,geo,next to
+about,68,semantic,
+working at,68,action,
+going by,68,action,next to
+puts,68,action,
+supports,68,action,
+visible on,68,semantic,
+laying near,68,geo,near
+driving by,68,action,
+growing beside,68,geo,next to
+laying with,68,action,
+ready for,67,semantic,
+drive down,67,geo,under
+sits under,67,geo,under
+leads to,67,action,
+examining,67,action,
+standing up with,67,geo,above
+helps,67,action,
+flying around,67,geo,near
+sitting down in,66,geo,under
+apart of,66,semantic,
+shown in,66,action,
+served in,66,action,in
+looking at a,66,action,
+are around,65,geo,near
+sit next to,65,geo,next to
+on back,65,geo,on
+formed in,65,action,in
+grazing near,65,geo,near
+in h,65,semantic,
+carried by,65,action,
+looking down,65,geo,under
+about to serve,65,action,
+set up with,65,geo,above
+right,65,geo,next to
+cooking on,65,action,on
+laying in front of,64,geo,in front of
+growing out of,64,action,
+made to look like,64,semantic,
+has many,64,semantic,
+riding an,64,action,on
+mounted in,64,geo,overlap
+filled,64,action,
+sitting outside on,64,geo,next to
+taking pictures of,64,semantic,
+inspecting,64,action,
+around a,64,geo,near
+leads,63,action,
+served on,63,action,
+gathered on,63,action,near
+planted in,63,action,in
+faces,62,action,
+skiing across,62,geo,next to
+bouncing,62,action,
+sits by,62,action,next to
+held,62,action,
+holds out,62,action,
+hovering over,62,geo,above
+smiling while holding,62,action,
+jumping for,62,action,
+black,62,semantic,
+traveling across,62,geo,next to
+leans against,62,geo,overlap
+stands beside,62,geo,next to
+reflection in,62,action,
+climbing up,62,geo,above
+surfs,62,action,
+driving along,62,geo,next to
+stares at,61,action,
+worn,61,semantic,
+looks out,61,action,
+standing up on,61,geo,above
+wearing a black,61,semantic,
+seen from,61,semantic,
+stuck on,61,geo,overlap
+taped to,61,geo,overlap
+at side of,61,geo,next to
+skiing through,61,action,in
+eating on,61,action,
+laying across,61,geo,next to
+lying down in,61,geo,under
+growing around,61,geo,near
+swimming on,61,action,
+walk in,61,action,in
+riding along,60,geo,next to
+above a,60,geo,above
+indicating,60,action,
+are eating,60,action,
+grazes on,60,action,on
+lined up in,60,geo,above
+complete with,60,semantic,
+splashing in,60,semantic,
+dressed as,60,semantic,
+had,60,semantic,
+placed next to,60,geo,next to
+on head of,60,geo,on
+visible in,60,action,in
+eating with,60,action,
+at front of,59,geo,in front of
+cutting through,59,action,
+grazes in,59,action,in
+curled up in,59,geo,above
+made,59,semantic,
+are wearing,59,semantic,
+hanging in front of,59,geo,in front of
+side by side,59,geo,next to
+gathered in,59,action,near
+in the shape of,59,semantic,
+stopped in,59,action,
+on either side of,59,geo,on
+sells,59,action,
+hanging next to,59,geo,next to
+works on,58,action,
+that,58,semantic,
+are watching,58,action,
+follows,58,action,
+hang from,58,action,above
+lying,58,action,
+with an,58,semantic,
+drives on,58,action,on
+walks,58,action,
+packed with,58,semantic,
+flying across,58,geo,next to
+caught,58,action,
+photographing,58,action,
+staring out,58,semantic,
+goes down,58,geo,under
+striking,57,action,
+pulls into,57,action,
+crowded with,57,semantic,
+is wearing,57,semantic,
+skateboarding,57,action,
+buried in,57,semantic,
+reading a,57,action,
+set in,57,action,in
+of the,57,semantic,
+racing on,57,action,
+drinks from,57,action,
+flying with,57,action,
+cut,57,action,
+swimming,57,action,
+gets ready to hit,57,action,
+outside with,56,geo,next to
+at base of,56,geo,under
+leaning,56,action,
+going to,56,semantic,
+bending,56,action,
+sit on top of,56,geo,on
+checking out,56,action,
+lies in,56,action,in
+going across,56,geo,next to
+kept on,56,semantic,
+wearing a white,56,semantic,
+squatting on,56,action,on
+enclosing,56,action,
+flying on,56,action,
+sticking,55,action,
+standing together with,55,action,
+standing up in,55,geo,above
+picking,55,action,
+hiding behind,55,geo,behind
+near to,55,geo,near
+bent over,55,geo,above
+fighting over,55,geo,above
+use,55,action,
+skiing with,55,action,
+riding up,55,geo,above
+chewing,55,action,
+play in,55,action,in
+amid,55,geo,near
+trying to fly,55,action,
+getting ready to swing,55,action,
+racing down,55,geo,under
+grinding on,55,semantic,
+standing on side of,55,geo,on
+working with,54,action,
+balances on,54,action,on
+in the distance,54,geo,near
+walking at,54,action,
+skateboarding at,54,action,
+catch,54,action,
+taller than,54,semantic,
+grabs,54,action,
+walk by,54,action,
+waiting in,53,action,
+steering,53,action,
+attempting to hit,53,action,
+hitting a,53,action,
+sitting together on,53,action,
+handing,53,action,
+jumping in,53,action,
+followed by,53,semantic,
+crouching on,53,action,on
+after,53,semantic,
+laying by,53,action,
+sits behind,53,geo,behind
+painting,53,action,
+opposite,53,geo,next to
+stepping on,52,action,on
+stands under,52,geo,under
+driving alongside,52,geo,next to
+in brown,52,semantic,
+forming,52,action,
+kicks,52,action,
+looking toward,52,geo,near
+showing through,52,action,
+running around,52,geo,near
+seen,52,semantic,
+in the air with,52,geo,above
+coming off,52,semantic,
+sniffs,52,action,
+walks with,52,action,
+back,51,geo,behind
+laying down next to,51,geo,next to
+anchored in,51,action,in
+hiding in,51,action,in
+about to swing,51,action,
+admiring,51,action,
+by side of,51,geo,next to
+are along,51,geo,next to
+standing above,51,geo,above
+sit in front of,51,geo,in front of
+gathered at,51,action,near
+mounted above,50,geo,above
+in side of,50,geo,in
+at bat,50,semantic,
+hooked up to,50,geo,overlap
+pulled into,50,action,
+parked against,50,geo,overlap
+are standing in,50,action,in
+looking towards,50,geo,near
+falling from,50,semantic,
+riding past,50,action,on
+hanging out,50,semantic,
+grazing from,50,semantic,
+running to,50,action,
+cut in half,50,action,
+submerged in,50,action,in
+clutching,50,action,
+built in,50,action,in
+takes,50,action,
+checks,50,action,
+looking inside,50,geo,in
+standing together on,49,action,
+kept in,49,action,in
+lie on,49,action,on
+under an,49,geo,under
+receiving,49,action,
+on end of,49,geo,on
+transporting,49,action,
+interacting with,49,semantic,
+is full of,49,semantic,
+protruding from,49,action,overlap
+down on,49,geo,under
+rolling down,49,geo,under
+lead to,49,semantic,
+closest to,49,geo,near
+standing outside in,49,geo,next to
+taking picture of,49,semantic,
+shaking hands with,49,semantic,
+sleeping,48,action,
+not wearing,48,semantic,
+at the edge of,48,geo,near
+eating off,48,action,
+surfing through,48,action,
+share,48,action,
+stands,48,action,
+suspended over,48,geo,above
+turning on,48,action,
+are worn by,48,semantic,
+dressed up in,48,semantic,
+traveling,48,action,
+together on,48,semantic,
+holds onto,48,action,
+walking on top of,48,geo,on
+advertising,48,action,
+are growing on,47,action,on
+to cut,47,action,
+extends,47,action,
+all over,47,geo,above
+peeking through,47,semantic,
+writing on,47,semantic,
+green,47,semantic,
+pose with,47,action,
+separates,47,action,
+suspended from,47,action,above
+hanging by,47,semantic,
+standing nearby,47,geo,near
+leading up to,47,geo,above
+falling on,47,semantic,
+resting against,47,geo,overlap
+preparing to swing,47,action,
+working in,46,action,
+awaiting,46,action,
+walking over,46,geo,above
+sit,46,action,
+walks across,46,geo,next to
+coming to,46,semantic,
+climbing on,46,action,
+sitting on the side of,46,geo,on
+drink,46,action,
+placed on top of,46,geo,on
+rolling,46,action,
+flying next to,46,geo,next to
+pushes,46,action,
+kicking around,46,geo,near
+hiking up,46,geo,above
+together,46,geo,next to
+at the end of,46,geo,next to
+on or side of,45,geo,on
+falling off of,45,semantic,
+on  a,45,semantic,
+ready to catch,45,action,
+propped up on,45,geo,overlap
+trying to get,45,semantic,
+laying inside of,45,geo,in
+bathing in,45,action,in
+lined up at,45,geo,above
+arriving at,45,action,
+littered with,45,semantic,
+b,45,semantic,
+has white,45,semantic,
+kneeling down on,45,geo,under
+stretching,45,action,
+moving in,45,action,
+ridden by,44,action,on
+repairing,44,action,
+blue,44,semantic,
+with many,44,semantic,
+parked in a,44,action,in
+are covered in,44,action,overlap
+wearing a red,44,semantic,
+on the edge of,44,geo,on
+going under,44,geo,under
+shearing,44,action,
+skating in,44,action,
+hangs over,44,geo,above
+crossing over,44,geo,above
+planted on,44,semantic,
+on front of a,44,geo,on
+seen on,44,semantic,
+brushing,44,action,
+driving next to,44,geo,next to
+sitting over,44,geo,above
+on mans,44,semantic,
+shopping for,44,semantic,
+stacked on top of,44,geo,on
+looks over,44,geo,above
+talking on a,44,action,
+looking out over,43,geo,above
+from a,43,semantic,
+up to bat,43,geo,above
+red,43,semantic,
+appearing in,43,semantic,
+covering a,43,action,overlap
+on foot of,43,geo,on
+preparing to swing at,43,action,
+is behind,43,semantic,behind
+graze,43,semantic,
+perches on,43,action,on
+performing on,43,action,
+sits beside,43,geo,next to
+illuminating,43,action,
+are walking on,43,action,on
+on both sides of,43,geo,on
+attached to a,43,geo,overlap
+locked to,43,geo,overlap
+crouched on,43,action,on
+on corner of,43,geo,on
+smiling next to,43,geo,next to
+plays on,43,action,
+adorned with,42,semantic,
+going after,42,semantic,
+removing,42,action,
+ahead of,42,geo,in front of
+on her,42,semantic,
+large,42,semantic,
+are below,42,semantic,under
+looking up,42,geo,above
+wearing a blue,42,semantic,
+stopping at,42,action,
+seated in,42,semantic,
+getting ready to eat,42,action,
+jumps over,42,geo,above
+growing alongside,42,geo,next to
+hiding under,42,geo,under
+travels on,42,semantic,
+reflection on,42,action,
+stand at,42,action,
+hidden by,42,semantic,
+leans over,41,geo,above
+eats from,41,action,
+listening to,41,semantic,
+mounted,41,action,on
+are covering,41,action,overlap
+on rear of,41,geo,on
+waiting to get on,41,action,
+kneeling down next to,41,geo,next to
+looks,41,action,
+unloading,41,action,
+painted,41,action,
+shows off,41,action,
+hanging near,41,geo,near
+chasing after,41,action,
+prepares to serve,41,action,
+passing over,41,geo,above
+getting out of,41,semantic,
+walking between,41,geo,next to
+fill,41,action,
+are hanging from,41,action,above
+o top of,40,geo,on
+standing and holding,40,action,
+folding,40,action,
+growing in front of,40,geo,in front of
+amidst,40,geo,near
+depicting,40,action,
+at foot of,40,geo,under
+standing outside with,40,geo,next to
+used for,40,action,
+close,40,geo,near
+wearing red,40,semantic,
+face,40,semantic,
+windsurfing on,40,semantic,
+prepares to throw,40,action,
+along a,40,geo,next to
+over looking,40,geo,above
+walking in a,40,action,in
+fly in,40,action,in
+ready to,40,semantic,
+are on front of,40,geo,on
+gives,40,action,
+doing a trick on,40,semantic,
+perched in,40,action,in
+tasting,40,action,
+grazing next to,40,geo,next to
+parasailing in,39,semantic,
+swung,39,action,
+in black,39,semantic,
+while,39,semantic,
+used as,39,action,
+cutting a,39,action,
+returns,39,action,
+resting on top of,39,geo,on
+performs,39,action,
+going,39,action,
+stand behind,39,geo,behind
+drives through,39,action,in
+wait for,39,action,
+has hit,39,semantic,
+lying near,39,geo,near
+directing,39,action,
+stand under,39,geo,under
+speaking to,39,action,
+propped against,39,geo,overlap
+stops at,39,action,
+jumping up to catch,39,geo,above
+talking with,39,action,
+squatting behind,39,geo,behind
+getting ready to swing at,39,action,
+controlling,39,action,
+carrying an,39,action,
+stuck into,39,geo,in
+propped on,39,geo,overlap
+are hanging on,39,semantic,
+greeting,39,action,
+lined up,39,geo,above
+posing by,39,action,
+posed on,39,action,
+poses on,39,action,
+stands between,39,geo,next to
+lays down on,39,geo,under
+working,39,action,
+aside,39,geo,next to
+licks,38,action,
+overhead,38,geo,above
+filling,38,action,
+traveling under,38,geo,under
+against a,38,geo,overlap
+moves down,38,geo,under
+in the foreground,38,geo,in front of
+stands on top of,38,geo,on
+herds,38,action,
+looking inside of,38,geo,in
+going on,38,semantic,
+thrown,38,action,
+hanging behind,38,geo,behind
+embedded in,38,action,in
+chopping,38,action,
+on outside of,38,geo,on
+in white,38,semantic,
+are playing,38,action,
+jumping off of,38,action,
+outside by,38,geo,next to
+waiting to hit,38,action,
+ready to swing,37,action,
+standing out in,37,action,
+sitting down holding,37,geo,under
+at back of,37,geo,behind
+surfs on,37,action,on
+turned on,37,semantic,
+being worn by,37,semantic,
+folded on,37,action,on
+flying under,37,geo,under
+reaching over,37,geo,above
+speaking on,37,action,
+flying against,37,geo,overlap
+flowing in,37,semantic,
+holding open,37,action,
+are floating in,37,action,in
+standing by a,37,action,next to
+running to catch,37,action,
+shines on,37,action,
+drawn on,37,action,on
+rolling in,37,semantic,
+is next to,37,semantic,next to
+meeting,37,action,
+walk around,37,geo,near
+standing around with,37,geo,near
+about to swing at,37,action,
+waits at,37,action,
+pulls up to,37,geo,above
+holding onto a,37,action,
+taking a bite of,37,semantic,
+in womans,37,semantic,
+running toward,37,geo,near
+rides through,37,action,on
+floating down,37,geo,under
+to side of,37,geo,next to
+paddling on,37,action,
+watching a,37,action,
+opens,37,action,
+does,37,action,
+with h,36,semantic,
+asleep in,36,semantic,
+are against,36,geo,overlap
+dropping,36,action,
+saying,36,action,
+creating,36,action,
+running behind,36,geo,behind
+attached on,36,geo,overlap
+standing side by side,36,geo,next to
+chases,36,action,
+driving across,36,geo,next to
+separated by,36,semantic,
+no,36,semantic,
+driving under,36,geo,under
+walking among,36,geo,near
+plays in,36,action,in
+make,36,action,
+laying beside,36,geo,next to
+sitting out on,36,action,
+coming towards,36,geo,near
+peeking out of,36,semantic,
+sleeping under,36,geo,under
+tethered to,36,geo,overlap
+feeding from,36,action,
+sticking in,36,semantic,
+bites into,36,action,
+in hand of,36,semantic,
+dividing,36,action,
+from behind,36,semantic,
+has two,36,semantic,
+pulling a,36,action,
+leading into,36,action,
+guarding,35,action,
+lined up along,35,geo,next to
+to throw,35,action,
+kneeling next to,35,geo,next to
+lounging in,35,semantic,
+standing near a,35,geo,near
+has black,35,semantic,
+growing on side of,35,geo,on
+prepares to swing at,35,action,
+walking together in,35,action,
+crashing into,35,geo,in
+jumping into,35,action,
+about to cut,35,action,
+stuck to,35,geo,overlap
+contain,35,action,
+driving up,35,geo,above
+adjusts,35,action,
+leaned against,35,geo,overlap
+siting on,35,action,
+tucked into,35,geo,in
+brown,35,semantic,
+sits between,35,geo,next to
+walking around on,35,geo,near
+flying high up in,35,geo,above
+reaching up to,35,geo,above
+cross country skiing in,34,action,in
+worn by a,34,semantic,
+play on,34,action,
+practicing,34,action,
+poses in front of,34,geo,in front of
+enjoys,34,action,
+runs through,34,action,in
+peeling,34,action,
+munching on,34,action,
+talks to,34,action,
+is shown with,34,semantic,
+stand with,34,action,
+going for,34,semantic,
+going past,34,semantic,
+waiting to catch,34,action,
+jumping to hit,34,action,
+flying low over,34,geo,above
+riding on the back of,34,geo,on
+falling into,34,geo,in
+flying at,34,action,
+on sides of,34,geo,on
+cuts into,34,action,
+in her,34,semantic,
+in mid air,34,geo,above
+are riding,34,action,on
+on left,34,geo,on
+lined up against,33,geo,overlap
+reaching with,33,action,
+for sale on,33,semantic,
+reflects on,33,action,
+rowing in,33,action,
+rests in,33,action,in
+moving across,33,geo,next to
+wearing brown,33,semantic,
+out front of,33,geo,in front of
+aboard,33,semantic,
+to the side of,33,geo,next to
+shining in,33,action,
+heading towards,33,geo,near
+signing,33,action,
+on display at,33,geo,on
+focused on,33,semantic,
+kiteboarding over,33,geo,above
+playing with a,33,action,
+equipped with,33,semantic,
+crashing,33,action,
+eat from,33,action,
+runs on,33,action,on
+made up with,33,semantic,
+having fun in,33,semantic,
+stopped in front of,32,geo,in front of
+standing along,32,geo,next to
+pitches,32,action,
+is near,32,semantic,near
+sit atop,32,geo,on
+side by side on,32,geo,next to
+is a,32,semantic,
+plugged into,32,geo,overlap
+taking out,32,semantic,
+runs in,32,action,in
+walking alongside,32,geo,next to
+prepares to swing,32,action,
+plowing,32,action,
+hang on,32,semantic,
+far from,32,geo,near
+pulling out of,32,action,
+fly over,32,geo,above
+rubbing,32,action,
+clasping,32,action,
+are laying on,32,action,on
+flying past,32,action,
+parked inside of,32,geo,in
+painted with,32,semantic,
+growing through,32,action,
+in background of,32,geo,behind
+hold up,32,geo,above
+are crossing,32,action,on
+stands over,32,geo,above
+looks up at,32,geo,above
+parked on the side of,32,geo,on
+arranging,31,action,
+lifts,31,action,
+lying under,31,geo,under
+looks in,31,action,
+leaning on a,31,geo,overlap
+speeding down,31,geo,under
+leaning out of,31,action,
+grazing for,31,semantic,
+seen a,31,semantic,
+preparing to catch,31,action,
+hanging from a,31,action,above
+stuffed with,31,semantic,
+driving on a,31,action,on
+poking out of,31,semantic,
+walk across,31,geo,next to
+reaching out to,31,action,
+are part of,31,semantic,
+reaching to hit,31,action,
+pass,31,semantic,
+nuzzling,31,action,
+being flown on,31,semantic,
+board,31,semantic,
+with lots of,31,semantic,
+holding hands with,31,action,
+hitting with,31,action,
+has some,31,semantic,
+standing in front,31,geo,in front of
+trying to eat,31,action,
+made up of,31,semantic,
+jumping down,31,geo,under
+placed in front of,31,geo,in front of
+standing below,31,geo,under
+that says,31,semantic,
+tied up to,31,geo,overlap
+perched on a,31,action,on
+smiling on,31,action,
+propped up against,31,geo,overlap
+getting ready to fly,31,action,
+soaring in,31,action,above
+are parked on,31,action,on
+smothered in,31,semantic,
+baking in,30,semantic,
+floats on,30,action,on
+spreading,30,action,
+taking a bite out of,30,semantic,
+moves along,30,geo,next to
+smiling while,30,action,
+coming in,30,semantic,
+obscured by,30,semantic,
+napping on,30,action,on
+hanging out on,30,semantic,
+accompanied by,30,semantic,
+prepare,30,action,
+prepares to catch,30,action,
+playing near,30,geo,near
+tosses,30,action,
+enjoy,30,action,
+grips,30,action,
+flying close to,30,geo,near
+rides along,30,geo,next to
+throw,30,action,
+touch,30,semantic,
+standing before,30,geo,in front of
+draped on,30,action,on
+have no,30,semantic,
+placed near,30,geo,near
+wait at,30,action,
+pass by,30,action,next to
+sitting among,30,geo,near
+sitting along,30,geo,next to
+shining,30,action,
+out to,30,semantic,
+paddling in,30,action,
+sitting beneath,30,geo,under
+on some,30,semantic,
+batting,30,action,
+in hand,30,semantic,
+in the reflection of,30,geo,in
+cut into,30,action,
+with a view of,30,semantic,
+at head of,30,geo,on
+work on,30,semantic,
+balanced on,29,action,on
+standing up against,29,geo,overlap
+looks into,29,action,
+walks next to,29,geo,next to
+attending to,29,semantic,
+touching a,29,geo,overlap
+are from,29,semantic,
+about to kick,29,action,
+walks by,29,action,
+made by,29,semantic,
+sits parked next to,29,geo,next to
+sit together on,29,action,
+docked next to,29,geo,next to
+laying against,29,geo,overlap
+sitting in the middle of,29,geo,in
+examines,29,action,
+fallen on,29,semantic,
+lying in front of,29,geo,in front of
+embracing,29,action,
+shading,29,action,
+securing,29,action,
+laid on,29,action,on
+laden with,29,semantic,
+flips,29,semantic,
+smiles as,29,action,
+ride down,29,geo,under
+flies above,29,geo,above
+floats in,29,action,in
+hangs above,29,geo,above
+reading on,29,action,
+snowboarding,29,action,
+jumping up,29,geo,above
+jumps off,29,action,
+reclining on,29,action,on
+walking around with,29,geo,near
+filming,29,action,
+fixed to,29,semantic,
+lined up with,29,geo,above
+ordering,29,action,
+at the bottom of,29,geo,under
+preparing for,29,action,
+to board,29,semantic,
+handling,29,action,
+standing atop,29,geo,on
+in corner of,29,geo,in
+being towed by,29,semantic,
+holds on to,29,action,
+travel down,29,geo,under
+stopped,29,action,
+windsurfing in,28,semantic,
+leaves,28,action,
+with focus on,28,semantic,
+scattered in,28,semantic,
+riding across,28,geo,next to
+riding by,28,action,on
+mixing,28,action,
+takes off from,28,semantic,
+lying on a,28,action,on
+lying down,28,geo,under
+coming toward,28,geo,near
+sits above,28,geo,above
+walking outside,28,geo,next to
+skiing up,28,geo,above
+lay in,28,action,in
+matching,28,action,
+turning,28,action,
+sitting side by side,28,geo,next to
+laying out on,28,action,
+with her,28,semantic,
+waiting by,28,action,
+opened,28,action,
+being ridden by,28,action,on
+on each side of,28,geo,on
+illuminated by,28,action,
+parked between,28,geo,next to
+investigating,28,action,
+headed down,28,geo,under
+posing,28,action,
+parked inside,28,geo,in
+pose in front of,28,geo,in front of
+preparing to eat,28,action,
+full,28,semantic,
+jumps on,28,action,
+relaxes on,28,action,on
+stacked with,28,semantic,
+jumping high on,28,geo,above
+standing beneath,28,geo,under
+lying close to,28,geo,near
+swim in,27,action,in
+with white,27,semantic,
+baked into,27,geo,in
+surfs in,27,action,
+crouching behind,27,geo,behind
+decorated in,27,action,
+skate boarding on,27,action,
+sits inside of,27,geo,in
+sit under,27,geo,under
+driving a,27,action,
+sitting on top of a,27,geo,on
+surfboarding on,27,semantic,
+walking off,27,action,
+flanked by,27,semantic,
+spewing,27,action,
+clapping,27,action,
+sprays,27,action,
+moored in,27,action,in
+emerging from,27,semantic,
+sees,27,action,
+taking a nap on,27,semantic,
+are made of,27,semantic,
+after hitting,27,action,
+walking down a,27,geo,under
+flying from,27,action,
+getting ready to catch,27,action,
+walking a,27,action,
+soaring through,27,action,above
+pulling on,27,action,
+jumping from,27,action,
+hanging off of,27,semantic,
+playing tennis on,27,action,
+playing at,27,action,
+in a white,27,semantic,
+bordered by,27,action,
+peeking over,27,geo,above
+high up in,27,geo,above
+are covered with,27,action,overlap
+upon,27,geo,on
+installed in,27,action,in
+to cross,27,action,on
+being prepared on,27,semantic,
+opened on,27,semantic,
+left in,27,semantic,
+being fed,27,action,
+getting into,26,geo,in
+points,26,action,
+playing catch with,26,action,
+belong to,26,semantic,
+recording,26,action,
+pulling out,26,action,
+fighting in,26,action,
+overlook,26,action,above
+flying towards,26,geo,near
+falling to,26,semantic,
+taking out of,26,semantic,
+rolling into,26,geo,in
+riding with,26,action,on
+growing between,26,geo,next to
+bolted to,26,geo,overlap
+grooming,26,action,
+feed,26,action,
+in background,26,geo,behind
+rides in,26,action,on
+in bottom of,26,geo,in
+training,26,action,
+standing outside near,26,geo,near
+visiting,26,action,
+stare at,26,action,
+colored,26,action,
+peering over,26,geo,above
+being used as,26,semantic,
+sleeping on a,26,action,on
+lit by,26,semantic,
+sliding on,26,semantic,
+has thrown,26,semantic,
+skateboards down,26,geo,under
+sits on a,26,action,on
+makes its way down,26,geo,under
+bathing,26,action,
+sitting alongside,26,geo,next to
+walking onto,26,action,
+shown,26,action,
+seen behind,26,geo,behind
+anticipating,26,action,
+searching for,26,semantic,
+leaning into,26,action,overlap
+spanning,26,action,
+cross country skiing on,26,action,on
+ski down,26,geo,under
+walk with,26,action,
+stretched out on,26,action,on
+comes down,26,geo,under
+stand together in,26,action,
+hanging on to,25,semantic,
+runs along,25,geo,next to
+running alongside,25,geo,next to
+taking off into,25,geo,in
+grows on,25,action,on
+watching from,25,action,
+resting next to,25,geo,next to
+reveals,25,action,
+thrown by,25,action,
+photographs,25,action,
+being held in,25,action,
+in middle,25,geo,in
+parked across,25,geo,next to
+breaking in,25,semantic,
+ride in,25,action,on
+growing in a,25,action,in
+taxiing on,25,semantic,
+grazing in a,25,action,in
+pours,25,action,
+protects,25,action,
+grinds,25,action,
+driving over,25,geo,above
+set out on,25,semantic,
+drive on,25,semantic,
+located near,25,geo,near
+surfing with,25,action,
+surfing at,25,action,
+kicks up,25,geo,above
+looking around,25,geo,near
+looking out to,25,action,
+digging into,25,geo,in
+sitting down next to,25,geo,next to
+sit near,25,geo,near
+displayed with,25,action,
+mounting,25,action,on
+melted on,25,semantic,
+messing with,25,semantic,
+is riding,25,semantic,
+shooting,25,action,
+sheering,25,action,
+runs with,25,action,
+baking,25,action,
+spread out on,25,semantic,
+learning how to,25,semantic,
+crossed,25,action,
+coming in to,25,semantic,
+created by,25,semantic,
+closed,25,action,near
+standing wearing,25,action,
+laying underneath,25,geo,under
+standing next,25,action,
+celebrating with,25,action,
+pinned to,25,geo,overlap
+picks up,25,geo,above
+indicates,25,action,
+travels through,25,action,in
+playing on a,24,action,
+fronting,24,action,
+playing in front of,24,geo,in front of
+that have,24,semantic,
+to fly,24,action,
+installed on,24,semantic,
+pointed at,24,semantic,
+points to,24,action,
+laid out with,24,semantic,
+posing at,24,action,
+standing up holding,24,geo,above
+points at,24,action,
+riding over,24,geo,above
+standing behind a,24,geo,behind
+borders,24,action,
+falling in,24,semantic,
+grilling,24,action,
+water skiing on,24,action,on
+on womans,24,semantic,
+open with,24,semantic,
+overhanging,24,action,above
+stacked in,24,semantic,
+on display with,24,geo,on
+jumping above,24,geo,above
+being flown by,24,semantic,
+blooming in,24,action,
+with green,24,semantic,
+looking at h,24,action,
+being eaten by,24,semantic,
+held by a,24,action,
+places,24,action,
+are sitting in,24,action,in
+travels along,24,geo,next to
+sleeps in,24,action,in
+slices,24,action,
+crossing a,24,action,on
+smiles with,24,action,
+shaped like a,24,semantic,
+swimming through,24,action,in
+jumps to catch,24,action,
+smiling in front of,24,geo,in front of
+diving for,24,semantic,
+docked,24,action,
+has four,24,semantic,
+hugs,24,action,
+smiling in,24,action,
+nursing,24,action,
+driving in front of,24,geo,in front of
+set on top of,24,geo,on
+drives by,24,action,
+balances,24,action,
+seated,24,action,
+hanging down from,24,geo,under
+sitting across from,24,geo,next to
+looks down at,24,geo,under
+surfing a,24,action,
+juggling,23,action,
+swinging to hit,23,action,
+straddling,23,action,
+talking in,23,action,
+facing away from,23,geo,near
+wering,23,semantic,
+raised,23,action,
+goes by,23,action,next to
+standing next to a,23,geo,next to
+standing on top,23,geo,on
+is holding,23,semantic,
+standing across,23,geo,next to
+standing amongst,23,geo,near
+flying in front of,23,geo,in front of
+floating along,23,geo,next to
+are underneath,23,geo,under
+below a,23,geo,under
+to reach,23,semantic,
+getting ready to cut,23,action,
+parallel to,23,geo,next to
+to return,23,semantic,
+gazing at,23,semantic,
+staring out of,23,semantic,
+wearing a pair of,23,semantic,
+reaching to catch,23,action,
+fighting,23,action,
+attempts to hit,23,action,
+drives along,23,geo,next to
+splashing around,23,geo,near
+snowboards down,23,geo,under
+shopping in,23,semantic,
+swims in,23,action,in
+set up in,23,geo,above
+built on,23,semantic,
+dressed,23,semantic,
+hung from,23,semantic,
+taking a picture of,23,semantic,
+hanging out in,23,semantic,
+hanging under,23,geo,under
+hanging with,23,semantic,
+nibbling on,23,action,
+sampling,23,action,
+drives past,23,action,next to
+leaning against a,23,geo,overlap
+spinning,23,action,
+skateboards on,23,action,
+lit up on,23,geo,above
+sitting together,23,action,
+jutting out of,23,semantic,
+by the side of,23,geo,next to
+looks through,23,action,
+sitting in between,23,geo,in
+decorated,23,action,
+sleep on,23,action,on
+smiles while holding,23,action,
+smiling and holding,23,action,
+cuddling with,23,action,
+in on,23,semantic,
+heading toward,23,geo,near
+passing on,23,action,next to
+garnished with,23,semantic,
+with some,22,semantic,
+poses next to,22,geo,next to
+tucked under,22,geo,under
+powering,22,action,
+trying to ride,22,action,on
+walk near,22,geo,near
+cresting in,22,semantic,
+preparing to fly,22,action,
+cuddling,22,action,
+walk,22,action,
+prepares to,22,action,
+stands against,22,geo,overlap
+huddled with,22,semantic,
+laying inside,22,geo,in
+assembling,22,action,
+assisting,22,action,
+ready to throw,22,action,
+feeding in,22,action,
+reflected,22,action,
+looking down on,22,geo,under
+looking at her,22,action,
+water,22,semantic,
+walking and talking on,22,action,
+skating,22,action,
+sitting up on,22,geo,above
+sitting up in,22,geo,above
+reaching towards,22,geo,near
+on white,22,semantic,
+reaches,22,action,
+going to hit,22,action,
+decorates,22,action,
+n,22,semantic,
+drink from,22,action,
+running for,22,action,
+waiting with,22,action,
+walks near,22,geo,near
+leaning towards,22,geo,near
+waits on,22,action,
+stating,22,action,
+gets ready to,22,semantic,
+wearing dark,22,semantic,
+shaving,22,action,
+show,22,action,
+showing on,22,action,
+sipping,22,action,
+making a,22,action,
+driving behind,22,geo,behind
+smiling holding,22,action,
+lounges on,22,action,on
+in a red,22,semantic,
+awaits,22,action,
+bottom of,22,geo,under
+washing up on,22,geo,above
+lays on top of,22,geo,on
+offering,22,action,
+pushed into,21,action,
+pushed up to,21,geo,above
+over top of,21,geo,above
+letting,21,action,
+packed in,21,semantic,
+painted like,21,semantic,
+fly through,21,action,in
+with red,21,semantic,
+can be seen through,21,semantic,
+sitting next to a,21,geo,next to
+descending,21,action,
+releasing,21,action,
+at an,21,semantic,near
+kick,21,action,
+by the,21,semantic,next to
+fixes,21,action,
+fishing in,21,semantic,
+racing in,21,action,
+outside a,21,geo,next to
+lit up with,21,geo,above
+pushed against,21,geo,overlap
+skis on,21,action,on
+para sailing in,21,action,in
+holding h,21,action,
+wearing grey,21,semantic,
+crouched behind,21,geo,behind
+walk past,21,action,next to
+forming in,21,action,
+pose on,21,action,
+flying overhead,21,geo,above
+landed on,21,action,on
+waiting next to,21,geo,next to
+straightening,21,action,
+bringing,21,action,
+back to,21,semantic,
+grows in,21,action,in
+sits inside,21,geo,in
+displayed,21,action,
+retrieving,21,action,
+seated in front of,21,geo,in front of
+walks past,21,action,next to
+eating near,21,geo,near
+observe,21,action,
+runs across,21,geo,next to
+on bathroom,21,geo,on
+hit by,21,action,
+winding up for,21,geo,above
+sitting close to,21,geo,near
+batting at,21,action,
+ascending into,21,geo,in
+stopped by,21,action,
+moored at,21,semantic,
+set for,21,semantic,
+kneeling in front of,21,geo,in front of
+stocked with,21,semantic,
+appears to be,21,semantic,
+dribbling,21,action,
+shaking hands over,21,geo,above
+shopping at,21,semantic,
+shaded by,21,semantic,
+approach,21,action,
+docked near,21,geo,near
+setting up,21,geo,above
+jumping up to hit,21,geo,above
+upside down on,21,geo,under
+surrounded,21,action,
+is sitting on,21,semantic,
+casting,21,action,
+misses,21,action,
+being watched by,21,semantic,
+parked out on,21,semantic,
+in the air above,20,geo,above
+in the center of,20,geo,in
+blocked by,20,semantic,
+throwing up,20,geo,above
+trekking through,20,semantic,
+to get,20,semantic,
+slicing up,20,geo,above
+attempting to catch,20,action,
+positioned on,20,semantic,
+holding her,20,action,
+illuminate,20,action,
+is surrounded by,20,semantic,
+anchored on,20,semantic,
+stands above,20,geo,above
+practicing on,20,semantic,
+packing,20,action,
+flying low to,20,action,
+presenting,20,action,
+waxing,20,action,
+are alongside,20,semantic,next to
+lifting up,20,geo,above
+learning to,20,semantic,
+skiing at,20,action,
+outside near,20,geo,near
+goes to hit,20,action,
+stopped next to,20,geo,next to
+serve,20,action,
+walking while holding,20,action,
+set up,20,geo,above
+mounted on top of,20,geo,on
+moves through,20,action,in
+putting together,20,action,
+reaches into,20,action,
+on to,20,semantic,
+open to,20,semantic,
+fills,20,action,
+fighting for,20,action,
+walking along side,20,geo,next to
+grazing by,20,semantic,
+on the top of,20,geo,on
+wind surfing in,20,action,in
+sailing,20,action,
+selecting,20,action,
+cooked in,20,action,in
+spread on,20,action,on
+being cut by,20,action,
+delivering,20,action,
+looking away from,20,geo,near
+looking out into,20,action,
+looking out from,20,action,
+grazing through,20,semantic,
+wait on,20,action,
+standing besides,20,geo,next to
+standing side by side in,20,geo,next to
+tall,20,semantic,
+taxiing down,20,geo,under
+washing on,20,action,
+rides up,20,geo,above
+divides,20,action,
+cooks,20,action,
+hanging onto,20,semantic,
+displayed next to,20,geo,next to
+display,20,action,
+sits outside,20,geo,next to
+sits parked on,20,action,on
+sits upon,20,geo,on
+riding next to,20,geo,next to
+warning,20,action,
+half full of,20,semantic,
+rolling onto,20,semantic,
+engaging in,20,semantic,
+is under,20,semantic,under
+in a blue,20,semantic,
+connecting,20,action,
+are flying in,20,action,in
+with open,20,semantic,
+coming,20,action,
+walks to,20,action,
+on  the,20,semantic,
+on back of a,20,geo,on
+wandering around,20,geo,near
+turning onto,20,action,
+staring into,20,geo,in
+framed by,20,semantic,
+formed on,20,action,
+piled in,20,semantic,
+piled on top of,20,geo,on
+getting ready for,20,semantic,
+getting off of,20,semantic,
+passing in front of,20,geo,in front of
+gathering,20,action,
+traveling next to,20,geo,next to
+skiing over,19,geo,above
+at the base of,19,geo,under
+pointing towards,19,geo,near
+for sale,19,semantic,
+parked on a,19,action,on
+for sale in,19,semantic,
+sitting before,19,geo,in front of
+walking from,19,action,
+of  a,19,semantic,
+adding,19,action,
+sitting along side of,19,geo,next to
+roaming in,19,semantic,
+on bottom,19,geo,on
+with black,19,semantic,
+stored in,19,action,in
+leaned over eating,19,geo,above
+leaned over,19,geo,above
+waiting to,19,action,
+hands,19,action,
+shown at,19,action,
+shines through,19,action,
+shaped,19,semantic,
+kneels on,19,action,on
+ready to swing at,19,action,
+reflection of,19,action,
+sitting down in front of,19,geo,in front of
+on the front of,19,geo,on
+ready to eat,19,action,
+reading in,19,action,
+floating,19,action,
+going in,19,semantic,
+with two,19,semantic,
+kisses,19,action,
+using h,19,action,
+looking across,19,geo,next to
+seeing,19,action,
+seated around,19,geo,near
+reflects in,19,action,
+on right,19,geo,on
+sitting outside in,19,geo,next to
+sitting outside at,19,geo,next to
+standing alone in,19,action,
+kneeling,19,action,
+border,19,action,
+standing around on,19,geo,near
+sit with,19,action,
+on in,19,semantic,
+snuggling with,19,semantic,
+crashing against,19,geo,overlap
+high above,19,geo,above
+cover with,19,action,overlap
+in action,19,semantic,
+crossed over,19,geo,above
+cross country skiing through,19,action,on
+swing at,19,action,
+being carried by,19,action,
+standing side by side with,19,geo,next to
+marching down,19,geo,under
+making its way down,19,geo,under
+traveling with,19,semantic,
+that is,19,semantic,
+tries to catch,19,action,
+playing a game with,19,action,
+in green,19,semantic,
+being pulled on,19,semantic,
+laughing,19,action,
+in progress with,19,semantic,
+kneeling down in,19,geo,under
+kneeling by,19,action,
+pulling away from,19,geo,near
+lie in,19,action,in
+laying behind,19,geo,behind
+paddling through,19,action,
+lighting,19,action,
+leaping for,19,semantic,
+being cut with,19,action,
+transports,18,action,
+partially submerged in,18,action,in
+poses in,18,action,
+parked along side,18,geo,next to
+parasailing on,18,semantic,
+foraging for,18,semantic,
+attatched to,18,semantic,
+running to hit,18,action,
+extended,18,action,
+riding in front of,18,geo,in front of
+displayed at,18,action,
+digging in,18,semantic,
+rolls down,18,geo,under
+in a mans,18,action,
+riding near,18,geo,near
+waiting behind,18,geo,behind
+being flown over,18,geo,above
+running from,18,action,
+running next to,18,geo,next to
+stand,18,action,
+stretching to hit,18,action,
+breaking,18,action,
+swung at,18,action,
+om,18,semantic,
+lands on,18,action,on
+pointing with,18,action,
+worn over,18,semantic,
+wearing green,18,semantic,
+in to,18,semantic,
+playing together in,18,action,
+piled with,18,semantic,
+posing behind,18,geo,behind
+sitting on side of,18,geo,on
+falls off,18,semantic,
+sitting side by side on,18,geo,next to
+telling,18,action,
+sniffing at,18,action,
+running into,18,action,
+lunging for,18,semantic,
+put on,18,semantic,
+opening up,18,geo,above
+on wrist of,18,geo,on
+wheeling,18,action,
+cutting with,18,action,
+look out,18,semantic,
+sucking,18,action,
+kicked up by,18,geo,above
+walks behind,18,geo,behind
+walks beside,18,geo,next to
+drizzled on,18,semantic,
+splashing on,18,semantic,
+kite surfing on,18,action,on
+sailing across,18,geo,next to
+rear,18,semantic,
+on the side,18,geo,on
+contains a,18,action,
+ride through,18,action,on
+rides a,18,action,on
+on hand of,18,geo,on
+running in a,18,action,in
+sits against,18,geo,overlap
+snow skiing down,18,geo,under
+talking at,18,action,
+laying over,18,geo,above
+clinging to,18,semantic,
+standing outside on,18,geo,next to
+taking off on,18,semantic,
+is in front of,18,semantic,in front of
+going along,18,geo,next to
+are flying,18,action,
+set against,18,geo,overlap
+pecking at,18,semantic,
+gets ready to throw,18,action,
+standing while holding,18,action,
+stands alone in,18,action,
+holding up a,18,geo,above
+choosing,18,action,
+flushing,18,action,
+flying into,18,action,
+skating at,18,action,
+smiles,18,action,
+dressed up,18,semantic,
+moving towards,18,geo,near
+float in,18,action,in
+fly above,18,geo,above
+match,18,semantic,
+anchored at,18,semantic,
+following behind,18,geo,behind
+climbing into,18,action,
+made into,18,semantic,
+silhouetted against,18,geo,overlap
+middle of,18,semantic,
+mixed in,18,semantic,
+hunched over,18,geo,above
+gather at,18,semantic,
+slides down,18,geo,under
+gather on,18,semantic,
+in red,18,semantic,
+perching on,18,action,on
+are sitting at,18,action,
+playing in a,18,action,in
+being loaded with,18,semantic,
+being led by,18,semantic,
+in top of,17,geo,in
+in motion on,17,semantic,
+trying to,17,semantic,
+being used by,17,semantic,
+lapping,17,action,
+chews on,17,action,
+being cooked in,17,action,in
+landing at,17,semantic,
+caught in,17,action,
+caught by,17,action,
+atop of,17,geo,on
+winding up to throw,17,geo,above
+parking on,17,semantic,
+stands before,17,geo,in front of
+viewed from,17,semantic,
+on board,17,geo,on
+scattered around,17,geo,near
+observes,17,action,
+left out on,17,semantic,
+crouching in,17,action,
+skiing down a,17,geo,under
+galloping through,17,semantic,
+are lying on,17,action,on
+aimed at,17,semantic,
+next to a lot of,17,geo,next to
+attacking,17,action,
+para sailing on,17,action,
+attempting,17,action,
+cuts through,17,action,
+blooming on,17,action,
+are beneath,17,semantic,under
+poking through,17,semantic,
+snow boarding down,17,geo,under
+hauls,17,action,
+laying around,17,geo,near
+parked next to a,17,geo,next to
+relax on,17,semantic,
+fastened to,17,geo,overlap
+about to,17,semantic,
+trying to block,17,semantic,
+tries to hit,17,action,
+running by,17,action,
+traveling near,17,geo,near
+lit on,17,semantic,
+lies next to,17,geo,next to
+lined up in front of,17,geo,in front of
+building,17,action,
+built around,17,geo,near
+adorn,17,semantic,
+up to bat at,17,geo,above
+coming in from,17,semantic,
+sits outside of,17,geo,next to
+rest in,17,action,in
+putting up,17,geo,above
+ride on top of,17,geo,on
+revealing,17,action,
+fallen from,17,semantic,
+rests,17,action,
+riding atop,17,geo,on
+being flown at,17,semantic,
+goes through,17,action,in
+taking pictures with,17,semantic,
+dipping,17,action,
+taking picture with,17,semantic,
+lying down with,17,geo,under
+on middle of,17,geo,on
+spreads,17,action,
+has on it a,17,semantic,
+looks out of,17,action,
+extending from,17,action,overlap
+prepares for,17,action,
+flying high above,17,geo,above
+go down,17,geo,under
+can be seen in,17,action,in
+looking up to,17,geo,above
+goes over,17,geo,above
+wearing a green,17,semantic,
+flying off,17,action,
+being displayed in,17,action,in
+carries a,17,action,
+decorated like,17,action,
+on feet of,17,geo,on
+rides past,17,action,on
+separated from,17,semantic,
+moving past,17,action,
+moving toward,17,geo,near
+have on,17,semantic,
+slicing into,17,action,
+towering above,17,geo,above
+docked by,17,semantic,
+reaching toward,17,geo,near
+reaching out,17,action,
+standing in between,17,geo,in
+standing on back of,17,geo,on
+stand outside,17,geo,next to
+flies across,17,geo,next to
+jumps to hit,17,action,
+coming out,17,semantic,
+wiping out on,17,semantic,
+has an open,17,semantic,
+navigating,17,action,
+stuffing,17,action,
+dot,17,semantic,
+holding down,17,geo,under
+surfing down,17,geo,under
+surfing on a,17,action,on
+crashed into,16,geo,in
+sitting outside with,16,geo,next to
+nailed to,16,geo,overlap
+block,16,semantic,
+enters,16,action,
+throughout,16,geo,in
+thrown to,16,action,
+wearing a yellow,16,semantic,
+sitting out in,16,action,
+sitting on top,16,geo,on
+decorate,16,action,
+holding on,16,action,
+bending down to,16,geo,under
+wrapped,16,action,overlap
+bends,16,action,
+pictured on,16,action,on
+passing underneath,16,geo,under
+crouches on,16,action,on
+smiles at,16,action,
+scattered about,16,semantic,
+run along,16,geo,next to
+sticking up from,16,geo,above
+small,16,semantic,
+with head in,16,semantic,
+gathered,16,action,near
+placed,16,action,
+gathered near,16,geo,near
+in hands of,16,semantic,
+traveling up,16,geo,above
+at the foot of,16,geo,under
+crash on,16,semantic,
+dancing with,16,action,
+parked before,16,geo,in front of
+tucked in,16,semantic,
+top,16,geo,on
+baby,16,semantic,
+look,16,semantic,
+on display behind,16,geo,on
+getting ready to kick,16,action,
+getting ready to ride,16,action,on
+parked outside on,16,geo,next to
+being held by a,16,action,
+between two,16,geo,next to
+are outside,16,geo,next to
+has a left,16,semantic,
+dancing on,16,action,
+high on,16,geo,above
+leaning in,16,action,
+that looks like,16,semantic,
+blowing,16,action,
+taken from,16,semantic,
+pulling up,16,geo,above
+walking holding,16,action,
+squatting in,16,semantic,
+has just hit,16,semantic,
+rests against,16,geo,overlap
+wait,16,action,
+has left,16,semantic,
+are full of,16,semantic,
+low in,16,semantic,
+facing group of,16,geo,near
+is open,16,semantic,
+gliding on,16,semantic,
+concentrating on,16,semantic,
+driving near,16,geo,near
+looking out on,16,action,
+laughing with,16,semantic,
+strewn on,16,semantic,
+ten,16,semantic,
+about to fly,16,action,
+has red,16,semantic,
+growing on a,16,action,on
+posted in,16,semantic,
+served,16,action,
+drinking water from,16,action,
+sitting and eating,16,action,
+on opposite side of,16,geo,on
+has a black,16,semantic,
+pushed under,16,geo,under
+shaking hands,16,action,
+relaxes in,16,semantic,
+drinking from a,16,action,
+bunting,16,action,
+hs,16,semantic,
+walking up to,16,geo,above
+has a large,16,semantic,
+reaching in,16,action,
+jumping up on,16,geo,above
+fishing on,16,semantic,
+reach,16,semantic,
+rared back with,16,semantic,
+out into,16,geo,in
+drags,16,action,
+dotted with,16,semantic,
+doing tricks with,16,semantic,
+swimming close to,16,geo,near
+make up,16,geo,above
+has green,16,semantic,
+reading to,16,action,
+being fed by,16,semantic,
+laying down under,16,geo,under
+side by side with,16,geo,next to
+in progress,16,semantic,
+walks towards,16,geo,near
+pawing at,16,semantic,
+heading to,16,semantic,
+sliding into,16,geo,in
+sleeps next to,16,geo,next to
+walk next to,15,geo,next to
+lies down on,15,geo,under
+headed towards,15,geo,near
+is cluttered with,15,semantic,
+in from of,15,semantic,
+gets ready to swing,15,action,
+of light on,15,semantic,
+on a silver,15,semantic,
+walks toward,15,geo,near
+trying to feed,15,action,
+trying,15,action,
+types on,15,semantic,
+writing,15,action,
+yellow,15,semantic,
+lined up by,15,geo,above
+shown next to,15,geo,next to
+sweeping,15,action,
+swinging for,15,action,
+grazing behind,15,geo,behind
+fell off,15,semantic,
+holding a ten,15,action,
+laying together on,15,action,
+make their way down,15,geo,under
+on wall of,15,geo,on
+on tree,15,geo,on
+opened to,15,semantic,
+with raised,15,semantic,
+closing,15,action,
+dressed like,15,semantic,
+has blue,15,semantic,
+surrounded with,15,semantic,
+relaxing,15,action,
+lean against,15,geo,overlap
+illuminates,15,action,
+jumping onto,15,action,
+are surrounding,15,geo,near
+in back,15,geo,behind
+leaned up against,15,geo,overlap
+are walking in,15,action,in
+walking together with,15,action,
+near top of,15,geo,near
+nearing,15,action,near
+supported by,15,action,
+on one side of,15,geo,on
+jumping a,15,action,
+pulling in to,15,action,
+waving at,15,action,
+swings a,15,action,
+low to,15,semantic,
+lying across,15,geo,next to
+lying beside,15,geo,next to
+stacked,15,action,
+added on,15,semantic,
+sits underneath,15,geo,under
+sitting amongst,15,geo,near
+pull,15,action,
+in flight,15,semantic,
+in dark,15,semantic,
+dripping from,15,semantic,
+climbing out of,15,action,
+riding behind,15,geo,behind
+has open,15,semantic,
+designed to look like,15,semantic,
+comprised of,15,semantic,
+talking by,15,action,
+flying down,15,geo,under
+pouring into,15,action,
+prepared with,15,action,
+along edge of,15,geo,next to
+blooming inside,15,geo,in
+spraying from,15,action,
+consuming,15,action,
+sitting in back of,15,geo,behind
+looking outside,15,geo,next to
+kicking a,15,action,
+roaming through,15,semantic,
+on inside of,15,geo,on
+grouped with,15,semantic,
+rides on top of,15,geo,on
+sitting parked on,15,action,on
+sitting together in,15,action,
+sitting together at,15,action,
+leaning out,15,action,
+hidden behind,15,geo,behind
+posing near,15,geo,near
+kneeling behind,15,geo,behind
+kneeling down with,15,geo,under
+hooked to,15,geo,overlap
+stopped along,15,geo,next to
+excited about,15,semantic,
+rises above,15,geo,above
+entertaining,15,action,
+apart from,15,semantic,
+holding in,15,action,
+look like,15,semantic,
+skate boarding down,15,geo,under
+parked around,15,geo,near
+parked on side,15,geo,on
+skiing has,15,action,
+to enter,15,semantic,
+parking in,15,semantic,
+sitting while holding,15,action,
+standing together near,15,geo,near
+standing very close to,15,geo,near
+growing under,15,geo,under
+rounding,15,action,
+scratching,15,action,
+drying,15,action,
+running up,15,geo,above
+led by,15,semantic,
+passing down,15,geo,under
+getting in,15,semantic,
+to see,15,semantic,
+skateboarding over,15,geo,above
+skateboarding up,15,geo,above
+skies down,15,geo,under
+gets ready to serve,15,action,
+peering into,15,geo,in
+being reflected in,15,action,in
+placed onto,15,semantic,
+an,15,semantic,
+hanging in a,15,semantic,
+holds an,15,action,
+landing in,15,semantic,
+sticks out of,15,action,overlap
+rubbing against,15,geo,overlap
+running around in,15,geo,near
+stands outside,15,geo,next to
+pet,15,semantic,
+in mouth of,15,semantic,
+are sitting on a,15,action,on
+in view of,15,semantic,
+traveling by,14,semantic,
+headed toward,14,geo,near
+lit up by,14,geo,above
+lined up next to,14,geo,next to
+lined up near,14,geo,near
+in the air over,14,geo,above
+worn with,14,semantic,
+running over,14,geo,above
+handing out,14,semantic,
+hang over,14,geo,above
+running beside,14,geo,next to
+chatting on,14,semantic,
+rubbing up against,14,geo,overlap
+rows,14,semantic,
+wandering through,14,semantic,
+cast on,14,semantic,
+behind an,14,geo,behind
+smiling near,14,geo,near
+smiling over,14,geo,above
+skateboarding in front of,14,geo,in front of
+curls up on,14,geo,above
+bending over in,14,geo,above
+to the left of,14,geo,next to
+to serve,14,action,
+frosting,14,action,
+playing frisbee with,14,action,
+passes through,14,action,in
+caused by,14,semantic,
+kneeling with,14,action,
+hanging out at,14,semantic,
+scooping,14,action,
+walks in front of,14,geo,in front of
+framed on,14,semantic,
+partially covering,14,action,overlap
+parking,14,action,
+attaching,14,action,
+playing outside with,14,geo,next to
+biking down,14,geo,under
+eaten by,14,action,
+hovering in,14,action,above
+kite surfing in,14,action,in
+very close to,14,geo,near
+encloses,14,action,
+growing outside,14,geo,next to
+on building,14,geo,on
+posing around,14,geo,near
+sitting together with,14,action,
+bites,14,action,
+form,14,action,
+poking,14,action,
+standing with a,14,action,
+laying down near,14,geo,near
+laying back on,14,action,
+laying between,14,geo,next to
+driving toward,14,geo,near
+roaming around,14,geo,near
+walks around,14,geo,near
+splashes,14,action,
+cooling on,14,semantic,
+speaking with,14,action,
+hidden in,14,action,in
+tending,14,action,
+preparing to cut,14,action,
+flying thru,14,action,
+flying up in,14,geo,above
+standing side by side on,14,geo,next to
+resting on a,14,action,on
+paddle boarding in,14,action,
+sitting holding,14,action,
+losing,14,action,
+looks on as,14,action,
+looking to,14,action,
+looking out onto,14,action,
+looking from,14,action,
+splashing through,14,semantic,
+waving to,14,action,
+is filled with,14,semantic,
+sitting alone on,14,action,
+competing on,14,semantic,
+along the side of,14,geo,next to
+gliding down,14,geo,under
+glides down,14,geo,under
+wearing yellow,14,semantic,
+resting under,14,geo,under
+climbing over,14,geo,above
+set into,14,geo,in
+resembles,14,action,
+grazing with,14,semantic,
+are between,14,semantic,next to
+lying over,14,geo,above
+being flown,14,semantic,
+watering,14,action,
+up to bat during,14,geo,above
+in action with,14,semantic,
+adorns,14,semantic,
+has front,14,semantic,
+making up,14,geo,above
+lying underneath,14,geo,under
+sit behind,14,geo,behind
+coming off of,14,semantic,
+hiking through,14,semantic,
+jumps with,14,action,
+out by,14,semantic,
+leading up,14,geo,above
+lead up to,14,geo,above
+on right side,14,geo,on
+on other side,14,semantic,
+studying,14,action,
+near front of,14,geo,near
+moving around,14,geo,near
+mounted next to,14,geo,next to
+drinking at,14,action,
+watch as,14,action,
+reflecting off of,14,action,
+surfboarding in,14,semantic,
+dressed up with,14,semantic,
+setting,14,action,
+standing in the middle of,14,geo,in
+lays next to,14,geo,next to
+used on,14,action,
+watched by,14,action,
+laying down by,14,geo,under
+comes from,14,semantic,
+or,14,semantic,
+going toward,14,geo,near
+ont,14,semantic,
+water skiing in,14,action,in
+inspects,14,action,
+in motion,14,semantic,
+being herded by,14,semantic,
+gesturing with,14,semantic,
+gets,14,action,
+perpendicular to,14,geo,next to
+performing tricks on,14,action,
+performing trick on,14,action,
+perched atop,14,geo,on
+lined by,14,semantic,
+trying on,14,semantic,
+getting onto,14,semantic,
+having fun with,14,semantic,
+walk towards,14,geo,near
+leave,14,semantic,
+smiles next to,14,geo,next to
+lifted off,14,semantic,
+is by,14,semantic,next to
+at the side of,14,geo,next to
+gathered together,13,action,near
+gathered by,13,action,near
+gather in,13,semantic,
+in front of white,13,geo,in front of
+held up by,13,geo,above
+skiing near,13,geo,near
+skiing on a,13,action,on
+sleeping by,13,action,
+trying to fix,13,semantic,
+travelling through,13,semantic,
+in players,13,action,
+get on,13,semantic,
+installing,13,action,
+reaching out to catch,13,action,
+water skiing behind,13,geo,behind
+grazes,13,action,
+on which,13,semantic,
+going up and down,13,geo,under
+going towards,13,geo,near
+out at,13,semantic,
+stand beside,13,geo,next to
+stand together,13,action,
+sharpening,13,action,
+swinging h,13,action,
+are close to,13,geo,near
+on the corner of,13,geo,on
+on the side of a,13,geo,on
+laying in a,13,action,in
+setting at,13,semantic,
+shades,13,action,
+surfing over,13,geo,above
+being driven down,13,geo,under
+used to cut,13,action,
+reflect,13,action,
+reflected off,13,action,
+missed,13,action,
+moves on,13,action,
+near edge of,13,geo,near
+with view of,13,semantic,
+leaking,13,action,
+rared back at,13,semantic,
+jumping in the air on,13,geo,above
+coming on,13,semantic,
+with a few,13,semantic,
+outside at,13,geo,next to
+goes to,13,semantic,
+in flight over,13,geo,above
+is on top of,13,semantic,on
+in  a,13,semantic,
+floating above,13,geo,above
+flies high above,13,geo,above
+brings,13,semantic,
+lying by,13,action,
+lying with,13,action,
+grinding down,13,geo,under
+grazing together in,13,semantic,
+support,13,action,
+winds up to throw,13,geo,above
+next to another,13,geo,next to
+set next to,13,geo,next to
+standing on one,13,action,on
+wading into,13,geo,in
+standing outside by,13,geo,next to
+climbs,13,action,
+climbing onto,13,action,
+gliding through,13,semantic,
+competing for,13,semantic,
+coming up to,13,geo,above
+sitting and holding,13,action,
+looking up from,13,geo,above
+bounces,13,action,
+being followed by,13,semantic,
+taking swing at,13,action,
+looking back at,13,action,
+sitting inside a,13,geo,in
+looks out over,13,geo,above
+looks toward,13,geo,near
+spread over,13,geo,above
+in background with,13,geo,behind
+boards,13,action,
+glowing on,13,semantic,
+growing on top of,13,geo,on
+keeps,13,semantic,
+strapped into,13,geo,in
+stretches,13,action,

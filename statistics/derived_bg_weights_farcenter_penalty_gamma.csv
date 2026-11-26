@@ -1,0 +1,4 @@
+criterion,bg_mean(bgfeat),fg_mean(bgfeat),separation_bg,gamma,S_used,weight,note
+size,0.257599,0.174231,0.083369,0.311465,0.083369,0.407003,
+center,0.869706,0.789473,0.080233,0.311465,0.080233,0.391696,center_bg=1-center
+semantic,0.132385,0.383358,-0.250972,0.311465,0.041233,0.201301,

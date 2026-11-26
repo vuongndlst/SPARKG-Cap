@@ -1,0 +1,5820 @@
+predicate,spatial,total_frequency
+on,on,418423
+in,in,181930
+next to,next_to,35277
+behind,overlap,34253
+near,next_to,32254
+on top of,on,22410
+in front of,overlap,18506
+at,next_to,16431
+by,next_to,15986
+on a,on,14657
+under,under,14612
+above,above,10171
+over,above,7558
+beside,next_to,7049
+on side of,next_to,6518
+in a,in,5728
+are on,on,5172
+inside,in,4383
+around,contains,3909
+down,under,3386
+are in,in,2968
+along,next_to,2935
+against,overlap,2705
+below,under,2636
+between,next_to,2511
+inside of,in,2482
+on front of,overlap,2423
+across,overlap,1787
+surrounded by,in,1783
+outside,next_to,1778
+through,overlap,1493
+underneath,under,1455
+containing,contains,1206
+beneath,under,1089
+touching,overlap,1036
+on back of,on,938
+contains,contains,850
+part of,in,834
+are behind,overlap,751
+in the background,overlap,751
+into,in,750
+outside of,next_to,740
+close to,next_to,696
+surrounding,contains,669
+is on,on,660
+in middle of,in,659
+next,next_to,644
+out of,overlap,564
+on the side of,next_to,558
+off,overlap,555
+front,overlap,519
+atop,on,505
+in the middle of,in,503
+beyond,overlap,494
+near a,next_to,486
+to right of,next_to,450
+alongside,next_to,444
+past,next_to,434
+among,next_to,427
+on the,on,422
+front of,overlap,399
+in front,overlap,397
+in back of,overlap,396
+on side,next_to,394
+to left of,next_to,382
+on top of a,on,367
+are on top of,on,357
+on top,on,349
+up,above,341
+behind a,overlap,339
+on bottom of,under,318
+sits next to,next_to,318
+across from,next_to,318
+towards,next_to,315
+sits in front of,overlap,282
+out in,in,280
+next to a,next_to,274
+in the background of,overlap,271
+in between,next_to,260
+at a,next_to,259
+on side of a,next_to,258
+are near,next_to,253
+left of,next_to,247
+nearby,next_to,245
+at top of,above,244
+seen through,overlap,232
+onto,on,227
+besides,next_to,220
+off of,overlap,217
+in front of a,overlap,216
+are under,under,213
+is in,in,210
+are on a,on,204
+on an,on,203
+standing outside of,next_to,202
+under a,under,193
+at end of,next_to,192
+on edge of,next_to,190
+by a,next_to,186
+inside a,in,186
+are at,next_to,181
+out on,on,180
+are next to,next_to,172
+toward,next_to,168
+are in front of,overlap,163
+surrounds,contains,163
+at edge of,next_to,161
+beside of,next_to,155
+along side of,next_to,155
+are in a,in,154
+on other side of,next_to,141
+in the,in,140
+are by,next_to,139
+are above,above,139
+bordering,next_to,136
+over a,above,136
+at bottom of,under,135
+are beside,next_to,135
+right of,next_to,135
+up to,next_to,134
+side of,next_to,133
+on front,overlap,132
+posing in front of,overlap,123
+seen in,in,120
+amongst,next_to,117
+shown on,on,113
+outside in,next_to,112
+growing next to,next_to,110
+up on,on,109
+surround,contains,108
+along side,next_to,103
+within,in,102
+up in,in,100
+on left side of,next_to,100
+on right side of,next_to,99
+sits near,next_to,99
+in an,in,98
+on the back of,on,97
+in the air,above,96
+parked on top of,on,93
+on left of,next_to,93
+visible through,overlap,92
+floating on top of,on,92
+stand in front of,overlap,91
+on surface of,on,91
+outside on,next_to,90
+overlooks,above,89
+away from,next_to,89
+up against,overlap,89
+view of,overlap,88
+are inside,in,88
+close up of,overlap,88
+at the top of,above,88
+on display,on,87
+are on side of,next_to,87
+parked alongside,next_to,86
+standing inside of,in,84
+are inside of,in,82
+out,overlap,80
+inside of a,in,79
+top of,on,79
+are over,above,78
+posing next to,next_to,77
+in the back of,overlap,77
+adjacent to,next_to,76
+on face of,on,75
+high in,above,75
+sleeping next to,next_to,75
+near by,next_to,74
+traveling over,above,72
+sitting outside of,next_to,71
+beside a,next_to,71
+on the other side of,next_to,71
+in center of,in,71
+on right of,next_to,71
+passing under,under,70
+back of,overlap,69
+visible on,on,68
+growing beside,next_to,68
+sits under,under,67
+shown in,in,66
+are around,contains,65
+sit next to,next_to,65
+on back,on,65
+laying in front of,overlap,64
+around a,contains,64
+hovering over,above,62
+stands beside,next_to,62
+seen from,next_to,61
+at side of,next_to,61
+above a,above,60
+placed next to,next_to,60
+on head of,on,60
+visible in,in,60
+at front of,overlap,59
+hanging in front of,overlap,59
+side by side,next_to,59
+on either side of,next_to,59
+hanging next to,next_to,59
+outside with,next_to,56
+at base of,next_to,56
+sit on top of,on,56
+hiding behind,overlap,55
+near to,next_to,55
+bent over,above,55
+fighting over,above,55
+amid,next_to,55
+in the distance,above,54
+sits behind,overlap,53
+opposite,next_to,53
+stands under,under,52
+driving alongside,next_to,52
+back,overlap,51
+laying down next to,next_to,51
+by side of,next_to,51
+are along,next_to,51
+sit in front of,overlap,51
+in side of,in,50
+under an,under,49
+suspended over,above,48
+walking on top of,on,48
+all over,above,47
+placed on top of,on,46
+flying next to,next_to,46
+laying inside of,in,45
+going under,under,44
+hangs over,above,44
+crossing over,above,44
+driving next to,next_to,44
+stacked on top of,on,44
+looks over,above,44
+covering a,above,43
+is behind,overlap,43
+sits beside,next_to,43
+smiling next to,next_to,43
+are below,under,42
+jumps over,above,42
+growing alongside,next_to,42
+hiding under,under,42
+leans over,above,41
+kneeling down next to,next_to,41
+passing over,above,41
+growing in front of,overlap,40
+amidst,next_to,40
+are on front of,overlap,40
+grazing next to,next_to,40
+resting on top of,on,39
+stand under,under,39
+squatting behind,overlap,39
+overhead,above,38
+traveling under,under,38
+stands on top of,on,38
+looking inside of,in,38
+on outside of,next_to,38
+outside by,next_to,38
+reaching over,above,37
+is next to,next_to,37
+are against,overlap,36
+laying beside,next_to,36
+from behind,overlap,36
+kneeling next to,next_to,35
+contain,contains,35
+poses in front of,overlap,34
+kiteboarding over,above,33
+stopped in front of,overlap,32
+is near,next_to,32
+sit atop,on,32
+walking alongside,next_to,32
+fly over,above,32
+parked inside of,in,32
+stands over,above,32
+are part of,in,31
+placed in front of,overlap,31
+placed near,next_to,30
+sitting beneath,under,30
+walks next to,next_to,29
+sits parked next to,next_to,29
+docked next to,next_to,29
+sitting in the middle of,in,29
+lying in front of,overlap,29
+flies above,above,29
+hangs above,above,29
+sits above,above,28
+pose in front of,overlap,28
+standing beneath,under,28
+crouching behind,overlap,27
+sits inside of,in,27
+sit under,under,27
+sitting on top of a,on,27
+peeking over,above,27
+overlook,above,26
+peering over,above,26
+sitting alongside,next_to,26
+seen behind,overlap,26
+running alongside,next_to,25
+resting next to,next_to,25
+located near,next_to,25
+sitting down next to,next_to,25
+sit near,next_to,25
+laying underneath,under,25
+playing in front of,overlap,24
+smiling in front of,overlap,24
+driving in front of,overlap,24
+set on top of,on,24
+standing next to a,next_to,23
+standing on top,on,23
+flying in front of,overlap,23
+are underneath,under,23
+below a,under,23
+sitting in between,next_to,23
+poses next to,next_to,22
+tucked under,under,22
+walk near,next_to,22
+walks near,next_to,22
+lays on top of,on,22
+over top of,above,21
+sitting next to a,next_to,21
+outside a,next_to,21
+crouched behind,overlap,21
+waiting next to,next_to,21
+sits inside,in,21
+seated in front of,overlap,21
+kneeling in front of,overlap,21
+shaking hands over,above,21
+docked near,next_to,21
+surrounded,contains,21
+in the air above,above,20
+is surrounded by,in,20
+stands above,above,20
+are alongside,next_to,20
+outside near,next_to,20
+stopped next to,next_to,20
+mounted on top of,on,20
+standing besides,next_to,20
+displayed next to,next_to,20
+sits outside,next_to,20
+riding next to,next_to,20
+is under,under,20
+piled on top of,on,20
+passing in front of,overlap,20
+traveling next to,next_to,20
+leaned over,above,19
+sitting down in front of,overlap,19
+high above,above,19
+cover with,above,19
+crossed over,above,19
+riding in front of,overlap,18
+waiting behind,overlap,18
+being flown over,above,18
+running next to,next_to,18
+worn over,above,18
+posing behind,overlap,18
+walks behind,overlap,18
+walks beside,next_to,18
+contains a,contains,18
+is in front of,overlap,18
+fly above,above,18
+following behind,overlap,18
+hunched over,above,18
+atop of,on,17
+next to a lot of,next_to,17
+are beneath,under,17
+parked next to a,next_to,17
+traveling near,next_to,17
+lies next to,next_to,17
+lined up in front of,overlap,17
+sits outside of,next_to,17
+ride on top of,on,17
+goes over,above,17
+towering above,above,17
+standing in between,next_to,17
+stand outside,next_to,17
+sitting on top,on,16
+passing underneath,under,16
+gathered near,next_to,16
+on display behind,overlap,16
+are outside,next_to,16
+pushed under,under,16
+sleeps next to,next_to,16
+walk next to,next_to,15
+shown next to,next_to,15
+surrounded with,contains,15
+are surrounding,contains,15
+near top of,next_to,15
+nearing,next_to,15
+lying beside,next_to,15
+sits underneath,under,15
+blooming inside,in,15
+sitting in back of,overlap,15
+on inside of,in,15
+rides on top of,on,15
+hidden behind,overlap,15
+posing near,next_to,15
+kneeling behind,overlap,15
+rises above,above,15
+stands outside,next_to,15
+lined up next to,next_to,14
+lined up near,next_to,14
+in the air over,above,14
+hang over,above,14
+running beside,next_to,14
+behind an,overlap,14
+smiling near,next_to,14
+smiling over,above,14
+skateboarding in front of,overlap,14
+bending over in,above,14
+walks in front of,overlap,14
+partially covering,above,14
+hovering in,above,14
+climbing over,above,14
+are between,next_to,14
+lying underneath,under,14
+sit behind,overlap,14
+near front of,next_to,14
+mounted next to,next_to,14
+standing in the middle of,in,14
+lays next to,next_to,14
+smiles next to,next_to,14
+is by,next_to,14
+in front of white,overlap,13
+stand beside,next_to,13
+are close to,next_to,13
+near edge of,next_to,13
+outside at,next_to,13
+in flight over,above,13
+is on top of,on,13
+flies high above,above,13
+next to another,next_to,13
+set next to,next_to,13
+looks out over,above,13
+spread over,above,13
+growing on top of,on,13
+rides next to,next_to,13
+seen in front of,overlap,13
+posted near,next_to,13
+folded over,above,13
+spanning over,above,13
+are touching,overlap,13
+soaring over,above,13
+look over,above,13
+seated near,next_to,13
+seated next to,next_to,13
+eating next to,next_to,13
+in on top of,on,13
+is above,above,13
+are across,overlap,12
+skiing next to,next_to,12
+sleeping inside of,in,12
+walk under,under,12
+passes over,above,12
+passes under,under,12
+under construction,under,12
+curled up next to,next_to,12
+cover in,above,12
+behind of,overlap,12
+pulled over on,above,12
+working behind,overlap,12
+talking in front of,overlap,12
+sits outside on,next_to,12
+outside in front of,overlap,12
+are beyond,overlap,12
+just above,above,12
+on the outside of,next_to,12
+surfing on top of,on,12
+suspended above,above,12
+lays down next to,next_to,12
+standing beside a,next_to,12
+visible behind,overlap,12
+on display in front of,overlap,12
+hovering above,above,12
+hang above,above,12
+drives next to,next_to,12
+running in front of,overlap,12
+stepping over,above,12
+sticking over,above,12
+is beside,next_to,12
+placed under,under,11
+balanced on top of,on,11
+stands underneath,under,11
+hanging outside of,next_to,11
+shown in front of,overlap,11
+shining over,above,11
+are off,overlap,11
+stand on top of,on,11
+are behind a,overlap,11
+rests beside,next_to,11
+surrounding a,contains,11
+wait behind,overlap,11
+waiting near,next_to,11
+stand over,above,11
+falling over,above,11
+built next to,next_to,11
+pulled over to,above,11
+displayed near,next_to,11
+talking next to,next_to,11
+are outside of,next_to,11
+splashing behind,overlap,11
+alongside of,next_to,11
+underneath a,under,11
+smiles in front of,overlap,11
+crashing behind,overlap,11
+posted above,above,11
+sleeping in front of,overlap,11
+in the air near,next_to,11
+is at,next_to,10
+are beside of,next_to,10
+are to right of,next_to,10
+kneeling down in front of,overlap,10
+standing outside next to,next_to,10
+lying down next to,next_to,10
+looking outside of,next_to,10
+stand outside of,next_to,10
+mounted inside of,in,10
+behind the,overlap,10
+next to an,next_to,10
+behind another,overlap,10
+soaring above,above,10
+covered of,above,10
+covering with,above,10
+are out in,in,10
+on display near,next_to,10
+walk alongside,next_to,10
+above the,above,10
+overflowing with,above,10
+out in front of,overlap,10
+graze next to,next_to,10
+overlooked by,above,10
+displayed in front of,overlap,10
+displayed behind,overlap,10
+sits beneath,under,10
+peaking over,above,10
+gathered under,under,10
+shake hands over,above,10
+positioned in front of,overlap,10
+posing beside,next_to,10
+walking underneath,under,10
+set in front of,overlap,10
+drives near,next_to,10
+blooming next to,next_to,10
+hung above,above,9
+hung over,above,9
+taking off over,above,9
+are near a,next_to,9
+flies near,next_to,9
+posed in front of,overlap,9
+are left of,next_to,9
+gather near,next_to,9
+from inside,in,9
+peeking out from under,under,9
+peeking out from behind,overlap,9
+gathered in front of,overlap,9
+parasailing over,above,9
+overhang,above,9
+on top level of,on,9
+on top a,on,9
+crosses over,above,9
+smiling under,under,9
+waiting outside of,next_to,9
+waiting outside,next_to,9
+coming under,under,9
+lined up behind,overlap,9
+climbing on top of,on,9
+standing in front of a,overlap,9
+are at edge of,next_to,9
+lays under,under,9
+stands inside,in,9
+stands atop,on,9
+hovers over,above,9
+hovers above,above,9
+being flown above,above,9
+laying down underneath,under,9
+wrapped inside,in,9
+talking near,next_to,9
+is shown in,in,9
+is inside,in,9
+shown behind,overlap,8
+in the distance behind,overlap,8
+galloping over,above,8
+buried under,under,8
+smiling behind,overlap,8
+built on top of,on,8
+piled on top,on,8
+gathered outside,next_to,8
+under mans,under,8
+hides behind,overlap,8
+leaning next to,next_to,8
+are on side of a,next_to,8
+rests on top of,on,8
+sitting outside next to,next_to,8
+posing on top of,on,8
+are in back of,overlap,8
+swimming on top of,on,8
+containing a,contains,8
+posted next to,next_to,8
+are on back of,on,8
+built above,above,8
+contained in,contains,8
+travels over,above,8
+sticking out from under,under,8
+are outside with,next_to,8
+is on the,on,8
+is on a,on,8
+bending over near,above,8
+is outside on,next_to,8
+situated next to,next_to,8
+walks over,above,8
+in back of a,overlap,8
+skateboarding next to,next_to,8
+gliding over,above,8
+nearby to,next_to,8
+outside of a,next_to,8
+lay next to,next_to,8
+stands nearby,next_to,8
+outside next to,next_to,8
+seated inside,in,8
+are on top of a,on,8
+kneeling beside,next_to,8
+flies low over,above,8
+standing outside in front of,overlap,8
+growing underneath,under,8
+huddled under,under,8
+on top of an,on,8
+taxiing in front of,overlap,8
+kissing under,under,8
+grazing in front of,overlap,8
+up above,above,8
+pulled up next to,next_to,8
+trailing behind,overlap,8
+on inside,in,8
+walking in between,next_to,8
+walking next to a,next_to,8
+playing next to,next_to,8
+are out on,on,8
+behind  a,overlap,7
+floating next to,next_to,7
+jumping on top of,on,7
+grazing beside,next_to,7
+graze near,next_to,7
+grows next to,next_to,7
+sits alongside,next_to,7
+pulled over,above,7
+crouching next to,next_to,7
+blooming behind,overlap,7
+walks alongside,next_to,7
+flies overhead,above,7
+kiteboarding on top of,on,7
+walk in front of,overlap,7
+kneeling over,above,7
+reaches over,above,7
+hanging underneath,under,7
+stands outside of,next_to,7
+set up in front of,overlap,7
+overgrown with,above,7
+over the top of,above,7
+overlapping,overlap,7
+sits parked in front of,overlap,7
+stacked next to,next_to,7
+stacked near,next_to,7
+nearest,next_to,7
+nears,next_to,7
+hangs near,next_to,7
+is shown on,on,7
+near the,next_to,7
+parked in between,next_to,7
+sits over,above,7
+parked underneath,under,7
+laying down in front of,overlap,7
+squatting next to,next_to,7
+directly behind,overlap,7
+walk beside,next_to,7
+passing next to,next_to,7
+relaxing under,under,7
+follows behind,overlap,7
+is against,overlap,7
+stopped near,next_to,7
+runs alongside,next_to,7
+perched next to,next_to,7
+anchored near,next_to,7
+rests next to,next_to,7
+piled in front of,overlap,7
+bent over in,above,7
+placed beside,next_to,7
+placed behind,overlap,7
+bent over on,above,7
+planted next to,next_to,7
+planted near,next_to,7
+rolling in over,above,7
+towers over,above,7
+beneath a,under,7
+from under,under,6
+lies on top of,on,6
+used inside of,in,6
+walking outside of,next_to,6
+planted in front of,overlap,6
+covering up,above,6
+placed over,above,6
+covered up with,above,6
+covering on,above,6
+covered on,above,6
+right next to,next_to,6
+rising above,above,6
+crashing near,next_to,6
+worn under,under,6
+built over,above,6
+piled next to,next_to,6
+crashing over,above,6
+are on bottom of,under,6
+beside of a,next_to,6
+posed next to,next_to,6
+are inside a,in,6
+located in front of,overlap,6
+located above,above,6
+located behind,overlap,6
+cooking inside of,in,6
+posing under,under,6
+rides over,above,6
+walks under,under,6
+posted in front of,overlap,6
+posted on top of,on,6
+passing near,next_to,6
+contending over,above,6
+contained by,contains,6
+stretching over,above,6
+leaping over,above,6
+is inside of,in,6
+leaping above,above,6
+rides atop,on,6
+passes in front of,overlap,6
+passing behind,overlap,6
+flying underneath,under,6
+crossing in front of,overlap,6
+is over,above,6
+squats behind,overlap,6
+squatting in front of,overlap,6
+lying alongside,next_to,6
+sitting parked next to,next_to,6
+being held over,above,6
+stacked behind,overlap,6
+bends over,above,6
+working near,next_to,6
+walking besides,next_to,6
+glides over,above,6
+stacked under,under,6
+waiting in front of,overlap,6
+resting in front of,overlap,6
+overflowing,above,6
+sit inside of,in,6
+flying beside,next_to,6
+sleeping underneath,under,6
+crouched over,above,6
+runs near,next_to,6
+going underneath,under,6
+stand nearby,next_to,6
+sticking up above,above,6
+set up near,next_to,6
+sleeping beside,next_to,6
+sleep under,under,6
+flowing near,next_to,6
+flowing underneath,under,6
+sit underneath,under,6
+sit outside,next_to,6
+standing around in front of,overlap,6
+floats above,above,6
+are visible in,in,6
+bending over on,above,6
+bending over to,above,6
+standing in back of,overlap,6
+hunched over on,above,6
+skiing in front of,overlap,6
+near end of,next_to,6
+standing on top of a,on,6
+breaking behind,overlap,6
+near an,next_to,6
+seen outside,next_to,6
+talking behind,overlap,6
+pulls up next to,next_to,6
+on display next to,next_to,6
+hovers on,above,6
+hangs next to,next_to,6
+on cover of,above,6
+hover over,above,6
+being pulled behind,overlap,6
+not under,under,6
+curled up inside,in,6
+displayed inside,in,6
+kneeling near,next_to,6
+kneeling down near,next_to,6
+standing up next to,next_to,6
+kneels next to,next_to,6
+knocked over,above,6
+stands beneath,under,6
+seated under,under,6
+driving underneath,under,6
+baked inside,in,6
+hanging beside,next_to,6
+are covering a,above,6
+in near,next_to,6
+shown above,above,6
+shown on top of,on,6
+traveling underneath,under,5
+sits in the middle of,in,5
+towering behind,overlap,5
+stands besides,next_to,5
+stands amidst,next_to,5
+hang near,next_to,5
+standing together next to,next_to,5
+tower over,above,5
+taking off near,next_to,5
+visible outside,next_to,5
+are next to a,next_to,5
+seen above,above,5
+seen near,next_to,5
+sits below,under,5
+curled under,under,5
+drooping outside of,next_to,5
+stands inside of,in,5
+flies in front of,overlap,5
+hovering,above,5
+bending over with,above,5
+on building near,next_to,5
+standing side by side next to,next_to,5
+huddled next to,next_to,5
+landing over,above,5
+next to large,next_to,5
+kept near,next_to,5
+on display inside,in,5
+near rear of,next_to,5
+being towed behind,overlap,5
+growing outside of,next_to,5
+growing inside of,in,5
+sits nearby,next_to,5
+near or,next_to,5
+sits amid,next_to,5
+sanding next to,next_to,5
+takes off over,above,5
+standing next to each other,next_to,5
+on hill behind,overlap,5
+close behind,overlap,5
+huddling under,under,5
+situated near,next_to,5
+staring over,above,5
+moving near,next_to,5
+moving over,above,5
+pulling over,above,5
+sailing on top of,on,5
+standing beside a ten,next_to,5
+moving besides,next_to,5
+visible above,above,5
+crouching in front of,overlap,5
+jumping in front of,overlap,5
+melted atop,on,5
+melted on top of,on,5
+sticking its head over,above,5
+waving next to,next_to,5
+set beside,next_to,5
+traveling in front of,overlap,5
+waiting beside,next_to,5
+jump over,above,5
+balancing on top of,on,5
+propped up in front of,overlap,5
+fly overhead,above,5
+sit parked next to,next_to,5
+lays near,next_to,5
+built in front of,overlap,5
+stand atop,on,5
+flying beneath,under,5
+stand beneath,under,5
+sit beside,next_to,5
+stopped behind,overlap,5
+stopped beside,next_to,5
+goes under,under,5
+sleeps beside,next_to,5
+lean over,above,5
+behind white,overlap,5
+over and in,above,5
+docked behind,overlap,5
+coming over,above,5
+outside under,under,5
+swimming next to,next_to,5
+arranged in front of,overlap,5
+lying inside of,in,5
+resting beside,next_to,5
+to side behind,overlap,5
+stored inside of,in,5
+are seen behind,overlap,5
+flying on top of,on,5
+parked beneath,under,5
+squat behind,overlap,5
+is out in,in,5
+is out on,on,5
+is outside in,next_to,5
+loom over,above,5
+looming over,above,5
+looms over,above,5
+under the,under,5
+in front of an,overlap,5
+is outside with,next_to,5
+behind train,overlap,5
+ride atop,on,5
+hidden under,under,5
+rides behind,overlap,5
+rides near,next_to,5
+thrown over,above,5
+traveling beneath,under,5
+traveling beside,next_to,5
+posted outside of,next_to,5
+posted under,under,5
+walks underneath,under,5
+peeking above,above,5
+smiles behind,overlap,5
+positioned next to,next_to,5
+positioned over,above,5
+extended over,above,5
+travelling near,next_to,5
+behind link,overlap,5
+behind or,overlap,5
+behind other,overlap,5
+peers over,above,5
+sitting in front of a,overlap,5
+is airborne above,above,5
+anchored in front of,overlap,5
+performing in front of,overlap,5
+is below,under,5
+strung over,above,5
+stuck inside,in,5
+interacting near,next_to,5
+pictured next to,next_to,5
+pose next to,next_to,5
+atop a,on,5
+leaving behind,overlap,5
+gathered together near,next_to,5
+being held in front of,overlap,5
+lined up on top of,on,5
+stuck behind,overlap,5
+lined next to,next_to,5
+inside an,in,5
+bent over with,above,5
+snuggling under,under,5
+surfing in front of,overlap,5
+lies in front of,overlap,5
+shown over,above,5
+surrounding by,contains,5
+smiling while standing in front of,overlap,5
+laid on top of,on,5
+under with,under,4
+in mid air over,above,4
+placed underneath,under,4
+covering over,above,4
+placed in between,next_to,4
+covered n,above,4
+above of,above,4
+gathered outside in,next_to,4
+attached above,above,4
+behind group of,overlap,4
+gather near a,next_to,4
+gather under,under,4
+covered by a,above,4
+pose inside of,in,4
+formed on top of,on,4
+behind blue,overlap,4
+alongside a,next_to,4
+piled behind,overlap,4
+behind lifeguards,overlap,4
+poses near,next_to,4
+perches on top of,on,4
+cooking behind,overlap,4
+peeks out from behind,overlap,4
+cooking inside,in,4
+peeking from behind,overlap,4
+peeking behind,overlap,4
+peeks over,above,4
+posted outside,next_to,4
+spraying up near,next_to,4
+getting inside,in,4
+parks in front of,overlap,4
+parking in front of,overlap,4
+pass over,above,4
+partially covered by,above,4
+parked in front of a,overlap,4
+parked in front of left,overlap,4
+sleeps on top of,on,4
+crossing under,under,4
+crouches behind,overlap,4
+crouched near,next_to,4
+stand above,above,4
+over back of,above,4
+going inside,in,4
+coming up behind,overlap,4
+out near,next_to,4
+going over a,above,4
+walk over,above,4
+stand underneath,under,4
+on top of the,on,4
+fly high above,above,4
+fly behind,overlap,4
+on top of another,on,4
+on top fo,on,4
+on top f,on,4
+flown above,above,4
+flowing over,above,4
+standing around beside,next_to,4
+on the ground next to,next_to,4
+asleep under,under,4
+grazing on top of,on,4
+skiing on top of,on,4
+white below,under,4
+on shore beside,next_to,4
+standing on the outside of,next_to,4
+flipping over,above,4
+pushed underneath,under,4
+on display under,under,4
+growing next to a,next_to,4
+together in front of,overlap,4
+grows near,next_to,4
+flies low above,above,4
+visible over,above,4
+standing together in front of,overlap,4
+flies below,under,4
+skating in front of,overlap,4
+stands amid,next_to,4
+visible near,next_to,4
+hanging on top of,on,4
+skateboards over,above,4
+next to some,next_to,4
+next to or,next_to,4
+near another,next_to,4
+bending over to eat,above,4
+together near,next_to,4
+napping next to,next_to,4
+near group of,next_to,4
+moving behind,overlap,4
+moving next to,next_to,4
+mounted underneath,under,4
+being covered by,above,4
+arranged under,under,4
+sticking out over,above,4
+far behind,overlap,4
+stopped outside of,next_to,4
+resting underneath,under,4
+rest near,next_to,4
+rests inside,in,4
+walking beneath,under,4
+lounging on top of,on,4
+looks outside of,next_to,4
+are seen through,overlap,4
+looks inside,in,4
+looks behind,overlap,4
+rides in front of,overlap,4
+rides beside,next_to,4
+rides alongside,next_to,4
+look out over,above,4
+riding beside,next_to,4
+riding alongside,next_to,4
+airborne over,above,4
+located next to,next_to,4
+are  in,in,4
+lined up outside of,next_to,4
+erected next to,next_to,4
+line behind,overlap,4
+roll over,above,4
+rolling over,above,4
+with head over,above,4
+with head under,under,4
+are along side,next_to,4
+are all over,above,4
+lie next to,next_to,4
+lifted above,above,4
+held under,under,4
+are at top of,above,4
+lies down next to,next_to,4
+are along side of,next_to,4
+run over,above,4
+held in front of,overlap,4
+built near,next_to,4
+surround by,contains,4
+leaps over,above,4
+built inside,in,4
+hiding inside,in,4
+running underneath,under,4
+sits within,in,4
+hides underneath,under,4
+hiding underneath,under,4
+are at end of,next_to,4
+are at bottom of,under,4
+hiding inside of,in,4
+built alongside,next_to,4
+sailing near,next_to,4
+lays in front of,overlap,4
+laying down on top of,on,4
+eating beside,next_to,4
+laying next to a,next_to,4
+sits outside with,next_to,4
+sits outside in,next_to,4
+laying in between,next_to,4
+being flown near,next_to,4
+are to left of,next_to,4
+displayed outside of,next_to,4
+displayed on top of,on,4
+laid next to,next_to,4
+kneeling down behind,overlap,4
+driving on top of,on,4
+sits in between,next_to,4
+hopping over,above,4
+walking inside of,in,4
+drives under,under,4
+drives over,above,4
+drives in front of,overlap,4
+seen over,above,4
+huddle under,under,4
+hovers near,above,4
+about to go under,under,4
+served alongside,next_to,4
+served over,above,4
+talking over,above,4
+sit outside on,next_to,4
+traveling on top of,on,4
+set up next to,next_to,4
+sit nearby,next_to,4
+setting in front of,overlap,4
+set up outside,next_to,4
+sit inside,in,4
+set up beside,next_to,4
+is shown next to,next_to,4
+setting next to,next_to,4
+blooming above,above,4
+in air over,above,4
+that surround,contains,4
+is open next to,next_to,4
+are docked near,next_to,4
+is on display,on,4
+shines above,above,4
+draped over back of,above,4
+is in mid air over,above,4
+is high in,above,4
+shining behind,overlap,4
+to contain,contains,4
+beside train,next_to,4
+is between,next_to,4
+shown near,next_to,4
+shown inside,in,4
+in the middle,in,4
+showing under,under,4
+in the air on top of,on,3
+in the air behind,overlap,3
+in next to,next_to,3
+down below,under,3
+are shown in,in,3
+shining on top of,on,3
+in traffic next to,next_to,3
+shining above,above,3
+bent over near,above,3
+installed near,next_to,3
+shine above,above,3
+in inside of,in,3
+is across from,next_to,3
+in front of o,overlap,3
+is close to,next_to,3
+in front of stack of,overlap,3
+drawn over,above,3
+in front of another,overlap,3
+shaking hands above,above,3
+is next to the,next_to,3
+underneath an,under,3
+sets on top of,on,3
+is outside of,next_to,3
+setting behind,overlap,3
+is outside,next_to,3
+is part of,in,3
+is placed in front of,overlap,3
+in background behind,overlap,3
+is seen in,in,3
+are down,under,3
+in air above,above,3
+is underway,under,3
+is underneath,under,3
+it towers over,above,3
+turned over on,above,3
+set above,above,3
+taxiing next to,next_to,3
+taller under,under,3
+jumps above,above,3
+are by side of,next_to,3
+drives behind,overlap,3
+talking beside,next_to,3
+driving alongside road,next_to,3
+are surrounded by,in,3
+within a,in,3
+up in front of,overlap,3
+just outside of,next_to,3
+driving beside,next_to,3
+huddle near,next_to,3
+kite boarding over,above,3
+kneeling down beside,next_to,3
+sits atop of,on,3
+displayed over,above,3
+are near to,next_to,3
+baking inside,in,3
+kneels near,next_to,3
+kneeling on top of,on,3
+kneels down in front of,overlap,3
+knocked over on,above,3
+seated beside,next_to,3
+holding hands in front of,overlap,3
+laying down beside,next_to,3
+sits parked inside of,in,3
+lays down in front of,overlap,3
+lays behind,overlap,3
+are under a,under,3
+are atop,on,3
+sits outside near,next_to,3
+under front of,under,3
+baking inside of,in,3
+swimming beside,next_to,3
+built atop,on,3
+high over,above,3
+leaning on top of,on,3
+sits parked outside of,next_to,3
+leaps above,above,3
+leans over with,above,3
+runs over,above,3
+surrounded in,contains,3
+surrounded by a,contains,3
+directly above,above,3
+runs behind,overlap,3
+are on side,next_to,3
+held over,above,3
+held next to,next_to,3
+leaving over,above,3
+backed up near,next_to,3
+dining behind,overlap,3
+are on right side of,next_to,3
+lies atop,on,3
+surfing next to,next_to,3
+lies under,under,3
+lined up beside,next_to,3
+stuffed inside,in,3
+stuck inside of,in,3
+sitting and standing in front of,overlap,3
+lined up under,under,3
+are across from,next_to,3
+around and under,under,3
+lit up near,next_to,3
+located on top of,on,3
+travelling beside,next_to,3
+wandering in front of,overlap,3
+sitting besides,next_to,3
+wall behind,overlap,3
+sitting beside a,next_to,3
+looking up next to,next_to,3
+bending over towards,above,3
+bending over to pet,above,3
+back behind,overlap,3
+looms behind,overlap,3
+are seen in,in,3
+turning over,above,3
+lounging in front of,overlap,3
+rise above,above,3
+ring above,above,3
+riding underneath,under,3
+right behind,overlap,3
+excited over,above,3
+has inside of,in,3
+stood next to,next_to,3
+riding inside of,in,3
+rides under,under,3
+stick over,above,3
+travelling over,above,3
+travelling next to,next_to,3
+travels in between,next_to,3
+walking beside a,next_to,3
+travels near,next_to,3
+moored next to,next_to,3
+mounted beneath,under,3
+bending over to kiss,above,3
+moving under,under,3
+staring in front of,overlap,3
+ride next to,next_to,3
+napping under,under,3
+near  a,next_to,3
+near some,next_to,3
+near side of,next_to,3
+near other,next_to,3
+are past,next_to,3
+stands tall beside,next_to,3
+next to other,next_to,3
+rests near,next_to,3
+next too,next_to,3
+stands outside with,next_to,3
+washing over,above,3
+hangs below,under,3
+stands in between,next_to,3
+rests atop,on,3
+watches behind,overlap,3
+are right of,next_to,3
+stands high above,above,3
+hanging inside of,in,3
+resting inside of,in,3
+of a building behind,overlap,3
+resting beneath,under,3
+sitting right in front of,overlap,3
+resting outside of,next_to,3
+stands alongside,next_to,3
+dancing in front of,overlap,3
+standing up in front of,overlap,3
+standing surrounded by,contains,3
+handing over,above,3
+relaxing near,next_to,3
+watches over,above,3
+climbs on top of,on,3
+grows over,above,3
+being surrounded by,contains,3
+standing outside in between,next_to,3
+standing outside beside,next_to,3
+travels next to,next_to,3
+on display inside of,in,3
+on inside of a,in,3
+grow near,next_to,3
+sitting up next to,next_to,3
+fence behind,overlap,3
+on over,above,3
+asleep next to,next_to,3
+wait outside,next_to,3
+cut in half next to,next_to,3
+grazing while surrounded by,contains,3
+situated in front of,overlap,3
+on the inside of,in,3
+on top front of,on,3
+graze under,under,3
+on top floor of,on,3
+graze beside,next_to,3
+grazes behind,overlap,3
+graze behind,overlap,3
+skateboarding beside,next_to,3
+fight over,above,3
+on top pf,on,3
+on underside of,under,3
+on top of of,on,3
+on top of head of,on,3
+stand together near,next_to,3
+reaching under,under,3
+open in front of,overlap,3
+curled up under,under,3
+open next to,next_to,3
+reaching inside,in,3
+opened over,above,3
+stand maybe beside,next_to,3
+stand outside with,next_to,3
+stand in between,next_to,3
+stand inside,in,3
+over an,above,3
+outside between,next_to,3
+are on top,on,3
+over by,above,3
+stacked up behind,overlap,3
+overhead of,above,3
+over trees and,above,3
+over the,above,3
+overlay on,above,3
+overturned on,above,3
+overshadowed by,above,3
+waiting outside with,next_to,3
+towers above,above,3
+stacked outside,next_to,3
+raised above,above,3
+flies behind,overlap,3
+paddles over,above,3
+at bat in front of,overlap,3
+compete over,above,3
+tower above,above,3
+flies high over,above,3
+cuddling next to,next_to,3
+stacked beside,next_to,3
+skating on top of,on,3
+squatting near,next_to,3
+parasailing near,next_to,3
+flies overhead in,above,3
+parked besides,next_to,3
+parked in the middle of,in,3
+cuddled up next to,next_to,3
+are over a,above,3
+pushed under a,under,3
+spread out over,above,3
+partly covered by,above,3
+pass under,under,3
+spraying over,above,3
+floating in front of,overlap,3
+pulling up next to,next_to,3
+splashing under,under,3
+splashing over,above,3
+peeking under,under,3
+peeks from behind,overlap,3
+splashing near,next_to,3
+flowing behind,overlap,3
+pulled in front of,overlap,3
+are in an,in,3
+are in middle of,in,3
+pulled alongside,next_to,3
+pulled next to,next_to,3
+perched in front of,overlap,3
+perches atop,on,3
+flowing next to,next_to,3
+crouching over,above,3
+flowing under,under,3
+speaking over,above,3
+cover on,above,3
+cover by,above,3
+flown over,above,3
+crouching near,next_to,3
+photographed in front of,overlap,3
+spans over,above,3
+spans above,above,3
+soars above,above,3
+propped up next to,next_to,3
+soars over,above,3
+piled up on top of,on,3
+snuggling next to,next_to,3
+gathered outside of,next_to,3
+crouches near,next_to,3
+placed atop,on,3
+gather next to,next_to,3
+placed above,above,3
+gather behind,overlap,3
+galloping near,next_to,3
+placed inside of,in,3
+snuggled under,under,3
+covered up by,above,3
+covering face with,above,3
+placed outside of,next_to,3
+placed outside,next_to,3
+gather in front of,overlap,3
+above an,above,3
+snowboarding in front of,overlap,3
+sleeps in front of,overlap,3
+playing inside of,in,3
+attached under,under,3
+poised over,above,3
+crouched next to,next_to,3
+crawling under,under,3
+pose under,under,3
+poses beside,next_to,3
+posed behind,overlap,3
+for sale under,under,3
+posing atop,on,3
+below or,under,3
+posing underneath,under,3
+bending down over,above,3
+posted below,under,3
+posted underneath,under,3
+folded under,under,3
+flys over,above,3
+folded on top of,on,3
+showing below,under,2
+walk nearby,next_to,2
+flys low above,above,2
+crossing below,under,2
+crossing above,above,2
+folding over,above,2
+pouring over,above,2
+powered and sitting next to,next_to,2
+following beside,next_to,2
+begging in front of,overlap,2
+walk behind,overlap,2
+slung over,above,2
+positioned behind,overlap,2
+posted beside,next_to,2
+posted behind,overlap,2
+positioned under,under,2
+positioned near,next_to,2
+smile beside,next_to,2
+smiles as he sits in front of,overlap,2
+smiles over,above,2
+posing in between,next_to,2
+posing outside,next_to,2
+are inside of a,in,2
+amid shadows on,next_to,2
+for sale on top of,on,2
+posing outside of,next_to,2
+preparing to bat near,next_to,2
+posed on top of,on,2
+posed near,next_to,2
+pose near,next_to,2
+pose together in front of,overlap,2
+posed over,above,2
+pose beside,next_to,2
+pose behind,overlap,2
+crashing under,under,2
+smiles near,next_to,2
+crouched down in front of,overlap,2
+crouched down beside,next_to,2
+sliced on top of,on,2
+forming near,next_to,2
+forming behind,overlap,2
+crouch behind,overlap,2
+poking over,above,2
+poking out from under,under,2
+behind a metal,overlap,2
+from outside,next_to,2
+pointing up next to,next_to,2
+are onto,on,2
+sleeps nearby,next_to,2
+sleeps near,next_to,2
+above tree line covered,above,2
+above top of,above,2
+crashes into below,under,2
+crashes behind,overlap,2
+playing on top of,on,2
+are outdoors near,next_to,2
+smiling while standing next to,next_to,2
+attached below,under,2
+sleeps beneath,under,2
+sleeps atop,on,2
+crouched down next to,next_to,2
+sneaks up behind,overlap,2
+platform near,next_to,2
+play inside,in,2
+play in front of,overlap,2
+snowboarding next to,next_to,2
+atop an,on,2
+covers with,above,2
+above other,above,2
+above on,above,2
+planted inside,in,2
+placed outside on,next_to,2
+attached on top of,on,2
+snuggled up next to,next_to,2
+covering himself with,above,2
+covering herself with,above,2
+covering for,above,2
+snuggled next to,next_to,2
+covering the,above,2
+covering most of,above,2
+covering mans,above,2
+covered up in,above,2
+gathered beside,next_to,2
+crouches in front of,overlap,2
+gather outside,next_to,2
+pitched next to,next_to,2
+placed alongside,next_to,2
+covered skis and,above,2
+covered  in,above,2
+pinned under,under,2
+waits near,next_to,2
+waits beside,next_to,2
+behind chain link,overlap,2
+behind brick,overlap,2
+covered mountain with,above,2
+crouches under,under,2
+propped up above,above,2
+walk outside with,next_to,2
+sleep next to,next_to,2
+gathered on top of,on,2
+gazing around near,next_to,2
+below the,under,2
+crouching down in front of,overlap,2
+covered and surrounded by,contains,2
+speaking in front of,overlap,2
+anchored beside,next_to,2
+gesturing in front of,overlap,2
+cover half of,above,2
+pulled behind,overlap,2
+under a mans,under,2
+perches near,next_to,2
+perching on top of,on,2
+flows over,above,2
+crouching under,under,2
+cooking over,above,2
+are in front of a,overlap,2
+crouching down behind,overlap,2
+skis over,above,2
+peering from under,under,2
+peering from behind,overlap,2
+floats near,next_to,2
+pulled up near,next_to,2
+peer over,above,2
+conversing outside,next_to,2
+cook inside,in,2
+peeking out behind,overlap,2
+peeking from under,under,2
+conversing behind,overlap,2
+peek over,above,2
+floating underneath,under,2
+pulled up in front of,overlap,2
+skiing in between,next_to,2
+passes overhead,above,2
+path underneath,under,2
+passover,above,2
+are outside on,next_to,2
+spraying behind,overlap,2
+contains alot of,contains,2
+containing colorful,contains,2
+contained on,contains,2
+passing alongside,next_to,2
+crying in front of,overlap,2
+wave over,above,2
+passed under,under,2
+partially eaten atop,on,2
+floating inside of,in,2
+skiing beside,next_to,2
+put next to,next_to,2
+partially open behind,overlap,2
+partially surrounded by,contains,2
+behind ten,overlap,2
+behind stop,overlap,2
+behind some,overlap,2
+behind rock,overlap,2
+parks next to,next_to,2
+partially behind,overlap,2
+pushed next to,next_to,2
+parking behind,overlap,2
+parked parallel alongside,next_to,2
+parked outside next to,next_to,2
+are painted over,above,2
+parked out in front of,overlap,2
+cuddle together under,under,2
+flipped over in,above,2
+ski over,above,2
+and campers are behind,overlap,2
+congregate outside of,next_to,2
+squats beside,next_to,2
+congregate near,next_to,2
+squatting down behind,overlap,2
+squatting beside,next_to,2
+parked in back of,overlap,2
+sprinkled over,above,2
+putting its head near,next_to,2
+cuddle next to,next_to,2
+parked beside a,next_to,2
+skating over,above,2
+skates beside,next_to,2
+para sailing over,above,2
+stacked above,above,2
+competing over,above,2
+are lined up next to,next_to,2
+skating next to,next_to,2
+skating near,next_to,2
+skating besides,next_to,2
+bench next to,next_to,2
+racing in front of,overlap,2
+painted under,under,2
+gloom over,above,2
+paddling on top of,on,2
+paddling inside of,in,2
+behind two,overlap,2
+stacked in front of,overlap,2
+flies beneath,under,2
+raised over,above,2
+raised in front of,overlap,2
+towed behind,overlap,2
+stacked on top,on,2
+go over,above,2
+overtaken by,above,2
+overloaded with,above,2
+stacked up on top of,on,2
+stacked up next to,next_to,2
+behind zebras,overlap,2
+overlaid with,above,2
+overcoming,above,2
+overcast,above,2
+over train,above,2
+over looks,above,2
+over head,above,2
+over edge of,above,2
+going next to,next_to,2
+stand and sit near,next_to,2
+coming out from underneath,under,2
+coming out from under,under,2
+outside together on,next_to,2
+going behind,overlap,2
+outside around,next_to,2
+reaches under,under,2
+outside on a,next_to,2
+outside of circus,next_to,2
+stand inside of,in,2
+stand alongside,next_to,2
+coming out from behind,overlap,2
+out skiing next to,next_to,2
+stand atop of,on,2
+walking about in front of,overlap,2
+being sold outside by,next_to,2
+stand outside near,next_to,2
+outdoors near,next_to,2
+going overhead,above,2
+coming from under,under,2
+are high above,above,2
+and tree covered median between two ski,above,2
+out amid,next_to,2
+open over,above,2
+under railroad,under,2
+under persons,under,2
+under other,under,2
+under multiple,under,2
+being held up in front of,overlap,2
+reaching inside of,in,2
+opened on top of,on,2
+opened next to,next_to,2
+opened near,next_to,2
+open above,above,2
+open near,next_to,2
+are outside in,next_to,2
+wait under,under,2
+stand together in front of,overlap,2
+curls up inside,in,2
+on top og,on,2
+graze in front of,overlap,2
+grazes near,next_to,2
+fights under,under,2
+filled to overflowing with,above,2
+curving over,above,2
+on top of red,on,2
+fighting over a,above,2
+fighting near,next_to,2
+colliding over,above,2
+and yellow flowers in front of,overlap,2
+waiting alongside,next_to,2
+standing around on top of,on,2
+and sandy ground near,next_to,2
+fighting under,under,2
+trying to jump over,above,2
+wait outside of,next_to,2
+greet each other near,next_to,2
+situated behind,overlap,2
+skate boarding under,under,2
+on nearby,next_to,2
+standing in back of a,overlap,2
+on or near,next_to,2
+ground containers,contains,2
+grouped next to,next_to,2
+grouped inside,in,2
+on land next to,next_to,2
+cut out on top of,on,2
+growing beneath,under,2
+reflected on top of,on,2
+standing on top of each other on a,on,2
+growing in front of a,overlap,2
+featured in front of,overlap,2
+on display outside of,next_to,2
+on display beside,next_to,2
+on display outside,next_to,2
+wait alongside,next_to,2
+appear beside,next_to,2
+standing outside underneath,under,2
+grows behind,overlap,2
+relax inside,in,2
+on behind,overlap,2
+half covered by,above,2
+on bed next to,next_to,2
+sitting together in front of,overlap,2
+accumulating behind,overlap,2
+relaxing on top of,on,2
+under  the,under,2
+ascends over,above,2
+hand over,above,2
+watch behind,overlap,2
+relaxing next to,next_to,2
+relaxing in front of,overlap,2
+far above,above,2
+farther behind,overlap,2
+falling over from,above,2
+clenched under,under,2
+of nearby,next_to,2
+of water behind,overlap,2
+hang out in front of,overlap,2
+standing together underneath,under,2
+hang next to,next_to,2
+dancing behind,overlap,2
+rest under,under,2
+resting besides,next_to,2
+of grass near,next_to,2
+hanging down in front of,overlap,2
+dancing on top of,on,2
+stands alone near,next_to,2
+stands below,under,2
+stands alone in front of,overlap,2
+rest beside,next_to,2
+resting alongside,next_to,2
+sitting outside in front of,overlap,2
+fallen over on,above,2
+stands outside near,next_to,2
+viewed from behind,overlap,2
+window shopping in front of,overlap,2
+battle over,above,2
+walking around inside of,in,2
+hanging out inside of,in,2
+hangs beneath,under,2
+stands high over,above,2
+stands near a,next_to,2
+visible under,under,2
+washes over,above,2
+rests in front of,overlap,2
+rests in between,next_to,2
+rests behind,overlap,2
+sitting parked beside,next_to,2
+stands on end next to,next_to,2
+hangs outside,next_to,2
+next to smaller,next_to,2
+stands tall next to,next_to,2
+next to each other,next_to,2
+nestled under,under,2
+not covered by,above,2
+nearer to,next_to,2
+near train,next_to,2
+stands surrounded by,contains,2
+checking over,above,2
+chatting under,under,2
+wing over snowy,above,2
+near a body of,next_to,2
+stands up in front of,overlap,2
+near giraffes in,next_to,2
+near blue,next_to,2
+near back of,next_to,2
+stares outside of,next_to,2
+ride near,next_to,2
+napping on top of,on,2
+napping in front of,overlap,2
+moving on top of,on,2
+staring outside at,next_to,2
+staring outside,next_to,2
+staring out over,above,2
+naps under,under,2
+naps alongside,next_to,2
+bending over to catch,above,2
+moving beside,next_to,2
+face each other in front of,overlap,2
+sitting on top of an,on,2
+rides above,above,2
+moves over,above,2
+are seated near,next_to,2
+was in,in,2
+mounted in front of,overlap,2
+stationed in front of,overlap,2
+visible in front of,overlap,2
+being cooked inside,in,2
+extending over,above,2
+sitting next to each other,next_to,2
+walking beside an,next_to,2
+mill about inside,in,2
+travels underneath,under,2
+travels under,under,2
+steps over,above,2
+meditating in front of,overlap,2
+beached in front of,overlap,2
+sticking head over,above,2
+marches near,next_to,2
+has fallen over in,above,2
+making their way over,above,2
+arranged over,above,2
+stool near,next_to,2
+sticking up over,above,2
+sitting in sand beside a,next_to,2
+riding in between,next_to,2
+riding in back of,overlap,2
+makes a face near,next_to,2
+stop in front of,overlap,2
+lying down on top of,on,2
+arranged behind,overlap,2
+with an outside,next_to,2
+stops next to,next_to,2
+stops in front of,overlap,2
+sitting down surrounded by,contains,2
+riding on top,on,2
+lying beneath,under,2
+rising high above,above,2
+stops beside,next_to,2
+stored away next to,next_to,2
+rises behind,overlap,2
+rise up behind,overlap,2
+being dangled in front of,overlap,2
+lounging next to,next_to,2
+has on top,on,2
+looms above,above,2
+are piled under,under,2
+are piled on top of,on,2
+stored under,under,2
+being poured over,above,2
+bending over into,above,2
+bending over to pick up,above,2
+looks outside through,next_to,2
+looks from behind,overlap,2
+looking surprised inside in front of,overlap,2
+carried above,above,2
+together behind,overlap,2
+sitting beside of,next_to,2
+looking underneath,under,2
+stretched out over,above,2
+stretched behind,overlap,2
+arches over,above,2
+travelling behind,overlap,2
+traveling behind,overlap,2
+stretches out next to,next_to,2
+can be seen under,under,2
+strewn all over,above,2
+backed up next to,next_to,2
+look around while surrounded by,contains,2
+located outside,next_to,2
+being displayed inside,in,2
+loafs in front of,overlap,2
+locked inside of,in,2
+located beside,next_to,2
+located below,under,2
+located underneath,under,2
+located inside,in,2
+twisted up behind other,overlap,2
+sitting and standing next to,next_to,2
+tussle over,above,2
+being knocked over by,above,2
+lined up outside,next_to,2
+linger near,next_to,2
+embracing under,under,2
+are  on,on,2
+elevated above,above,2
+line up near,next_to,2
+by itself on top of,on,2
+stuffed under,under,2
+lined in front of,overlap,2
+stuffed behind,overlap,2
+head under,under,2
+are within some,in,2
+with head inside,in,2
+lies near,next_to,2
+lie scattered inside,in,2
+lie beside,next_to,2
+are among,next_to,2
+dining under,under,2
+dining outdoors beneath,under,2
+running on top of,on,2
+are on other side of,next_to,2
+are on left side of,next_to,2
+surfs on top of,on,2
+held above,above,2
+leftover after,above,2
+walks on top of,on,2
+surfs over,above,2
+left outside on,next_to,2
+left outside,next_to,2
+wall under,under,2
+sitting alongside of,next_to,2
+sits surrounded by,contains,2
+held up in front of,overlap,2
+runs beside,next_to,2
+built under,under,2
+eating in front of,overlap,2
+surrounded around,contains,2
+surround trees on,contains,2
+tucked behind,overlap,2
+runs next to,next_to,2
+built inside of,in,2
+surrounds a,contains,2
+built underneath,under,2
+leans over to,above,2
+built behind,overlap,2
+walking in front of a,overlap,2
+sailing next to,next_to,2
+sailing above,above,2
+sailing over,above,2
+are within,in,2
+hiding beside,next_to,2
+sailing under,under,2
+sits parked beside,next_to,2
+hiding beneath,under,2
+leaning inside of,in,2
+swimming in water on top of,on,2
+leaning forward in front of,overlap,2
+hides under,under,2
+with outside,next_to,2
+are visible on,on,2
+swimming inside of,in,2
+walks in between,next_to,2
+walks over to,above,2
+sits on top of a,on,2
+swinging high in front of,overlap,2
+under feet of,under,2
+under construction with,under,2
+being jumped over,above,2
+lays over,above,2
+lays beside,next_to,2
+are up to,next_to,2
+lays inside of,in,2
+lays inside,in,2
+lays down inside of,in,2
+browsing beside,next_to,2
+laying on the ground in front of,overlap,2
+scattered next to,next_to,2
+tucked underneath,under,2
+sits next to two,next_to,2
+with slanted roofs inside metal,in,2
+laying alongside,next_to,2
+laying beneath,under,2
+takes a nap under,under,2
+laying down inside of,in,2
+drying outside of,next_to,2
+displayed inside of,in,2
+seated behind,overlap,2
+seated on top of,on,2
+takes over,above,2
+being flown next to,next_to,2
+taking a nap next to,next_to,2
+are up in,in,2
+are underneath a,under,2
+landing on top of,on,2
+sits down in front of,overlap,2
+are nearby,next_to,2
+seated outside,next_to,2
+displayed under,under,2
+breaking near,next_to,2
+laid out in front of,overlap,2
+landing near,next_to,2
+landing behind,overlap,2
+secured inside,in,2
+knocking over,above,2
+lags behind,overlap,2
+kneels down beside,next_to,2
+taking a break atop,on,2
+see through,overlap,2
+are on an,on,2
+kneels behind,overlap,2
+kneeling under,under,2
+kneeling over in,above,2
+sits directly in front of,overlap,2
+taking off in front of,overlap,2
+are next to skate,next_to,2
+hovering over a,above,2
+taking over,above,2
+hovering near,above,2
+hover above,above,2
+sits besides,next_to,2
+seen from above by,above,2
+balanced over,above,2
+seen outside of,next_to,2
+up near,next_to,2
+drivign near,next_to,2
+huddled together under,under,2
+talk in front of,overlap,2
+just below,under,2
+just behind,overlap,2
+just in front of,overlap,2
+talking and standing in front of,overlap,2
+sits amidst,next_to,2
+driving alongside of,next_to,2
+seen under,under,2
+drive underneath,under,2
+jumps high over,above,2
+talking inside,in,2
+bodyboarding near,next_to,2
+drives beside,next_to,2
+drives alongside,next_to,2
+dives under,under,2
+hunches over,above,2
+are by a,next_to,2
+hung near,next_to,2
+talking under,under,2
+talking together over,above,2
+talking outside of,next_to,2
+talking outside near,next_to,2
+jumping next to,next_to,2
+work near,next_to,2
+jumping beside,next_to,2
+served next to,next_to,2
+jumped over,above,2
+sit together in front of,overlap,2
+sit over,above,2
+sit outside at,next_to,2
+turned over in,above,2
+turned over,above,2
+is up to,next_to,2
+is up near,next_to,2
+is swinging next to,next_to,2
+that contains,contains,2
+set near,next_to,2
+docked in front of,overlap,2
+docked beside,next_to,2
+in action near,next_to,2
+is up in,in,2
+are docked under,under,2
+in air near,next_to,2
+sit next to each other,next_to,2
+sit parked in front of,overlap,2
+being transported on top of,on,2
+set under,under,2
+is shown behind,overlap,2
+is seen over,above,2
+set outside of,next_to,2
+set outside,next_to,2
+under and around,under,2
+under a persons,under,2
+diving under,under,2
+working in front of,overlap,2
+is outside near,next_to,2
+is parked next to the,next_to,2
+is poised near,next_to,2
+is positioned in front of,overlap,2
+working on top of,on,2
+sit beneath,under,2
+sit below,under,2
+set up on top of,on,2
+set up inside,in,2
+setting on top of,on,2
+in between a,next_to,2
+in contact with each other near a,next_to,2
+is open near,next_to,2
+sip atop,on,2
+walking on top of a,on,2
+under surface of,under,2
+under renovation,under,2
+in captivity behind,overlap,2
+in distance behind,overlap,2
+is in the air above,above,2
+is in between,next_to,2
+is in the middle of,in,2
+dressed up and standing outside of,next_to,2
+is in the air over,above,2
+is flown above,above,2
+in flight next to,next_to,2
+in distance near,next_to,2
+dressed patriotically near,next_to,2
+barefooted under,under,2
+sit above,above,2
+working under,under,2
+in front of the,overlap,2
+shake hands in front of,overlap,2
+shaking hands behind,overlap,2
+shaking hands near,next_to,2
+working over,above,2
+drapes over,above,2
+is atop,on,2
+is among,next_to,2
+shaking hands in front of,overlap,2
+drapped over,above,2
+in front of her,overlap,2
+tipped over on,above,2
+tipped over in,above,2
+tipped over,above,2
+about to be overcome by,above,2
+shaving in front of,overlap,2
+traveling below,under,2
+being held above,above,2
+beside h,next_to,2
+interacting behind,overlap,2
+indoors near,next_to,2
+in mid air above,above,2
+installed next to,next_to,2
+being held next to,next_to,2
+bent over touching,above,2
+under laptop,under,2
+under her,under,2
+under two,under,2
+under top,under,2
+beside an,next_to,2
+inside on,in,2
+traveling alongside of,next_to,2
+traveling alongside,next_to,2
+shines over,above,2
+in mid air next to,next_to,2
+are on edge of,next_to,2
+underneath of,under,2
+in under,under,2
+shining underneath,under,2
+shining under,under,2
+in midair near,next_to,2
+shop inside,in,2
+are shown on,on,2
+in motion in front of,overlap,2
+are covered up,above,2
+in the middle of throwing,in,2
+to move over,above,2
+to look inside,in,2
+in the air next to,next_to,2
+in the air covering,above,2
+writing on top of,on,2
+in the air after going over,above,2
+are showing behind,overlap,1
+in sauce on top of,on,1
+in reflective vest inside of a,in,1
+in progress behind,overlap,1
+in silhouette near,next_to,1
+in shadow below,under,1
+in sitting on top of,on,1
+in the air atop,on,1
+in place near,next_to,1
+in the background near,next_to,1
+in the air alongside,next_to,1
+in over,above,1
+in the air under,under,1
+in the background next to,next_to,1
+in the back ground near,next_to,1
+in the corner next to,next_to,1
+in pairs near,next_to,1
+in on top,on,1
+in the distance under,under,1
+are covering partially,above,1
+in on top of a,on,1
+in near dead heat with,next_to,1
+in the middle of performing,in,1
+in the middle of making,in,1
+in the middle of hitting,in,1
+in the middle of delivering,in,1
+in the middle of being painted,in,1
+in the middle of being cut and resting on,in,1
+in ocean near,next_to,1
+in the window next to,next_to,1
+in midair above,above,1
+in motion behind,overlap,1
+in the water over,above,1
+in tow behind,overlap,1
+in midair over,above,1
+in midair on top of,on,1
+in mid-air leap above,above,1
+in use beside,next_to,1
+in mid flight over,above,1
+inches above,above,1
+in mid air flight over,above,1
+indoors behind,overlap,1
+inside hand of,in,1
+inside giraffe,in,1
+inside engine of,in,1
+inside edge of,in,1
+inside center of,in,1
+inside by,in,1
+inside body of,in,1
+inside arch has,in,1
+inserted beneath,under,1
+inside tops of,in,1
+inside the back of,in,1
+inside the,in,1
+inside someones,in,1
+inside rim of,in,1
+inside plastic,in,1
+inside or in front of,overlap,1
+inside of jacket,in,1
+inside of an,in,1
+in low flight over,above,1
+inside a mans,in,1
+inset over,above,1
+are cut up beside,next_to,1
+inside little,in,1
+inside has,in,1
+installed beneath,under,1
+installed behind,overlap,1
+inside train,in,1
+installed over,above,1
+inside od,in,1
+are displayed alongside,next_to,1
+intending to go inside,in,1
+insides of,in,1
+in line next to,next_to,1
+in inside of a,in,1
+in inside,in,1
+are covered by a,above,1
+are competing in front of,overlap,1
+is across,overlap,1
+in grass in front of,overlap,1
+is airborne over,above,1
+is airborne in front of,overlap,1
+is around,contains,1
+is along,next_to,1
+is behind the,overlap,1
+is barely visible behind,overlap,1
+is away from,next_to,1
+is beneath,under,1
+is beyond,overlap,1
+is bent over with,above,1
+is being held near,next_to,1
+in front of black,overlap,1
+in garden outside kitchen,next_to,1
+in full stride next to,next_to,1
+is built next to the,next_to,1
+in front of large,overlap,1
+in front of its,overlap,1
+in front of highrise,overlap,1
+is covered of,above,1
+in front of closed,overlap,1
+in front of brown,overlap,1
+in front of blue,overlap,1
+is cloudy over,above,1
+is displayed above,above,1
+in front of zebra,overlap,1
+in front of where,overlap,1
+in front of two,overlap,1
+in front of office,overlap,1
+is crowded under,under,1
+is crossing over,above,1
+is down covering,above,1
+is docked underneath,under,1
+in focus in front of,overlap,1
+in front of baby,overlap,1
+in front of an open,overlap,1
+in front of a white,overlap,1
+in front of a set of,overlap,1
+in front of a returning,overlap,1
+in front of a behind a,overlap,1
+is docked next to,next_to,1
+is displayed in front of,overlap,1
+is empty in front of,overlap,1
+is featured next to,next_to,1
+is empty near,next_to,1
+in flight near,next_to,1
+in flight beneath,under,1
+in flight below,under,1
+is flipping underneath,under,1
+is flanked above by,above,1
+is folded over,above,1
+in flight under,under,1
+is grooming itself outside on,next_to,1
+in flight above,above,1
+is glimpsed above,above,1
+is hanging next to,next_to,1
+is halfway under,under,1
+is in flight over,above,1
+is indoors behind,overlap,1
+is in the air very near,next_to,1
+is in the air near,next_to,1
+is laughing over,above,1
+in corner above,above,1
+in display on top of,on,1
+in dirt next to,next_to,1
+is laying in front of,overlap,1
+is located next to,next_to,1
+is located near,next_to,1
+in corner near,next_to,1
+is lit near,next_to,1
+is lying beside,next_to,1
+in costume standing next to,next_to,1
+is napping behind,overlap,1
+is on display under,under,1
+is on display in front of,overlap,1
+is on above,above,1
+is off,overlap,1
+is open inside of,in,1
+is open in front of,overlap,1
+is on over,above,1
+is overloaded with,above,1
+is overgrown with,above,1
+is peeking out from under,under,1
+is outside by,next_to,1
+in bloom next to,next_to,1
+in bloom beside,next_to,1
+is pictured outside of,next_to,1
+is pictured in front of,overlap,1
+is peaking out from underneath,under,1
+is passing above the,above,1
+is partially buried under,under,1
+is placed next to,next_to,1
+is placed near,next_to,1
+in between girls,next_to,1
+in blue near a,next_to,1
+is pulled alongside,next_to,1
+is piled on top of,on,1
+is posted near,next_to,1
+is positioned alongside,next_to,1
+in background covered by,above,1
+in background behind a,overlap,1
+in black near,next_to,1
+is propped up beside,next_to,1
+is prominent in front of,overlap,1
+is seated next to,next_to,1
+is seated beside,next_to,1
+in back of of,overlap,1
+in area near,next_to,1
+is right over,above,1
+is right outside of,next_to,1
+is right behind,overlap,1
+is served containing,contains,1
+in back of th,overlap,1
+is shown in front of,overlap,1
+in and beside,next_to,1
+is shown sitting next to,next_to,1
+is spilled all over,above,1
+is smiling in front of,overlap,1
+is shown under,under,1
+in and near,next_to,1
+is sleeping next to,next_to,1
+in air a few feet above,above,1
+is snow skiing next to,next_to,1
+in action over,above,1
+in action in front of,overlap,1
+is stopped outside of,next_to,1
+is taking off over,above,1
+is underneath of,under,1
+is under the,under,1
+is under construction,under,1
+is tied up next to,next_to,1
+in a row above,above,1
+is traveling inside,in,1
+is upright in front of,overlap,1
+is up on,on,1
+is up,above,1
+is underway with,under,1
+is walking outside of,next_to,1
+in a nearby,next_to,1
+in  tshirt walking beside,next_to,1
+jumped on top of,on,1
+are close behind,overlap,1
+illuminating from under,under,1
+illuminated inside,in,1
+are covered of,above,1
+immersed inside,in,1
+jumping in between,next_to,1
+idling in front of,overlap,1
+illegally parked next to,next_to,1
+jumping up on top of,on,1
+hurtle above,above,1
+hydrant atop pipe,on,1
+hung on top of,on,1
+hunkered down in front of,overlap,1
+jumps high above,above,1
+jumps as he skates near,next_to,1
+hung inside,in,1
+hunches in front of,overlap,1
+hunched over with,above,1
+hung within,in,1
+hung underneath,under,1
+hung outside of,next_to,1
+jumps beside,next_to,1
+jumps atop,on,1
+are broken near,next_to,1
+jumps on top of,on,1
+jumps near,next_to,1
+jumps inside,in,1
+jumps in front of,overlap,1
+hunching over,above,1
+hunches over to look at,above,1
+hunches over on,above,1
+hunched down beside,next_to,1
+hugging on top of,on,1
+jumps up above,above,1
+hunched over next to,next_to,1
+hunched over in front of,overlap,1
+hunched over going down,above,1
+hunched over by,above,1
+hunched over as he looks at,above,1
+just outside,next_to,1
+hugging in front of,overlap,1
+huddling next to,next_to,1
+huddling beneath,under,1
+huddles next to,next_to,1
+hugging under,under,1
+just under,under,1
+huddled near,next_to,1
+huddled in front of,overlap,1
+hug next to,next_to,1
+huddled behind,overlap,1
+jutting out near,next_to,1
+juts out above,above,1
+hug affectionately standing next to,next_to,1
+jutting up above,above,1
+huddled together next to,next_to,1
+huddled together in front of,overlap,1
+huddled over,above,1
+huddle together under,under,1
+huddle together near,next_to,1
+huddles beneath,under,1
+huddled within,in,1
+kept inside,in,1
+kept beside,next_to,1
+kept apart behind,overlap,1
+keeps watch over,above,1
+huddled closely in front of,overlap,1
+kept under,under,1
+kept over,above,1
+kept on top of,on,1
+kickin over,above,1
+kissing next to,next_to,1
+kissing beside,next_to,1
+kicked up behind a,overlap,1
+kicked above,above,1
+huddle together behind,overlap,1
+huddle next to,next_to,1
+hovers in the air on,above,1
+hovers in the air above,above,1
+hovers in,above,1
+hovers close above,above,1
+hovering behind,above,1
+kitboarding on top of,on,1
+kissing underneath,under,1
+hover under,under,1
+housed atop,on,1
+kiteboard over,above,1
+hovers in the air over,above,1
+hovering next to,next_to,1
+hovering just above,above,1
+kiteboarding under,under,1
+hovering  in,above,1
+hovered over,above,1
+kiteboarding next to,next_to,1
+houses behind boy,overlap,1
+kneeled down in front of,overlap,1
+kneel over,above,1
+kneel in front of,overlap,1
+kneel beside,next_to,1
+kneeling beside a,next_to,1
+hooked up on top of,on,1
+horse racing in front of,overlap,1
+kneeling beneath,under,1
+kneeling behind a,overlap,1
+kneeling down on top of,on,1
+kneeling down under,under,1
+kneeling outside,next_to,1
+kneeling down besides,next_to,1
+hooked up near,next_to,1
+kneeling over with,above,1
+kneeling over on top of,on,1
+kneeling outside of,next_to,1
+kneels in front of,overlap,1
+kneels beside,next_to,1
+knelt down beside,next_to,1
+knelt down behind,overlap,1
+knock over,above,1
+knelt down in front of,overlap,1
+knotted over,above,1
+knocked over onto,above,1
+knocked over in,above,1
+knocked over by,above,1
+are bordering,next_to,1
+are elevated above,above,1
+are driving alongside,next_to,1
+are fighting over,above,1
+landing on top,on,1
+laid over,above,1
+laid out under,under,1
+laid out on top of,on,1
+laid out next to,next_to,1
+laid out nearby,next_to,1
+landed near,next_to,1
+landed on top of,on,1
+laughing over,above,1
+laughing alongside,next_to,1
+laughing next to,next_to,1
+laughing near,next_to,1
+laughing in front of,overlap,1
+laughing hysterically in front of,overlap,1
+laughing beside,next_to,1
+laughing behind his raised,overlap,1
+laughing behind,overlap,1
+laughing as they walk beneath,under,1
+laughing while in front of,overlap,1
+laughing under the umbrella,under,1
+laughing under,under,1
+lawn in back of boy,overlap,1
+lay under,under,1
+lay on top of,on,1
+lay beside,next_to,1
+holding hands next to,next_to,1
+lay outside on,next_to,1
+layed over,above,1
+laying besides,next_to,1
+laying beside a,next_to,1
+are besides,next_to,1
+are beside front,next_to,1
+laying in the middle of,in,1
+laying head down next to,next_to,1
+laying outside next to,next_to,1
+laying on top on,on,1
+laying on top,on,1
+laying right next to,next_to,1
+laying resting next to,next_to,1
+lays down underneath,under,1
+lays down under,under,1
+lays down on top of,on,1
+lays down near,next_to,1
+laying partially underneath,under,1
+lays above,above,1
+are back of,overlap,1
+hitting near,next_to,1
+lays underneath,under,1
+hits on top of,on,1
+leaded up behind,overlap,1
+leading inside,in,1
+leading horses near,next_to,1
+leading beneath,under,1
+hit near to,next_to,1
+are falling over with,above,1
+leaned down over,above,1
+leads near to,next_to,1
+leads inside,in,1
+hitched up outside,next_to,1
+leaned inside,in,1
+lean out from behind,overlap,1
+leaned over to field,above,1
+leaned over on,above,1
+leaned over by,above,1
+leaning down beside,next_to,1
+leaning beside,next_to,1
+high up behind,overlap,1
+leaning down in front of,overlap,1
+leaning in next to,next_to,1
+hiding in between,next_to,1
+high in the air above,above,1
+leaning next to a,next_to,1
+are at base of,next_to,1
+are at a,next_to,1
+hiding below,under,1
+hiding behind a,overlap,1
+hides out inside,in,1
+high above in,above,1
+hiding smile behind her,overlap,1
+are behind chain link,overlap,1
+leaning over next to,next_to,1
+hidden in between,next_to,1
+hiding head behind,overlap,1
+hides beside,next_to,1
+hides beneath,under,1
+leaning to the side beside,next_to,1
+leaning up next to,next_to,1
+leans next to,next_to,1
+leans near,next_to,1
+leans down behind,overlap,1
+leans over to sniff,above,1
+leans over to eat from,above,1
+leans over and skis down,above,1
+leans over against,above,1
+leans inside,in,1
+leans in over,above,1
+leans in front of,overlap,1
+leans in close over,above,1
+herded together inside of,in,1
+herded from behind,overlap,1
+hidden beneath,under,1
+hidden behind a,overlap,1
+leans over into,above,1
+leans over as she serve,above,1
+leans over as he skates down,above,1
+leans over as he rides,above,1
+leans over and sniffs,above,1
+leaping outside to catch,next_to,1
+leaping in the air above,above,1
+leaping beside,next_to,1
+held up over,above,1
+held up next to,next_to,1
+held up beside,next_to,1
+leers over top of,above,1
+leering over,above,1
+left beside,next_to,1
+left behind to maneuver,overlap,1
+left alone inside,in,1
+left outside against,next_to,1
+left near,next_to,1
+left behind by skiers in,overlap,1
+held in front of eyes of,overlap,1
+held up behind,overlap,1
+left over on,above,1
+left outside of,next_to,1
+left outside next to,next_to,1
+leftover on,above,1
+left under,under,1
+held inside of,in,1
+held inside,in,1
+are galloping beside,next_to,1
+are galloping behind,overlap,1
+held behind,overlap,1
+held back behind,overlap,1
+levitation in front of,overlap,1
+lie down beside,next_to,1
+lies amid,next_to,1
+lie stacked on top of,on,1
+heads down near,next_to,1
+lies covered up on,above,1
+lies beside,next_to,1
+lies behind,overlap,1
+lies down on top of,on,1
+lies nearby,next_to,1
+are alongside a,next_to,1
+heading over,above,1
+are at side of,next_to,1
+lies inside,in,1
+lies sleeping next to,next_to,1
+headed over,above,1
+lifted over,above,1
+lift over,above,1
+lies within,in,1
+lies waiting beside,next_to,1
+heading downhill near,next_to,1
+heading down near,next_to,1
+lifts from underneath,under,1
+headed downhill in front of,overlap,1
+lightly covered by,above,1
+line up outside of,next_to,1
+line the outside of,next_to,1
+having sex on top of,on,1
+head behind,overlap,1
+line above,above,1
+having pulled over,above,1
+line up in front of,overlap,1
+lined on the street in front of,overlap,1
+lined up outside near,next_to,1
+lined up outside in,next_to,1
+lined up outside by,next_to,1
+lined up close together near,next_to,1
+lined up outside along,next_to,1
+lined up outside against,next_to,1
+having above,above,1
+linger under,under,1
+linger just outside,next_to,1
+lining up next to,next_to,1
+lit up above,above,1
+lit outside by,next_to,1
+lit on top,on,1
+lit inside,in,1
+lit above,above,1
+have inside,in,1
+have risen above,above,1
+lit up outside of,next_to,1
+lit up next to,next_to,1
+lit up in front of,overlap,1
+have been docked under,under,1
+have dirt beneath,under,1
+located under a,under,1
+located under,under,1
+located outside of,next_to,1
+loading under,under,1
+have been photo-shopped in behind,overlap,1
+located beneath,under,1
+located behind a,overlap,1
+located within,in,1
+log behind hydrant,overlap,1
+located on wall over,above,1
+located just behind,overlap,1
+locked behind,overlap,1
+located within close vicinity of,in,1
+lockers besides,next_to,1
+locked up next to,next_to,1
+locked inside,in,1
+has white inside,in,1
+loll outside,next_to,1
+loll inside,in,1
+loitering in between,next_to,1
+look inside,in,1
+look forward underneath,under,1
+has wedged itself inside,in,1
+look over at,above,1
+look outside from,next_to,1
+look outside,next_to,1
+looking around outside of,next_to,1
+looking around inside of,in,1
+look under,under,1
+looking ahead in front of,overlap,1
+has tipped over,above,1
+looking down next to,next_to,1
+looking forward on top of,on,1
+arcs over,above,1
+arched over,above,1
+has surrounding,contains,1
+has stopped in front of,overlap,1
+looking forward while standing next to,next_to,1
+looking forward underneath,under,1
+looking intently while sitting next to,next_to,1
+looking on in front of,overlap,1
+looking next to,next_to,1
+looking out on top of,on,1
+looking out from underneath,under,1
+has signs near,next_to,1
+approaches amidst,next_to,1
+looking to the side beside,next_to,1
+approaches from behind,overlap,1
+has sailed under,under,1
+has road with above,above,1
+are  behind,overlap,1
+has reached over,above,1
+looking up beside,next_to,1
+looking up underneath,under,1
+looks calm behind,overlap,1
+looks as it stands next to,next_to,1
+has pulled over,above,1
+looks around next to,next_to,1
+looks alarmed behind,overlap,1
+looks bewildered in front of,overlap,1
+looks away inside of,in,1
+looks on from behind,overlap,1
+looks down near,next_to,1
+looks inside of,in,1
+looks in between,next_to,1
+looks outside with,next_to,1
+looks outside,next_to,1
+looks near,next_to,1
+looks out longingly over,above,1
+looks out above,above,1
+looks under,under,1
+looks out while inside of,in,1
+looks worn and old next to,next_to,1
+looks up while sitting inside of,in,1
+looks up over,above,1
+looks up next to,next_to,1
+looks up from under,under,1
+looms underneath,under,1
+looms under,under,1
+loom above,above,1
+lope over,above,1
+lounge next to,next_to,1
+lounge beside,next_to,1
+lounges next to,next_to,1
+lounges inside,in,1
+low over,above,1
+lounge under,under,1
+lounging near,next_to,1
+lounging inside,in,1
+lounging behind,overlap,1
+lounging atop,on,1
+lounging under,under,1
+lowering head near,next_to,1
+lunges over to hit,above,1
+lurching over,above,1
+has managed to fly high over,above,1
+approaching for landing over,above,1
+lying asleep next to,next_to,1
+lying down in front of,overlap,1
+lying on top,on,1
+has just gone under,under,1
+made inside of,in,1
+made near,next_to,1
+maintains control over,above,1
+made up next to,next_to,1
+appears to fly above,above,1
+make their way alongside,next_to,1
+has his head over,above,1
+has jumped over,above,1
+make a stop outside of,next_to,1
+make their way over to,above,1
+has head over,above,1
+has head inside of,in,1
+has inside,in,1
+making a stop in front of,overlap,1
+making a face near,next_to,1
+making a turn next to,next_to,1
+making his way over,above,1
+making out next to,next_to,1
+has foot nearly off,next_to,1
+making its way under,under,1
+has fallen over by,above,1
+man beside backpack,next_to,1
+maneuvers over,above,1
+marble behind,overlap,1
+has crawled under,under,1
+has expired beside,next_to,1
+marching in front of,overlap,1
+marching beside,next_to,1
+marooned inside,in,1
+maybe behind,overlap,1
+materials near pool,next_to,1
+meet under,under,1
+may knock over,above,1
+melting near,next_to,1
+has came up from underneath,under,1
+meeting under,under,1
+meeting in the middle of,in,1
+merge in front of,overlap,1
+melted over,above,1
+melted on top,on,1
+has beside,next_to,1
+mid air over,above,1
+midair above,above,1
+mid-air over,above,1
+mid-air above,above,1
+mill about in front of,overlap,1
+might be inside,in,1
+milling within,in,1
+milling about within,in,1
+milling about under,under,1
+mill about within,in,1
+mixed inside of,in,1
+mingle near,next_to,1
+mixed within,in,1
+modeling in front of,overlap,1
+has been overrun with,above,1
+appears clean and shiny next to,next_to,1
+has been placed next to,next_to,1
+mostly below,under,1
+moored nearby,next_to,1
+moored near,next_to,1
+moored in front of,overlap,1
+mounted outside of,next_to,1
+mounted on top,on,1
+mounted next to design on,next_to,1
+has an advantage over,above,1
+move above,above,1
+moves near,next_to,1
+moves in front of,overlap,1
+moving in front of,overlap,1
+moving in between,next_to,1
+moving in behind,overlap,1
+moving overhead at,above,1
+moving up over,above,1
+moving within,in,1
+appearing near,next_to,1
+appear under,under,1
+napping inside of,in,1
+napping beside,next_to,1
+near each,next_to,1
+near contact with,next_to,1
+near center of,next_to,1
+near aa,next_to,1
+near a red mini,next_to,1
+near a red,next_to,1
+near a fishing,next_to,1
+near a brick,next_to,1
+near giraffe,next_to,1
+near th,next_to,1
+near tea,next_to,1
+near te,next_to,1
+near bottom of a,next_to,1
+near bottom of,next_to,1
+near base of,next_to,1
+near ball,next_to,1
+near back,next_to,1
+near and under,under,1
+near and on,next_to,1
+near all,next_to,1
+near orange,next_to,1
+near open,next_to,1
+near one another in,next_to,1
+near a school,next_to,1
+near mans,next_to,1
+near in,next_to,1
+near horses and,next_to,1
+near h,next_to,1
+near goodyear,next_to,1
+nearly full of,next_to,1
+nearly finished,next_to,1
+nearly falling off,next_to,1
+nearly empty,next_to,1
+near tan,next_to,1
+near stop,next_to,1
+near stone,next_to,1
+near small,next_to,1
+near shower on,next_to,1
+near point of,next_to,1
+near paved,next_to,1
+nearby on,next_to,1
+nearby in,next_to,1
+nearby at,next_to,1
+near womans hand,next_to,1
+near metal,next_to,1
+nearby with,next_to,1
+near window of,next_to,1
+near water,next_to,1
+near wake of,next_to,1
+near up,next_to,1
+near troupe,next_to,1
+near top,next_to,1
+near their,next_to,1
+near the side of,next_to,1
+nears a,next_to,1
+happy over,above,1
+nearly buried in,next_to,1
+nearing bottom of,next_to,1
+nearest to man on,next_to,1
+nearest to,next_to,1
+necking above,above,1
+nestled beside,next_to,1
+nesting on top of,on,1
+nesting inside,in,1
+nested within,in,1
+hangs over a,above,1
+harnessed together next to,next_to,1
+harbored in front of,overlap,1
+nestled up on top of,on,1
+nestled next to,next_to,1
+nestled inside,in,1
+next to previous,next_to,1
+next to piece of,next_to,1
+next to or on,next_to,1
+next to covered,next_to,1
+next to chair,next_to,1
+next to brick,next_to,1
+next to bag of,next_to,1
+next to back of,next_to,1
+hangs upside down near,next_to,1
+next to airport,next_to,1
+next to a tattooed,next_to,1
+next to  a,next_to,1
+next to side of,next_to,1
+next to school,next_to,1
+next to ramp,next_to,1
+next to kneeling,next_to,1
+next to girl,next_to,1
+next to front of,next_to,1
+next to fire,next_to,1
+next to eye care,next_to,1
+next to each other on,next_to,1
+next to each other in,next_to,1
+next toto,next_to,1
+next to train,next_to,1
+next to thin,next_to,1
+next to and under,next_to,1
+hangs down in front of,overlap,1
+hangs outside of,next_to,1
+hangs out outside with,next_to,1
+hangs beside,next_to,1
+next to th,next_to,1
+next to te,next_to,1
+next to tall,next_to,1
+next to small,next_to,1
+nose to nose over,above,1
+next to the,next_to,1
+hangs its head outside,next_to,1
+hangs inside of,in,1
+hangs inside,in,1
+hangs in front of,overlap,1
+not far behind,overlap,1
+not behind,overlap,1
+hangs alongside,next_to,1
+not near,next_to,1
+hanging up next to,next_to,1
+nowhere near,next_to,1
+hanging out on top of,on,1
+hanging out next to,next_to,1
+nursing while standing next to,next_to,1
+nuzzling each other under,under,1
+nuzzling each other in front of,overlap,1
+are growing beside,next_to,1
+hanging out underneath of,under,1
+are gathered under,under,1
+hanging outside in front of,overlap,1
+hanging on top,on,1
+obscured behind,overlap,1
+of a near by,next_to,1
+of a woman beneath,under,1
+of building near,next_to,1
+of building behind,overlap,1
+of door over,above,1
+hanging in front of some,overlap,1
+hanging in between,next_to,1
+of dirt on top of,on,1
+hanging besides,next_to,1
+of hairspray next to,next_to,1
+of nearest,next_to,1
+of over,above,1
+hanged next to,next_to,1
+hanged near,next_to,1
+hang surrounded by,contains,1
+hang out under,under,1
+hang out together next to,next_to,1
+of people behind,overlap,1
+hang out behind,overlap,1
+hang inside,in,1
+hands over,above,1
+of person under,under,1
+hang out near,next_to,1
+hang below,under,1
+handing below,under,1
+off in the distance behind,overlap,1
+hang gliding over,above,1
+handle inside,in,1
+handing behind,overlap,1
+ollies over,above,1
+handing above,above,1
+on a charger next to a,next_to,1
+halfway behind,overlap,1
+halfhidden behind,overlap,1
+hand near face,next_to,1
+hand near,next_to,1
+hand gliding over,above,1
+half open over,above,1
+on a snow covered,above,1
+on above a,above,1
+on above,above,1
+half covers,above,1
+half covered,above,1
+on bike in front of a,overlap,1
+on building above,above,1
+grows sparsely near,next_to,1
+grows outside,next_to,1
+on couch next to,next_to,1
+grows beside,next_to,1
+growls on top of,on,1
+grows next to a,next_to,1
+on display beneath,under,1
+angled up over,above,1
+grown over,above,1
+grown outside close to,next_to,1
+on desk near,next_to,1
+on display outside on,next_to,1
+grown in between,next_to,1
+grown all over,above,1
+on display on top of,on,1
+on display together behind,overlap,1
+growing on top of a,on,1
+on floor behind a,overlap,1
+on fire near,next_to,1
+growing in between,next_to,1
+on floor next to,next_to,1
+on floor near,next_to,1
+on ground beside,next_to,1
+on ground below,under,1
+on ground behind,overlap,1
+are growing inside of,in,1
+grow below,under,1
+grouped together in front of,overlap,1
+on in between,next_to,1
+on its side near,next_to,1
+on it's side near,next_to,1
+grow beside,next_to,1
+grow under,under,1
+grow next to,next_to,1
+grow in front of,overlap,1
+on leashes next to,next_to,1
+on lawn behind,overlap,1
+grouped behind,overlap,1
+grouped up in front of,overlap,1
+grooming himself in front of,overlap,1
+on left next to,next_to,1
+ground under,under,1
+grooming itself beside,next_to,1
+on near side of,next_to,1
+on next to,next_to,1
+on nearest,next_to,1
+grins next to,next_to,1
+grins behind,overlap,1
+grins atop,on,1
+on pole inside,in,1
+grinding over,above,1
+on post behind,overlap,1
+on platform are near,next_to,1
+on right atop,on,1
+grey near,next_to,1
+on right next to,next_to,1
+on right behind,overlap,1
+on sale under,under,1
+grilling next to,next_to,1
+grimaces near,next_to,1
+grimaces in front of,overlap,1
+on road behind,overlap,1
+on side behind,overlap,1
+grazing underneath,under,1
+green street markers on top of a,on,1
+on skis near,next_to,1
+on sidewalk next to,next_to,1
+on stand near,next_to,1
+on stand in front of,overlap,1
+and street in front of city,overlap,1
+and spoon above,above,1
+grazing outside of,next_to,1
+grazing in the middle of,in,1
+on the ground in front of,overlap,1
+on the other side near,next_to,1
+grazes out next to,next_to,1
+on top edge of,on,1
+grazes while standing next to,next_to,1
+grazes under,under,1
+on top of shower,on,1
+on top of round,on,1
+on top deck of,on,1
+on top covered in,on,1
+on top corner of,on,1
+on top another,on,1
+on top of baked,on,1
+on top of back of,on,1
+on top of apples in,on,1
+grazes beneath,under,1
+on top o,on,1
+on top middle of,on,1
+on top left of,on,1
+on top left,on,1
+on top layer of,on,1
+on top half of,on,1
+on top of tank of,on,1
+on top of stone,on,1
+on top of stack of,on,1
+on top of some,on,1
+on top of other,on,1
+on top of mast,on,1
+on top of left,on,1
+on top of green,on,1
+on top of file,on,1
+on top of each other,on,1
+on top of bottom,on,1
+on tracks next to,next_to,1
+on top o f,on,1
+gray near,next_to,1
+on tops of,on,1
+on top with,on,1
+on top side of,on,1
+on top ot,on,1
+on top ofto,on,1
+graze beneath,under,1
+graze atop,on,1
+graze alongside,next_to,1
+on wall near,next_to,1
+on wall in front of,overlap,1
+gray behind,overlap,1
+open and next to,next_to,1
+open above a,above,1
+gone over,above,1
+open door sitting next to,next_to,1
+open behind,overlap,1
+opening above,above,1
+opened up in front of,overlap,1
+and no clouds over,above,1
+opened up outside of,next_to,1
+going under trees for,under,1
+are hiding behind,overlap,1
+orchestrating in front of,overlap,1
+or ottoman in front of,overlap,1
+ordering outside of,next_to,1
+out above,above,1
+out in the water next to,next_to,1
+going on top of,on,1
+going on behind,overlap,1
+out on top of,on,1
+going out over,above,1
+out stretched in front of,overlap,1
+outdoors next to,next_to,1
+outdoors in front of,overlap,1
+out over,above,1
+outside by a,next_to,1
+going near,next_to,1
+outside in between,next_to,1
+outside from,next_to,1
+outside for,next_to,1
+outside beside,next_to,1
+outside behind,overlap,1
+outside along,next_to,1
+outside together,next_to,1
+outside pilot,next_to,1
+outside of baseball,next_to,1
+outside in mid-air on,next_to,1
+going beside,next_to,1
+outside towards,next_to,1
+over buttoned down,above,1
+over bathroom,above,1
+over back part of,above,1
+over another,above,1
+over a pile of,above,1
+over  top of,above,1
+over  a,above,1
+over hang,above,1
+over half,above,1
+over h,above,1
+over gas,above,1
+over front of,above,1
+over front,above,1
+over flooded with,above,1
+over eyes of,above,1
+over cockpit of a,above,1
+over by a,above,1
+going above,above,1
+over or,above,1
+over look,above,1
+over loaded with,above,1
+over heads of,above,1
+over head of,above,1
+over tank of,above,1
+over tables and,above,1
+goes to above,above,1
+over some,above,1
+over smaller,above,1
+over side of,above,1
+over shoulders of,above,1
+over shoulder of,above,1
+over q,above,1
+over other,above,1
+overgrown by,above,1
+overflows with,above,1
+overflowing onto,above,1
+overflowing into,above,1
+overflow,above,1
+overcast with,above,1
+over-topped with,above,1
+over with,above,1
+over top,above,1
+over to,above,1
+over the view of,above,1
+over the edge of,above,1
+over th,above,1
+goes behind,overlap,1
+overhanging on top of,on,1
+overhang of,above,1
+overgrown on,above,1
+goes airborne over,above,1
+goes airborne in front of,overlap,1
+overhead using,above,1
+overhead in,above,1
+overhangs,above,1
+overtop,above,1
+overtaking,above,1
+overtakes,above,1
+overtaken with,above,1
+oversized,above,1
+overshadows,above,1
+oversees,above,1
+overseeing,above,1
+overrun with,above,1
+overrun by,above,1
+overripe,above,1
+overpasses,above,1
+overpass at,above,1
+overpass,above,1
+paces behind,overlap,1
+pabovearked,above,1
+overview with,above,1
+overview of,above,1
+overtopped with,above,1
+overtop of,above,1
+go above,above,1
+go under,under,1
+packets contain,contains,1
+packed inside,in,1
+glows underneath,under,1
+glowing under,under,1
+glowing over,above,1
+go inside,in,1
+glowing inside,in,1
+paddle surfing alongside,next_to,1
+paddle on top of,on,1
+paddles on top of,on,1
+paddling behind,overlap,1
+glowing from under and behind,under,1
+painted over,above,1
+paddling under,under,1
+paddling over,above,1
+painted colorfully above,above,1
+gliding on top of,on,1
+gliding near,next_to,1
+painted all over,above,1
+panting beside,next_to,1
+painting under,under,1
+glide over,above,1
+painting behind,overlap,1
+para-sailing alongside,next_to,1
+para-sail over,above,1
+papered in front of,overlap,1
+glaring over,above,1
+pants beside,next_to,1
+para-sailing near,next_to,1
+para sailing near,next_to,1
+para sailing just above,above,1
+parachuting over,above,1
+paragliding over,above,1
+parasailing under,under,1
+parallel parked next to,next_to,1
+park next to,next_to,1
+park alongside,next_to,1
+pared outside of,next_to,1
+and metal post near,next_to,1
+girl behind,overlap,1
+parked half way inside of,in,1
+parked curbside outside of,next_to,1
+parked curb side next to,next_to,1
+are hung over,above,1
+parked halfway inside of,in,1
+parked in front of huge,overlap,1
+parked in front of black,overlap,1
+parked in a line next to,next_to,1
+parked inside next to,next_to,1
+parked in front off,overlap,1
+parked in front of t,overlap,1
+parked next to th,next_to,1
+and clock on top of end,on,1
+and cheese behind a,overlap,1
+parked outside in front of,overlap,1
+parked side by side in front of,overlap,1
+parked right next to,next_to,1
+parked right in front of,overlap,1
+parked outside of a,next_to,1
+parked together outside next to,next_to,1
+parking outside a,next_to,1
+parked together next to,next_to,1
+parked side by side beside,next_to,1
+getting ready to surf near,next_to,1
+parked underneath of,under,1
+getting ready to go over,above,1
+parking next to,next_to,1
+partially hidden behind,overlap,1
+parks alongside,next_to,1
+partially below,under,1
+getting ready to jump over,above,1
+getting ready to land over,above,1
+partially visible behind,overlap,1
+partially under,under,1
+partially eaten next to,next_to,1
+partly covering other,above,1
+partly cover,above,1
+partially inside,in,1
+getting ready to cross under,under,1
+getting ready to go under,under,1
+partially overcast,above,1
+partition near,next_to,1
+pass by in front of,overlap,1
+pass behind,overlap,1
+partly pulled down over,above,1
+partly inside,in,1
+partly hidden behind,overlap,1
+passes in between,next_to,1
+pass near,next_to,1
+pass in front of,overlap,1
+pass each other near,next_to,1
+passes above,above,1
+getting proposed to on top of,on,1
+passed over by,above,1
+passed out on top of,on,1
+passes next to,next_to,1
+passes in the middle of,in,1
+getting on top of,on,1
+passes beside,next_to,1
+passes beneath,under,1
+passes behind,overlap,1
+passing beside,next_to,1
+passing below,under,1
+passing above,above,1
+getting ready for take off near,next_to,1
+getting ready for take off beside,next_to,1
+getting married outside,next_to,1
+getting married in front of,overlap,1
+passes over a,above,1
+getting petted in front of,overlap,1
+passing overhead,above,1
+passing over top of,above,1
+passing over a,above,1
+getting knocked over by,above,1
+getting inside of,in,1
+passing under a,under,1
+path next to,next_to,1
+passing nearby,next_to,1
+getting hair done in front of,overlap,1
+pauses near,next_to,1
+pauses in front of,overlap,1
+pauses beside,next_to,1
+getting excited over,above,1
+pausing in front of,overlap,1
+paws over,above,1
+getting food inside,in,1
+peaks out from under,under,1
+peaks out from behind,overlap,1
+peaks behind,overlap,1
+peaks above,above,1
+peaking up over,above,1
+peaking up from under,under,1
+peaking out from beneath,under,1
+peaking out from behind,overlap,1
+peaking behind,overlap,1
+getting fur all over,above,1
+peaks over,above,1
+pecking behind,overlap,1
+peaking around from behind,overlap,1
+getting attention in front of,overlap,1
+getting air in front of,overlap,1
+peeking and smiling over,above,1
+peek out from behind,overlap,1
+peeking out from inside,in,1
+peeking out from underneath,under,1
+peeking up from inside,in,1
+and a woman fully dressed inside,in,1
+peeking up over side of,above,1
+peeping out from under,under,1
+peeking over at,above,1
+peeking outside of,next_to,1
+peeking outside,next_to,1
+peeking out under,under,1
+peeking out over,above,1
+peeks outside,next_to,1
+peeks his head in between,next_to,1
+peering outside,next_to,1
+peering out from behind,overlap,1
+peeping behind,overlap,1
+peeled and broken up inside,in,1
+peering above golden brown,above,1
+gets horizontal near,next_to,1
+peer out over,above,1
+peer out as they stand in front of,overlap,1
+peeps up behind,overlap,1
+peeping over a,above,1
+peeping outside,next_to,1
+peers out from behind,overlap,1
+peers out behind,overlap,1
+gets ready to fly over,above,1
+peers above,above,1
+peering up above,above,1
+penned in next to,next_to,1
+peers outside through,next_to,1
+peers outside,next_to,1
+peers out from underneath,under,1
+gets petted in front of,overlap,1
+perch on top of,on,1
+perch near,next_to,1
+perch beside,next_to,1
+are in front,overlap,1
+perched beside,next_to,1
+perched up on top of,on,1
+perched outside in front of,overlap,1
+perching near,next_to,1
+are in side of,in,1
+perches beneath,under,1
+performs next to,next_to,1
+perusing in front of,overlap,1
+performs in front of,overlap,1
+get under,under,1
+photo shopped next to,next_to,1
+photoshopped over,above,1
+anchored next to,next_to,1
+gesturing next to,next_to,1
+gesture hands next to,next_to,1
+gently moving under,under,1
+picking over,above,1
+pictured outside of,next_to,1
+gestures over,above,1
+gazing out over,above,1
+pictured near,next_to,1
+gazes out over,above,1
+piled inside of,in,1
+piled inside,in,1
+piled up near,next_to,1
+gathering near,next_to,1
+gathered next to,next_to,1
+piled up beside,next_to,1
+piled near,next_to,1
+gathers under,under,1
+gathered together beside,next_to,1
+piled up together near,next_to,1
+gathering outside,next_to,1
+gathered together under,under,1
+gathered together outside around,next_to,1
+gathered together outside,next_to,1
+gathered outside on,next_to,1
+gathered next to a,next_to,1
+gather together under,under,1
+pirched atop,on,1
+piped on top of,on,1
+gathered beneath,under,1
+gathered behind,overlap,1
+gather outside of,next_to,1
+gathered alongside,next_to,1
+gathered above,above,1
+gather underneath,under,1
+place next to,next_to,1
+gather together beneath,under,1
+gathered inside of,in,1
+gather overhead,above,1
+gather over,above,1
+placed besides,next_to,1
+placed beside each other,next_to,1
+placed below,under,1
+placed atop of,on,1
+gather atop,on,1
+placed right next to,next_to,1
+places next to,next_to,1
+gared in front of,overlap,1
+planted above,above,1
+plastered over,above,1
+galloping next to,next_to,1
+amidst climbing,next_to,1
+planted under,under,1
+planted over,above,1
+play behind,overlap,1
+play together under,under,1
+plated next to,next_to,1
+plastic containers,contains,1
+play together in front of,overlap,1
+play over,above,1
+play outside on,next_to,1
+play outside in,next_to,1
+play next to,next_to,1
+play nearby,next_to,1
+playing beside,next_to,1
+playfully fighting near,next_to,1
+frying besides,next_to,1
+frozen over next to,next_to,1
+frowning next to,next_to,1
+frowning near,next_to,1
+playing down next to,next_to,1
+playing beneath,under,1
+playing outside of,next_to,1
+front near,next_to,1
+plays on top of,on,1
+amble about within,in,1
+plays near,next_to,1
+plays inside of,in,1
+plays inside,in,1
+plays in front of,overlap,1
+plowing above,above,1
+plays outside with,next_to,1
+from inside of,in,1
+from in between,next_to,1
+from water rolling over,above,1
+from up above,above,1
+from below,under,1
+from behind in front of,overlap,1
+from atop,on,1
+from above,above,1
+from over,above,1
+points and talks in front of,overlap,1
+from ceiling inside,in,1
+pointing over,above,1
+pointing outside of,next_to,1
+poked over,above,1
+points over,above,1
+framed above,above,1
+foundered at,under,1
+poised next to,next_to,1
+pokes head out from behind,overlap,1
+pokes his head above,above,1
+pokes high above,above,1
+poking out from inside,in,1
+poke out from under,under,1
+poking above,above,1
+pokes over,above,1
+found next to,next_to,1
+found nearly overgrown by,above,1
+forms behind,overlap,1
+pokes out near,next_to,1
+pokes its head inside,in,1
+poking on top of,on,1
+poking his head in front of,overlap,1
+poking from under a,under,1
+pole in front of,overlap,1
+pole behind,overlap,1
+poking their heads out from behind,overlap,1
+pole next to,next_to,1
+pops above,above,1
+form on top of,on,1
+pooling on top of,on,1
+pooled under,under,1
+pose and stands together under,under,1
+pose together behind,overlap,1
+pose outside on,next_to,1
+pose outside of,next_to,1
+pose on top of,on,1
+popping above,above,1
+formed near,next_to,1
+form a line next to,next_to,1
+for yard are behind,overlap,1
+pose together near,next_to,1
+posed beside,next_to,1
+posed beneath,under,1
+poses beneath,under,1
+poses behind,overlap,1
+poses besides,next_to,1
+posed to urinate in front of,overlap,1
+poses over,above,1
+poses on top of,on,1
+alongside base of,next_to,1
+are leafy inside of,in,1
+poses while standing in front of,overlap,1
+poses underneath,under,1
+poses under,under,1
+for nearby,next_to,1
+posing next to a,next_to,1
+posing in front of a,overlap,1
+posing together under,under,1
+posing together in front of,overlap,1
+for safety behind,overlap,1
+for gas behind,overlap,1
+posing over,above,1
+posing outside with,next_to,1
+positioned above,above,1
+position over,above,1
+position on top of,on,1
+for display within,in,1
+posing while squatting behind,overlap,1
+positioned alongside,next_to,1
+positioned underneath,under,1
+positioned to be in front of,overlap,1
+post in front of a,overlap,1
+post near,next_to,1
+follows closely behind,overlap,1
+posted beneath,under,1
+poured next to,next_to,1
+follow each other next to,next_to,1
+follow behind,overlap,1
+follows closely next to,next_to,1
+poured over,above,1
+pours over,above,1
+folded in front of,overlap,1
+folded behind,overlap,1
+folded next to,next_to,1
+practicing batting near,next_to,1
+practices swinging in front of,overlap,1
+practices nearby,next_to,1
+prays near,next_to,1
+practicing near,next_to,1
+flys above,above,1
+foaming behind,overlap,1
+flying through the air on top of,on,1
+along outside of,next_to,1
+also near,next_to,1
+flying overhead next to,next_to,1
+flying outside of,next_to,1
+prepares to land just outside,next_to,1
+preparing food behind,overlap,1
+flying next to a,next_to,1
+preparing to land over,above,1
+preparing to ride over,above,1
+flying in between,next_to,1
+flying high in front of,overlap,1
+presented in front of,overlap,1
+printed on top of,on,1
+fly overhead in,above,1
+prodding around inside,in,1
+proceeding under,under,1
+fly overhead at,above,1
+protected underneath,under,1
+propped on top of,on,1
+propped near,next_to,1
+propped inside,in,1
+propped in front of,overlap,1
+fly up above,above,1
+fly under,under,1
+props up under,under,1
+propped up outside,next_to,1
+propped up on top of,on,1
+propped up beside,next_to,1
+propped up behind,overlap,1
+fly next to,next_to,1
+fly nearby,next_to,1
+fly near,next_to,1
+fly in front of,overlap,1
+flung over,above,1
+protesting near,next_to,1
+protesting in front of,overlap,1
+protruding over,above,1
+puddles on top of,on,1
+fluing over,above,1
+fluttering next to,next_to,1
+flows in front of,overlap,1
+flowing alongside,next_to,1
+flown behind,overlap,1
+pulled out from under,under,1
+flows under a,under,1
+flowing in front of,overlap,1
+pulled in next to,next_to,1
+pulled up beside,next_to,1
+pulled up above,above,1
+pulled to a stop beside,next_to,1
+flourishes behind,overlap,1
+pulled over near,above,1
+pulled over at,above,1
+pulling alongside,next_to,1
+pulled near,next_to,1
+flowing low over,above,1
+pulling beside,next_to,1
+floats over,above,1
+floats nearby,next_to,1
+flock over,above,1
+floating out in the middle of,in,1
+aloft inside of,in,1
+almost overtaken by,above,1
+floats beside,next_to,1
+pulling luggage behind,overlap,1
+pulling in front of,overlap,1
+pulling over on,above,1
+floating next to each other,next_to,1
+pulls behind,overlap,1
+pulls alongside,next_to,1
+pulling up in front of,overlap,1
+pulling up beside,next_to,1
+pulling up behind,overlap,1
+floating beneath,under,1
+pulls in next to,next_to,1
+pushed over,above,1
+flips underneath,under,1
+flips over while tossing,above,1
+flips over,above,1
+flipping upside down on top of,on,1
+flipping under,under,1
+pushed in under,under,1
+pushed together in front of,overlap,1
+flipping over on,above,1
+flipping beneath,under,1
+float near,next_to,1
+put up next to,next_to,1
+put its head over,above,1
+put on top of,on,1
+puts its head near,next_to,1
+puts inside of,in,1
+pushing over,above,1
+flipped under,under,1
+flipped open near,next_to,1
+fling over,above,1
+putting next to,next_to,1
+putting inside,in,1
+putting his face up next to,next_to,1
+flies within,in,1
+flies upside down over,above,1
+flies underneath,under,1
+flies under,under,1
+flies on top of,on,1
+putting its face near,next_to,1
+putting over at,above,1
+flies overhead through,above,1
+flies overhead against,above,1
+flies nearby,next_to,1
+flies near to,next_to,1
+flies low near,next_to,1
+flies just over,above,1
+races over,above,1
+races below in,under,1
+are lined up underneath,under,1
+are lined up outside,next_to,1
+are lined up in front of,overlap,1
+are lined up beside,next_to,1
+racing below,under,1
+racing to jump over,above,1
+flies next to,next_to,1
+flies far over,above,1
+flies close over,above,1
+flies by next to,next_to,1
+racing next to,next_to,1
+rail near,next_to,1
+flies beside,next_to,1
+flies atop,on,1
+railing next to,next_to,1
+raised behind,overlap,1
+raised alongside,next_to,1
+raises above,above,1
+flare over,above,1
+flattened under,under,1
+reaches down in front of,overlap,1
+reach up high to peer over,above,1
+fixing something under,under,1
+reaches high above,above,1
+reaches over to hit,above,1
+reaches out from underneath,under,1
+reach over,above,1
+fits inside of,in,1
+fits inside,in,1
+fixed within,in,1
+reaches overhead with,above,1
+fitting inside,in,1
+fits within,in,1
+almost covers,above,1
+almost covering,above,1
+fit inside,in,1
+reaching above,above,1
+reaching outside,next_to,1
+reaching from under,under,1
+fits in between,next_to,1
+fishing next to,next_to,1
+reaching on top of,on,1
+reaching over and petting,above,1
+reaching out over,above,1
+reaching over to get,above,1
+reaching over to feed,above,1
+reaching over to,above,1
+reaching over for,above,1
+filming behind,overlap,1
+reaching up next to,next_to,1
+reaching up and over,above,1
+reading beside,next_to,1
+filled inside,in,1
+reading under,under,1
+reading next to,next_to,1
+filled inside of,in,1
+filled to overflowing,above,1
+reading in front of,overlap,1
+ready behind,overlap,1
+fighting in front of,overlap,1
+ready to fall over from,above,1
+fight for control over,above,1
+fight behind,overlap,1
+fender above,above,1
+all over a,above,1
+all gathered near,next_to,1
+fence that surrounds,contains,1
+fence near,next_to,1
+fenced in next to,next_to,1
+fenced in near,next_to,1
+feet propped up in front of,overlap,1
+reclines over,above,1
+reclined under,under,1
+reflected behind,overlap,1
+feeding itself underneath,under,1
+feeding in front of,overlap,1
+feeding in between,next_to,1
+reflected over,above,1
+feeding next to,next_to,1
+featured outside of,next_to,1
+reflected inside,in,1
+reflecting behind,overlap,1
+reflection above,above,1
+reflecting on top of,on,1
+are located behind,overlap,1
+reflection inside th,in,1
+feast away over,above,1
+relax next to,next_to,1
+relaxes next to,next_to,1
+relaxes inside,in,1
+relaxes beside,next_to,1
+relaxes below,under,1
+relaxes atop,on,1
+fastened next to,next_to,1
+fashioned behind,overlap,1
+relaxing inside,in,1
+relaxing beside,next_to,1
+far down below,under,1
+relaxing outside with,next_to,1
+relaxing outside in,next_to,1
+relaxing outside,next_to,1
+falls in front of,overlap,1
+far off beside,next_to,1
+falls over on,above,1
+falling in back of,overlap,1
+falling while skating near,next_to,1
+rest on top of,on,1
+rest on top,on,1
+falling over on,above,1
+rest alongside,next_to,1
+rested near,next_to,1
+rest underneath,under,1
+rest next to,next_to,1
+falling on top of,on,1
+resting her head on top of,on,1
+resting on top of a,on,1
+resting its paws on top of,on,1
+resting in the middle of,in,1
+falling apart next to,next_to,1
+resting in between,next_to,1
+resting horizontally on top of other,on,1
+rests besides,next_to,1
+rests amidst,next_to,1
+rests alongside,next_to,1
+fallen next to,next_to,1
+resting peacefully beside,next_to,1
+rests curled up under,under,1
+retaining wall beside,next_to,1
+rests under,under,1
+rests over,above,1
+rests on top of a,on,1
+airborne next to,next_to,1
+air surfs high above,above,1
+air gliding over,above,1
+extends over,above,1
+ride beside,next_to,1
+ride behind,overlap,1
+ride above,above,1
+eyes are covered,above,1
+extends in front of,overlap,1
+extends behind,overlap,1
+rides inside of,in,1
+rides underneath,under,1
+extending neck over,above,1
+extendes over,above,1
+extended out over,above,1
+extending behind,overlap,1
+extending above,above,1
+extended next to,next_to,1
+riding besides,next_to,1
+riding from underneath,under,1
+riding in back of scooter wearing red shirt and,overlap,1
+riding in back of a,overlap,1
+expands over,above,1
+exclaiming over,above,1
+riding on top of a,on,1
+right under,under,1
+right below,under,1
+right above,above,1
+equating next to,next_to,1
+right over,above,1
+right outside of,next_to,1
+right outside,next_to,1
+rise over,above,1
+erected near,next_to,1
+erected behind,overlap,1
+erected above,above,1
+rises up above,above,1
+roaming all over,above,1
+rising from behind,overlap,1
+rising behind,overlap,1
+rising up over,above,1
+roaming behind,overlap,1
+entering behind,overlap,1
+roam freely inside,in,1
+rode over,above,1
+roaming over,above,1
+roaming next to,next_to,1
+roaming free outside near,next_to,1
+rocks are covered,above,1
+rocked beneath,under,1
+rocks under water,under,1
+rolled over on,above,1
+rollerblading in front of,overlap,1
+rollerskating next to,next_to,1
+rolling over in,above,1
+engraved below,under,1
+rolling under,under,1
+rolls in front of,overlap,1
+roped off inside of,in,1
+roosts under,under,1
+roosting on a nearby,next_to,1
+enclosed inside,in,1
+rowed inside,in,1
+against gray overcast,above,1
+encased behind,overlap,1
+end below,under,1
+empty in front of,overlap,1
+enclosed behind,overlap,1
+emerged from under,under,1
+embracing near,next_to,1
+rubbing up under,under,1
+emoting in front of,overlap,1
+run beneath,under,1
+run near,next_to,1
+embracing each other on top of,on,1
+embracing each other near,next_to,1
+embraces under,under,1
+emplaced within,in,1
+embrace inside,in,1
+embrace beneath,under,1
+running and playing beside,next_to,1
+running beside a,next_to,1
+running beneath,under,1
+elevated on platform over,above,1
+elephant covered,above,1
+edge above,above,1
+elephant next to,next_to,1
+after pulling over,above,1
+eats next to,next_to,1
+eats near,next_to,1
+runs along beside a,next_to,1
+eating underneath,under,1
+eating outside of,next_to,1
+eating outdoors next to,next_to,1
+eating out underneath,under,1
+runs outside with,next_to,1
+rushing behind,overlap,1
+are not inside,in,1
+rushing under,under,1
+rushing over,above,1
+s near,next_to,1
+sail over,above,1
+eating inside of,in,1
+eating in between,next_to,1
+sail near,next_to,1
+sail in front of,overlap,1
+sail high above,above,1
+sails next to,next_to,1
+sailing alongside,next_to,1
+sailboat near land,next_to,1
+eating beneath,under,1
+sailing inside of,in,1
+sailing in front of,overlap,1
+eating alongside,next_to,1
+sat outside on,next_to,1
+sat out under,under,1
+sanding under,under,1
+eat in front of,overlap,1
+sanding in front of,overlap,1
+sanding beside,next_to,1
+scattered over,above,1
+scattered all over,above,1
+dumped over on,above,1
+ducks under,under,1
+scattered together near,next_to,1
+scowls beside,next_to,1
+scattered outside near,next_to,1
+scattered on top of,on,1
+screen behind,overlap,1
+ducking under,under,1
+screen behind a,overlap,1
+dueling over,above,1
+scratching under,under,1
+scratching next to,next_to,1
+drying over,above,1
+drying off under,under,1
+sealed within,in,1
+seated  behind,overlap,1
+seat on top,on,1
+drooped over onto,above,1
+drizzled over a,above,1
+drizzled over,above,1
+seated near a,next_to,1
+seated inside a,in,1
+seated in back of,overlap,1
+drooping over,above,1
+seeing outside,next_to,1
+driving down in the middle of,in,1
+seen amid,next_to,1
+seen below,under,1
+are next to the,next_to,1
+are next to each other,next_to,1
+are next,next_to,1
+are neard,next_to,1
+seen in spots above,above,1
+seen from above on,above,1
+seen from above,above,1
+driving inside of,in,1
+seen next to,next_to,1
+seen posted above,above,1
+seen on top of,on,1
+driving beside a,next_to,1
+driving beneath,under,1
+drives on top of,on,1
+selling fruits inside,in,1
+selling fruit under,under,1
+drivers under,under,1
+drive past behind,overlap,1
+sending near,next_to,1
+drive beneath,under,1
+served containing,contains,1
+driver over,above,1
+aflight above,above,1
+affixed above,above,1
+drive next to,next_to,1
+serving in front of,overlap,1
+drinking next to,next_to,1
+set beneath,under,1
+set behind,overlap,1
+set atop of,on,1
+set atop,on,1
+set amid,next_to,1
+set alongside,next_to,1
+set nearby,next_to,1
+set inside,in,1
+set high up in front of,overlap,1
+set out to cover,above,1
+drifts below,under,1
+drinking beside,next_to,1
+set out in front of,overlap,1
+set to look out over,above,1
+set outside in,next_to,1
+set up over,above,1
+set up outside with,next_to,1
+set up high on top of,on,1
+set up below,under,1
+dressed up on top of,on,1
+dressed up in front of,overlap,1
+set up under,under,1
+sets up shop beside,next_to,1
+setting outside,next_to,1
+setting out in front of,overlap,1
+setting next to each other,next_to,1
+settled over,above,1
+setting to overlook,above,1
+shades himself under,under,1
+dress formally near,next_to,1
+dressed nicely behind,overlap,1
+shakes hands over,above,1
+shake hands under,under,1
+drawn on top of,on,1
+drawn inside of,in,1
+draping over,above,1
+shaking hand over,above,1
+shaking hands under,under,1
+shake hands outside of,next_to,1
+shaking hands next to,next_to,1
+shaking hands inside of,in,1
+drawing near,next_to,1
+draped over top of a shower,above,1
+draped next to,next_to,1
+draped in front of a,overlap,1
+draped behind a,overlap,1
+sheep next to man,next_to,1
+draining next to,next_to,1
+sheltering over,above,1
+sheltering inside,in,1
+shine brightly above,above,1
+shine behind,overlap,1
+shine underneath,under,1
+shine outside of,next_to,1
+dozing off on top of,on,1
+shining over top of,above,1
+shines next to,next_to,1
+shines brightly behind,overlap,1
+shining down over,above,1
+shining next to,next_to,1
+shining light over,above,1
+down right above,above,1
+down over,above,1
+down low behind,overlap,1
+shopping under,under,1
+are on face of,on,1
+are on front,overlap,1
+shoveled next to,next_to,1
+show over,above,1
+doses underneath,under,1
+dominates behind,overlap,1
+showing above,above,1
+showing over,above,1
+showing inside,in,1
+showing underside of,under,1
+showing set in front of,overlap,1
+shown atop of,on,1
+doing tricks outside on,next_to,1
+doing tricks on top of,on,1
+doing tricks in front of,overlap,1
+shown beneath,under,1
+shown open under,under,1
+doing trick over,above,1
+shown underneath,under,1
+shows curiosity over,above,1
+shows beneath,under,1
+shows below,under,1
+shows above,above,1
+shows from behind,overlap,1
+shown within,in,1
+doing something in front of,overlap,1
+doing something behind,overlap,1
+shows rear behind,overlap,1
+shows profile over,above,1
+si above,above,1
+shutting in front of,overlap,1
+side by side near,next_to,1
+side by side above,above,1
+sidewalk covered,above,1
+side-by-side next to,next_to,1
+doing a trick over a,above,1
+doing a pose in front of,overlap,1
+sign behind pole,overlap,1
+sign above,above,1
+silhouetted while standing next to,next_to,1
+signs in front of,overlap,1
+singing under,under,1
+singing next to,next_to,1
+sit amid,next_to,1
+docked outside of,next_to,1
+docked outside,next_to,1
+docked on top of,on,1
+does a skateboard trick over,above,1
+sit and stand in front of,overlap,1
+sit down next to,next_to,1
+sit behind a,overlap,1
+sit in front of a,overlap,1
+docked within,in,1
+docked up near,next_to,1
+docked under,under,1
+docked together next to,next_to,1
+do tricks outside of,next_to,1
+sit empty in front of,overlap,1
+do not cover,above,1
+sit near each other,next_to,1
+sit lined up next to,next_to,1
+docked alongside,next_to,1
+dock next to,next_to,1
+sit parked alongside,next_to,1
+sit outside by,next_to,1
+sit parked outside of,next_to,1
+sit untouched atop,on,1
+sit stacked on top of,on,1
+divided next to,next_to,1
+sited besides,next_to,1
+sit within,in,1
+sit vacant inside,in,1
+siting next to,next_to,1
+sits and looks over,above,1
+displayed right underneath,under,1
+sits attentively in front of,overlap,1
+sits close in front of,overlap,1
+sits by itself in front of,overlap,1
+sits dug inside of,in,1
+sits down under,under,1
+sits docked near,next_to,1
+sits docked in front of,overlap,1
+displayed on top,on,1
+displayed beside,next_to,1
+displayed beneath,under,1
+displayed right next to,next_to,1
+sits down next to,next_to,1
+sits hunched over on,above,1
+sits hoisted inside of,in,1
+sits high atop,on,1
+displayed outside,next_to,1
+displayed outdoors near,next_to,1
+added underneath,under,1
+sits in the shade next to,next_to,1
+displayed above,above,1
+sits near a,next_to,1
+sits on its side next to,next_to,1
+sits on his back on top of,on,1
+sits on display in front of,overlap,1
+sits outside next to,next_to,1
+sits outside at,next_to,1
+sits outside among,next_to,1
+sits outside against,next_to,1
+sits open next to,next_to,1
+sits open near,next_to,1
+discovering,above,1
+disc container on,contains,1
+sits propped up above,above,1
+sits posing beside,next_to,1
+dirt near grass,next_to,1
+directly in front of,overlap,1
+sits together under,under,1
+sits upright under,under,1
+are on shelf below,under,1
+are on right of,next_to,1
+are on outside of,next_to,1
+dining outside,next_to,1
+dining next to,next_to,1
+sitting and laying next to,next_to,1
+sitting and eating next to,next_to,1
+dining outside at,next_to,1
+sitting and staring next to,next_to,1
+sitting and standing on top of,on,1
+dimly lit beneath,under,1
+digs under,under,1
+details inside,in,1
+sitting and standing inside of,in,1
+acting laying down next to,next_to,1
+sitting at rest next to,next_to,1
+descends over,above,1
+desk under,under,1
+sitting beside knife,next_to,1
+descends below,under,1
+descending over,above,1
+descends from behind,overlap,1
+sitting down underneath,under,1
+decorates floor under coffee,under,1
+sitting in inside of window,in,1
+sitting in front of food,overlap,1
+deep inside,in,1
+sitting looking outside of,next_to,1
+sitting just inside of,in,1
+sitting inside of a,in,1
+decorated outside of,next_to,1
+sitting next to each other on,next_to,1
+sitting on display next to,next_to,1
+sitting on display in front of,overlap,1
+darkest inside th,in,1
+sitting on top shelf of,on,1
+sitting on top of th,on,1
+sitting on top of cement,on,1
+sitting on top level,on,1
+sitting out in front of,overlap,1
+dapping over,above,1
+dangling over,above,1
+dancing around in front of,overlap,1
+sitting open in front of,overlap,1
+sitting outside beside,next_to,1
+sitting parked outside of,next_to,1
+sitting outside on top of,on,1
+darker behind,overlap,1
+dances next to,next_to,1
+dangling in front of,overlap,1
+dangling below,under,1
+dangles over,above,1
+dangles near,next_to,1
+dangled in front of,overlap,1
+sitting positioned next to,next_to,1
+sitting parked inside of,in,1
+sitting parked in front of,overlap,1
+dance near,next_to,1
+damaged behind,overlap,1
+cycling near,next_to,1
+cycling in front of,overlap,1
+cutting outside,next_to,1
+cutting in front of,overlap,1
+situated alongside,next_to,1
+cut up beside,next_to,1
+cut together near,next_to,1
+cut in half sitting next to,next_to,1
+cut open next to,next_to,1
+cut on top of,on,1
+curving behind,overlap,1
+situated near a,next_to,1
+situated beneath,under,1
+situated atop of,on,1
+situated atop,on,1
+cut in half on top of,on,1
+cut in half near,next_to,1
+cut in half beside,next_to,1
+skate boarding inside,in,1
+cut and placed on top of,on,1
+curving over front of,above,1
+curtsying in front of,overlap,1
+curls up outside,next_to,1
+curls up in front of,overlap,1
+curling over,above,1
+curled up in front of,overlap,1
+skateboarding on top of icy,on,1
+skateboarding on top of,on,1
+skateboards alongside,next_to,1
+are outside a,next_to,1
+curled up outside,next_to,1
+curled up on top of,on,1
+curled up near,next_to,1
+are on tope of,on,1
+are on top a,on,1
+skateboards on top of,on,1
+curled up and sleeping next to,next_to,1
+curled up and laying beneath,under,1
+skates next to,next_to,1
+curled up above,above,1
+curb next to,next_to,1
+cuddled up under,under,1
+skating inside of,in,1
+skateboards in front of,overlap,1
+curled up asleep in front of,overlap,1
+ski behind guy,overlap,1
+skating outside of,next_to,1
+skating outside in,next_to,1
+curled over,above,1
+curled next to,next_to,1
+cup hands over,above,1
+cuddling under,under,1
+cuddling together in front of,overlap,1
+cuddling in front of,overlap,1
+ski near,next_to,1
+skewered together near,next_to,1
+ski underneath,under,1
+cuddled up together over,above,1
+cuddles next to,next_to,1
+cuddle up next to,next_to,1
+cuddle underneath,under,1
+skies behind,overlap,1
+cruising near,next_to,1
+skiing next to a,next_to,1
+cruises beneath,under,1
+cruise near,next_to,1
+crushed under,under,1
+crunched over,above,1
+skiing together next to,next_to,1
+crowded near,next_to,1
+cruising in front of,overlap,1
+crowded under,under,1
+crowded together near,next_to,1
+crowded together in front of,overlap,1
+skis underneath,under,1
+skis on top of,on,1
+croutched over,above,1
+crowd near,next_to,1
+skis behind,overlap,1
+sky surfing in front of,overlap,1
+sled behind,overlap,1
+slaying on top of,on,1
+sky above,above,1
+slanted over into,above,1
+slanted over,above,1
+crouching inside,in,1
+crouching down near,next_to,1
+crouching down beside,next_to,1
+slashes below,under,1
+slants over,above,1
+sleep on top of,on,1
+sleeping besides,next_to,1
+sleeping beside a,next_to,1
+crouches over,above,1
+crouches on top of,on,1
+crouches next to,next_to,1
+crouching and hiding under,under,1
+crouches down behind,overlap,1
+sleeping on top,on,1
+crouched over in,above,1
+crouched over by,above,1
+crouches amidst,next_to,1
+crouched under,under,1
+sleeps over,above,1
+abundant on top of,on,1
+above white spot on,above,1
+above warehouse,above,1
+above urinal on,above,1
+sleeps underneath,under,1
+sleeps under,under,1
+above thr,above,1
+sleeps inside,in,1
+crouched down over,above,1
+crouches beside,next_to,1
+crouches beneath,under,1
+crouched behind t,overlap,1
+crouched low over,above,1
+crouched inside,in,1
+crouched in front of,overlap,1
+crossing near,next_to,1
+sliced in half next to,next_to,1
+crouched beside,next_to,1
+crouch under,under,1
+crouch over,above,1
+crouch near,next_to,1
+crotches in front of,overlap,1
+sliding behind,overlap,1
+crosses in front of,overlap,1
+crossing next to,next_to,1
+crossed over extended,above,1
+slides over,above,1
+slide over,above,1
+crossing beneath,under,1
+slightly showing under,under,1
+slightly behind,overlap,1
+slightly above,above,1
+crossed on top of,on,1
+smile and relax beneath,under,1
+slung over a,above,1
+slung behind,overlap,1
+slumped over,above,1
+cross in front of,overlap,1
+cross each other near,next_to,1
+crosses behind,overlap,1
+crosser over,above,1
+crossed under,under,1
+smile and hug next to,next_to,1
+cross country skiing next to,next_to,1
+cross-country skiing in front of,overlap,1
+smile as they pose near,next_to,1
+smile as they pose inside,in,1
+smile together next to,next_to,1
+smile over,above,1
+smile near,next_to,1
+smile in front of,overlap,1
+smile hugging in front of,overlap,1
+smiles and poses under,under,1
+smiles and leans over,above,1
+smiles above,above,1
+smiles and stands near,next_to,1
+smiles as he stands in front of,overlap,1
+smiles as he poses next to,next_to,1
+smiles brightly in front of,overlap,1
+smiles beside,next_to,1
+smiles from behind,overlap,1
+smiles brightly near,next_to,1
+smiling alongside,next_to,1
+smiles under,under,1
+smiles sitting next to,next_to,1
+smiles while standing next to,next_to,1
+smiles while standing in front of,overlap,1
+smiling and posing next to,next_to,1
+smiles while sitting in front of,overlap,1
+smiles while lying inside of,in,1
+crawling over,above,1
+creeping over,above,1
+smiles while standing outside of,next_to,1
+crawled inside of,in,1
+created behind,overlap,1
+smiling above,above,1
+smiling and sitting beside,next_to,1
+smiling as she lays next to,next_to,1
+smiling and lying next to,next_to,1
+smiling inside,in,1
+smiling as he stands behind,overlap,1
+smiling as they pose next to,next_to,1
+crashing next to,next_to,1
+crashing nearby,next_to,1
+crashing in front of,overlap,1
+crawling on top of,on,1
+smiling from behind,overlap,1
+smiling outside in,next_to,1
+smiling on top of,on,1
+crashing around and over,above,1
+crashing above,above,1
+crane over,above,1
+smiling underneath,under,1
+smiling together under,under,1
+crashes over,above,1
+smiling while sitting next to,next_to,1
+smiling while sitting in front of,overlap,1
+crash behind,overlap,1
+craning above,above,1
+cranes its head to look over,above,1
+smoothing over,above,1
+smoking outside,next_to,1
+crash near,next_to,1
+are opposite,next_to,1
+sneaking up behind,overlap,1
+crammed inside,in,1
+covering under,under,1
+crash over,above,1
+are outdoors under,under,1
+are out of,overlap,1
+are out,overlap,1
+snoozing under,under,1
+snoozing in front of,overlap,1
+sniffs near,next_to,1
+sniffing under,under,1
+sniffing near,next_to,1
+crammed on top of,on,1
+cracking behind,overlap,1
+cowers above,above,1
+covering inside,above,1
+snow boarding over,above,1
+snow boarding near,next_to,1
+snow skiing next to,next_to,1
+above in,above,1
+above ground with,above,1
+above ground near,above,1
+above blue,above,1
+above behind,above,1
+above and to right of,above,1
+snowboard and skiing next to,next_to,1
+covers themselves with,above,1
+covers in,above,1
+covers himself with,above,1
+covers himself under,under,1
+covers herself with,above,1
+covers entire,above,1
+covers collared,above,1
+covers all,above,1
+covers a,above,1
+coverings,above,1
+covering a steep,above,1
+above red,above,1
+above or,above,1
+above multicolored,above,1
+above large,above,1
+snowboarding beside,next_to,1
+covering in,above,1
+covers top of,above,1
+covering top of a,above,1
+covering to,above,1
+covering th,above,1
+covering t,above,1
+covering side of,above,1
+covering plants next to,next_to,1
+covering legs of,above,1
+covering itself with,above,1
+covering it,above,1
+snowboarding on top of,on,1
+snuggles up inside,in,1
+snowing over,above,1
+snowboards on top of,on,1
+snowboards in front of,overlap,1
+snuggled near,next_to,1
+covering head with,above,1
+covering front of,above,1
+covering fence,above,1
+covering dogs eyes,above,1
+covering bottom,above,1
+covering between,above,1
+covering back of a,above,1
+covering back of,above,1
+covered up to,above,1
+covered i,above,1
+snuggled together under,under,1
+covered up halfway with,above,1
+covered up,above,1
+snuggling near,next_to,1
+snuggling inside,in,1
+snuggling in front of,overlap,1
+covered lid of,above,1
+covered is,above,1
+covered by cloudy,above,1
+covered tree,above,1
+covered tops of,above,1
+covered sky above,above,1
+covered ski,above,1
+covered pine trees,above,1
+covered partially in,above,1
+covered over with,above,1
+covered over,above,1
+soaring high above,above,1
+soar over,above,1
+soar near,next_to,1
+soar above,above,1
+covered hill on,above,1
+covered ground near,above,1
+covered from bottom to top in,above,1
+soars overhead,above,1
+soars high over,above,1
+soaring overhead,above,1
+soaring near,next_to,1
+coverage with,above,1
+cover under,under,1
+cover tracks,above,1
+cover side,above,1
+cover a,above,1
+socializing under,under,1
+souring above,above,1
+speaking from behind,overlap,1
+counter above cabine,above,1
+covered by a sheer green,above,1
+covered besides,next_to,1
+covered b,above,1
+covered and used as,above,1
+covered and lined with,above,1
+covered a,above,1
+space behind,overlap,1
+cover in daytime,above,1
+cover bottom,above,1
+cooling on top of,on,1
+sparkling near,next_to,1
+sparked next to,next_to,1
+sparked in front of,overlap,1
+speeding over,above,1
+cover on a,above,1
+spend time near,next_to,1
+cooling off in front of,overlap,1
+cooking on top of,on,1
+cooking next to,next_to,1
+spilling over,above,1
+conversing over,above,1
+spilled over,above,1
+spins over,above,1
+spins behind,overlap,1
+splashes next to,next_to,1
+spinning beneath,under,1
+converse near,next_to,1
+converse inside,in,1
+cook over,above,1
+spitting up behind,overlap,1
+splashes nearby,next_to,1
+splashes behind,overlap,1
+splashed up in front of,overlap,1
+splashing next to,next_to,1
+converse over,above,1
+splashing in front of,overlap,1
+splashing in back of,overlap,1
+splattered all over,above,1
+splasing near,next_to,1
+contemplating over,above,1
+splashing out behind,overlap,1
+contents emptied out containing,contains,1
+sprawled out over,above,1
+contains inside,contains,1
+containing small amount of,contains,1
+containing hot,contains,1
+container near,contains,1
+container,contains,1
+contained inside,contains,1
+sprayed behind,overlap,1
+sprawled out near,next_to,1
+sprawled on top of,on,1
+contains very little,contains,1
+spraying outside from,next_to,1
+spraying on top of,on,1
+contained in a,contains,1
+spreadeagled in air above,above,1
+spread out in front of,overlap,1
+are painted on top of,on,1
+connects over,above,1
+sprinkled on top of,on,1
+sprinkled on top,on,1
+spreads its tail under,under,1
+confined within,in,1
+spread on top of,on,1
+squating behind,overlap,1
+squat under,under,1
+spurts up near,next_to,1
+connected under,under,1
+squatted down next to,next_to,1
+squats while surrounded by,contains,1
+squats next to,next_to,1
+squats near,next_to,1
+squats down behind,overlap,1
+conjoined next to,next_to,1
+congregating outside of,next_to,1
+congregated behind,overlap,1
+squatted under,under,1
+squatted over,above,1
+squatted on top of,on,1
+squatted next to,next_to,1
+squatted near,next_to,1
+squatting down beside,next_to,1
+above  the,above,1
+confronting each other near,next_to,1
+above surface of,above,1
+above store,above,1
+squatting behind a,overlap,1
+squatting atop,on,1
+squatting down over,above,1
+squatting down next to,next_to,1
+squatting down near,next_to,1
+squatting down in front of,overlap,1
+squeeze under,under,1
+squatting over,above,1
+squatting outside by,next_to,1
+squatting outside,next_to,1
+squished in between,next_to,1
+sre under,under,1
+stacked beneath,under,1
+stacked below,under,1
+concealed within,in,1
+stacked nearby,next_to,1
+stacked underneath,under,1
+completely covered,above,1
+stacked together near,next_to,1
+stacked outside on,next_to,1
+communing next to,next_to,1
+coming up from behind,overlap,1
+coming or going outside of,next_to,1
+stairs near platform,next_to,1
+stance from behind on,overlap,1
+stand and lay within,in,1
+stand and lay near,next_to,1
+coming near,next_to,1
+stand amid,next_to,1
+stand around outside with,next_to,1
+coming in behind,overlap,1
+stand around beside,next_to,1
+stand around and talk in front of,overlap,1
+stand apart near,next_to,1
+stand besides,next_to,1
+stand beside of,next_to,1
+stand and graze near,next_to,1
+stand below,under,1
+stand behind a,overlap,1
+coming in to land near,next_to,1
+stand close together near,next_to,1
+stand in line in front of,overlap,1
+coming from behind,overlap,1
+stand parked in front of,overlap,1
+stand parallel near,next_to,1
+stand outside in front of,overlap,1
+comfortable atop,on,1
+stand smiling in front of,overlap,1
+coming down to land over,above,1
+stand under a,under,1
+about to take off near,next_to,1
+stand outside in,next_to,1
+coming alongside,next_to,1
+coming along near,next_to,1
+comes in to land over,above,1
+above adjoining,above,1
+stand together next to,next_to,1
+stand together beside,next_to,1
+stand together behind,overlap,1
+stand up next to,next_to,1
+stand underneath of,under,1
+standing alone inside of,in,1
+comes in over,above,1
+come over,above,1
+come in behind,overlap,1
+standing alongside of,next_to,1
+standing alongside a,next_to,1
+standing and peering in front of,overlap,1
+standing and laying on top of,on,1
+standing and looking forward underneath,under,1
+standing and sitting outside of,next_to,1
+standing and sitting in front of,overlap,1
+standing and seated alongside,next_to,1
+standing and talking in front of,overlap,1
+standing and talking in between,next_to,1
+standing around next to,next_to,1
+coats over,above,1
+standing around inside of,in,1
+coasts near,next_to,1
+standing beside each other near,next_to,1
+standing beneath a,under,1
+standing besides a,next_to,1
+standing beside some,next_to,1
+standing beside of,next_to,1
+standing beside each other on,next_to,1
+clusters within,in,1
+clustered outside,next_to,1
+standing by itself next to,next_to,1
+standing close together beside,next_to,1
+are parked in back of,overlap,1
+standing gin front of,overlap,1
+standing in line beside,next_to,1
+standing in front of another,overlap,1
+cluster together near,next_to,1
+closed next to,next_to,1
+standing in line in front of,overlap,1
+standing in front of parking,overlap,1
+standing in front of bus,overlap,1
+cloth covering,above,1
+standing inside of a,in,1
+standing next to silver,next_to,1
+standing next to right of,next_to,1
+standing next to on,next_to,1
+standing next to each other near,next_to,1
+close beside,next_to,1
+standing on top of a large,on,1
+clip over,above,1
+standing out in front of,overlap,1
+standing outside by itself next to,next_to,1
+climbs inside,in,1
+climbs over,above,1
+standing right next to,next_to,1
+climbing under,under,1
+about to shake hands under,under,1
+standing still beside,next_to,1
+climbing inside,in,1
+standing together close in front of,overlap,1
+clear in front of,overlap,1
+standing together surrounded by,contains,1
+standing together posing next to,next_to,1
+cleaning on top of,on,1
+standing upright next to,next_to,1
+standing up beside,next_to,1
+standing upright in front of,overlap,1
+standing waiting next to,next_to,1
+standing waiting alongside,next_to,1
+chugs over,above,1
+standing within enclosed area on top of,on,1
+churning behind,overlap,1
+choppy near,next_to,1
+choppy in front of,overlap,1
+stands atop of,on,1
+stands guard over,above,1
+stands erect near,next_to,1
+stands in the middle of,in,1
+stands in the background near,next_to,1
+stands open above,above,1
+stands in front of a,overlap,1
+stands idly outside of,next_to,1
+stands hunched over by,above,1
+stands high in front of,overlap,1
+stands near to,next_to,1
+chimney on top of,on,1
+chillin under,under,1
+stands on display in front of,overlap,1
+stands next to a,next_to,1
+stands nearby on,next_to,1
+stands outside throwing,next_to,1
+stands outside next to,next_to,1
+stands outside in,next_to,1
+stands outdoors under,under,1
+stands outdoors near,next_to,1
+checking under,under,1
+stands over a,above,1
+stands smiling near,next_to,1
+stands slanted near,next_to,1
+stands set up near,next_to,1
+stands tall above,above,1
+stands stopped near,next_to,1
+charging near,next_to,1
+stands tall in front of,overlap,1
+stands waiting next to,next_to,1
+stands very near,next_to,1
+stands within,in,1
+stands tall over,above,1
+chasing behind,overlap,1
+chat inside of,in,1
+stares atop,on,1
+stares over,above,1
+chatting inside,in,1
+chatting in front of,overlap,1
+charging on top of,on,1
+charging next to,next_to,1
+stares inside of,in,1
+stares in front of,overlap,1
+stares from inside,in,1
+stares from behind,overlap,1
+stares up near,next_to,1
+stares up besides,next_to,1
+staring to the side outside of,next_to,1
+staring outside through,next_to,1
+staring outside of,next_to,1
+staring out from underneath,under,1
+staring out from behind,overlap,1
+chained next to,next_to,1
+chained near,next_to,1
+staring next to,next_to,1
+starting to grow and bloom in front of,overlap,1
+centered outside on,next_to,1
+chained up and parked next to,next_to,1
+centered over,above,1
+stationed outside of,next_to,1
+center surrounded by,contains,1
+celebrates next to,next_to,1
+steps out from behind,overlap,1
+steps forward beside,next_to,1
+celebrating next to,next_to,1
+celebrating in front of,overlap,1
+stick their heads over,above,1
+stick his head above,above,1
+stick under mans arm,under,1
+sticking its head inside of,in,1
+sticking its face inside,in,1
+sticking inside of,in,1
+sticking his face near,next_to,1
+sticking her hand next to,next_to,1
+sticking out above,above,1
+sticking its neck over,above,1
+sticking their heads next to,next_to,1
+sticking over side of,above,1
+sticking out under,under,1
+sticking out next to,next_to,1
+sticking out in front of a,overlap,1
+sticking up next to,next_to,1
+sticking up from behind,overlap,1
+sticking up above or,above,1
+sticking tongue out beside,next_to,1
+sticking their heads over,above,1
+sticks it head over,above,1
+catching behind,overlap,1
+sticks his head over,above,1
+sticks over,above,1
+stooped down beside,next_to,1
+stooped beside,next_to,1
+stone behind,overlap,1
+stoops over,above,1
+stooped down next to,next_to,1
+stooping behind,overlap,1
+stood up vertically next to,next_to,1
+stood on top of,on,1
+stoops amid,next_to,1
+stooping over,above,1
+stooping in front of,overlap,1
+stopped nearby,next_to,1
+stopped near a,next_to,1
+stopped inside,in,1
+stop near,next_to,1
+stopping alongside of,next_to,1
+carrying on top of,on,1
+stopped outside,next_to,1
+stopped on top of,on,1
+stops near,next_to,1
+stopped under,under,1
+carry over,above,1
+stopping in front of,overlap,1
+stove below,under,1
+stops beneath,under,1
+stored next to,next_to,1
+stored beside,next_to,1
+stops to urinate under,under,1
+stopping outside,next_to,1
+carried under,under,1
+carried over,above,1
+stowed under,under,1
+stored upside down in front of,overlap,1
+stranded near,next_to,1
+strapped down behind,overlap,1
+strapped atop,on,1
+stranding behind,overlap,1
+strapped under,under,1
+strapped over,above,1
+strapped on top of,on,1
+stream over,above,1
+cardboard under,under,1
+stretched in front of,overlap,1
+stretched out on top of,on,1
+stretched out next to,next_to,1
+stretched out near,next_to,1
+stretched out in front of,overlap,1
+stretches inside of,in,1
+stretches beside,next_to,1
+stretches over and touches,above,1
+captured in flight over,above,1
+stretching alongside,next_to,1
+stretching above,above,1
+stretching on top of,on,1
+stretching next to,next_to,1
+stretching neck over,above,1
+stretching its head over,above,1
+stretching while lying next to,next_to,1
+can sit under,under,1
+can park near,next_to,1
+strolling beside,next_to,1
+stroll in front of,overlap,1
+can be seen above,above,1
+structured inside,in,1
+can be seen near,next_to,1
+can be seen in between,next_to,1
+can be seen beneath,under,1
+can be seen behind,overlap,1
+calm behind,overlap,1
+about to jump over,above,1
+strut support near,next_to,1
+caged inside,in,1
+came near,next_to,1
+strutting inside of,in,1
+caked inside,in,1
+stuck next to,next_to,1
+stuck in between,next_to,1
+submerged under,under,1
+submerged inside of,in,1
+stuffed inside of,in,1
+stuffed inside a,in,1
+sun bathing near,next_to,1
+by itself beside,next_to,1
+suit in back of,overlap,1
+sunbathing near,next_to,1
+support behind,overlap,1
+surf near,next_to,1
+surf boarding together near,next_to,1
+surfboards over,above,1
+butchered in front of,overlap,1
+surfboarding underneath,under,1
+surfboarding on top of,on,1
+surfing inside of,in,1
+surfing in the middle of,in,1
+surfing beside,next_to,1
+burned in front of,overlap,1
+bushes near hill,next_to,1
+bursking under,under,1
+burrowed under,under,1
+surfs near,next_to,1
+surfs atop,on,1
+surround a skate,contains,1
+built within,in,1
+surrounding parking lot,contains,1
+surrounding base of,contains,1
+surrounding area with,contains,1
+surrounding an,contains,1
+surround roof,contains,1
+surround a,contains,1
+buried inside,in,1
+bunched together near,next_to,1
+surrounds te,contains,1
+surrounding top of,contains,1
+surrounding pond,contains,1
+sweeps over,above,1
+built over a,above,1
+swimming in front of,overlap,1
+swimming underneath,under,1
+swimming besides,next_to,1
+building behind,overlap,1
+swims low over,above,1
+swims inside of,in,1
+swims in front of,overlap,1
+swinging near,next_to,1
+swinging inside,in,1
+brushing in front of,overlap,1
+about to go over,above,1
+about to get washed over by,above,1
+about to get run over by,above,1
+browsing below,under,1
+swings in front of,overlap,1
+swirling behind,overlap,1
+swoops over,above,1
+swooping down over,above,1
+broken on top of,on,1
+table under,under,1
+breathing under,under,1
+taken inside,in,1
+bridge over road and,above,1
+takes a rest next to,next_to,1
+takes a nap on top of,on,1
+breaks behind,overlap,1
+breaking underneath,under,1
+breaking under,under,1
+takes flight over,above,1
+brewer behind,overlap,1
+takes off in front of,overlap,1
+branches behind,overlap,1
+breaking over,above,1
+taking a rest next to,next_to,1
+taking a picture next to,next_to,1
+taking a picture in front of,overlap,1
+taking a nap under,under,1
+taking a rest near,next_to,1
+taking a walk inside,in,1
+taking cover,above,1
+taking flight under,under,1
+taking off next to,next_to,1
+taking off just above,above,1
+taking cover with,above,1
+bounding forward over,above,1
+bound on top of,on,1
+bottle next to,next_to,1
+taking off above,above,1
+taking photographs beneath,under,1
+taking photo near,next_to,1
+taking shelter underneath,under,1
+taking shade beneath,under,1
+bottle near,next_to,1
+talk atop,on,1
+talking alongside,next_to,1
+talk outside,next_to,1
+talk near,next_to,1
+taking pictures underneath,under,1
+talking as they are next to,next_to,1
+talking and standing next to,next_to,1
+talking and smiling under,under,1
+talking together beside,next_to,1
+talking on top of,on,1
+talking outside with,next_to,1
+talks beside,next_to,1
+talking while under,under,1
+talking while standing next to,next_to,1
+are playing on top,on,1
+tall behind,overlap,1
+talks over,above,1
+talks in front of,overlap,1
+tan behind,overlap,1
+taped over,above,1
+blurring next to,next_to,1
+bluing over,above,1
+tanking above,above,1
+blue behind,overlap,1
+teaching behind,overlap,1
+telephone above,above,1
+blowing smoke behind,overlap,1
+blown over with,above,1
+tethered near,next_to,1
+texts near,next_to,1
+texting in front of,overlap,1
+blooming in front of,overlap,1
+that are uncovered while,above,1
+that are double stacked under,under,1
+blooming near,next_to,1
+that covers a,above,1
+that clear over,above,1
+that goes over,above,1
+that has fallen over,above,1
+that has just gone under,under,1
+that is outside next to,next_to,1
+that is next to,next_to,1
+that next to,next_to,1
+that overlooks a,above,1
+that over,above,1
+about to get inside,in,1
+that runs over,above,1
+that runs alongside,next_to,1
+black television next to,next_to,1
+thinking in front of,overlap,1
+think they are hiding behind,overlap,1
+blanketed under,under,1
+thriving near,next_to,1
+black inside,in,1
+thumbs up in front of,overlap,1
+throwing toy in front of,overlap,1
+thrown over back of a,above,1
+thrown over back of,above,1
+thrown near,next_to,1
+tied up over,above,1
+tied up next to,next_to,1
+tied up near,next_to,1
+tied beside,next_to,1
+tied on top of,on,1
+billowing behind,overlap,1
+tied next to,next_to,1
+tied near,next_to,1
+tied up above,above,1
+tied under,under,1
+bikes next to,next_to,1
+tilted in front of,overlap,1
+bicycling near,next_to,1
+tipped over next to,next_to,1
+besides the,next_to,1
+besides some,next_to,1
+besides first,next_to,1
+besides another,next_to,1
+to be worn above,above,1
+to be thrown in front of,overlap,1
+to cover,above,1
+beside red,next_to,1
+beside railroad,next_to,1
+beside or,next_to,1
+beside laying,next_to,1
+beside each other,next_to,1
+beside brown,next_to,1
+beside boat,next_to,1
+beside blue,next_to,1
+beside the,next_to,1
+beside standing,next_to,1
+to fight over,above,1
+beside a pool of,next_to,1
+beside a disposal,next_to,1
+beside  the,next_to,1
+bent under weight of,under,1
+bent under,under,1
+bent over with a,above,1
+besides a,next_to,1
+beside white,next_to,1
+bent over while standing next to,next_to,1
+to glide over,above,1
+to go inside,in,1
+bent over while giving,above,1
+bent over to return,above,1
+bent over to eat,above,1
+bent over to catch,above,1
+bent over to,above,1
+bent over throwing,above,1
+bent over side of,above,1
+bent over on a,above,1
+bent over off,above,1
+bent over an,above,1
+bent over a,above,1
+beneath of edge of,under,1
+to inside,in,1
+to hide what under,under,1
+to land near,next_to,1
+to jump over,above,1
+bent over front of,above,1
+bent over by,above,1
+bent over at,above,1
+bends over to look at,above,1
+to look outside,next_to,1
+to look behind,overlap,1
+to pass over,above,1
+bent down next to,next_to,1
+bent down near,next_to,1
+bent down in front of,overlap,1
+bent down behind,overlap,1
+to peer over,above,1
+bends over toward,above,1
+bends over to retrieve,above,1
+bends over to pick up,above,1
+bends over to nibble,above,1
+to reach over,above,1
+beneath of,under,1
+beneath many,under,1
+beneath cuff of,under,1
+beneath blue,under,1
+bends over on,above,1
+bends over in,above,1
+bends forward near,next_to,1
+bends over to graze on,above,1
+bends over to get,above,1
+bends over to feed,above,1
+bends over to adjust,above,1
+bends over to,above,1
+bends down near,next_to,1
+bends down behind,overlap,1
+bending over to look inside of,in,1
+to sit above and on,above,1
+bending under,under,1
+bending over to work on,above,1
+bending over to use,above,1
+bending over to touch,above,1
+bending over to tie,above,1
+bending over to tend to,above,1
+bending over to reach for,above,1
+bending low over,above,1
+bending over to look inside,above,1
+together on top of,on,1
+bending over while,above,1
+bending over trying to catch,above,1
+bending over to graze on,above,1
+bending over to get,above,1
+bending over to bake,above,1
+bending over to adjust,above,1
+bending over next to,next_to,1
+together over,above,1
+together outside in,next_to,1
+took over,above,1
+bending its neck over,above,1
+bending over to investigate,above,1
+bending over to hit,above,1
+bending over to help,above,1
+bending over for,above,1
+bending over by,above,1
+bending over behind,above,1
+bending over at,above,1
+bending over and using,above,1
+bending over after being hit by,above,1
+bending over a,above,1
+bending next to,next_to,1
+top under,under,1
+topped and surrounded by,contains,1
+bending over in front of,overlap,1
+bending inside,in,1
+bending head down over,above,1
+toppled over by,above,1
+tossed over,above,1
+tossed outside,next_to,1
+bending down next to,next_to,1
+bending down near,next_to,1
+bending down in front of,overlap,1
+bendable over,above,1
+bend over to eat,above,1
+bend over as,above,1
+bend over,above,1
+touching hands under,under,1
+towed in front of,overlap,1
+towers above main,above,1
+below strip of,under,1
+below on,under,1
+bended over in front of,overlap,1
+bench near a walkway,next_to,1
+belows,under,1
+below with,under,1
+tower near,next_to,1
+below larger,under,1
+below blue,under,1
+below an,under,1
+below   the,under,1
+towers on top of,on,1
+towers next to,next_to,1
+towers in front of,overlap,1
+trailing over top of,above,1
+trailer behind,overlap,1
+being washed over by,above,1
+bellows from behind,overlap,1
+travel over,above,1
+travel next to,next_to,1
+travel near,next_to,1
+about to be overwhelmed by,above,1
+about to be hit back over,above,1
+travel under,under,1
+being walked beside,next_to,1
+being walked next to,next_to,1
+being walked near,next_to,1
+traveling fast over,above,1
+traveling downhill near,next_to,1
+being used on top of,on,1
+traveling on top,on,1
+traveling near an,next_to,1
+traveling undergroud on,under,1
+travelling under,under,1
+being towed over,above,1
+travelling underneath,under,1
+travels above,above,1
+travelling on top of,on,1
+travelling in front of,overlap,1
+travels in front of,overlap,1
+travels beside,next_to,1
+travels below,under,1
+tree near edge of ten,next_to,1
+travels on top of a,on,1
+tree in container,contains,1
+traversing next to,next_to,1
+trees near beach,next_to,1
+trees near,next_to,1
+tree in front of,overlap,1
+being sold outside of,next_to,1
+being social outside,next_to,1
+tries to balance himself on top of,on,1
+tries to get on top of,on,1
+tries to look over,above,1
+being sold behind,overlap,1
+trotting alongside,next_to,1
+tries to stay afloat amidst,next_to,1
+trots and pants in front of,overlap,1
+try to fight over,above,1
+trunk under,under,1
+trunk beside background,next_to,1
+trumpets over,above,1
+being run under,under,1
+being roasted inside of,in,1
+being served next to,next_to,1
+trying to climb on top of,on,1
+trying to climb inside,in,1
+being seen near,next_to,1
+being repaired on top of,on,1
+trying to get over,above,1
+trying to hide under,under,1
+trying to fly under,under,1
+trying to look underneath,under,1
+trying to look under,under,1
+being prepared over,above,1
+being pulled over,above,1
+trying to peek inside,in,1
+trying to overcome,above,1
+trying to recover,above,1
+trying to rake near,next_to,1
+being petted next to,next_to,1
+being poured next to,next_to,1
+being placed next to,next_to,1
+trying to work from behind,overlap,1
+being overturned by,above,1
+being overtaken by,above,1
+being overlooked by,above,1
+being overgrown with,above,1
+being over on,above,1
+being parked next to,next_to,1
+being made within,in,1
+turned on above,above,1
+being looked over by,above,1
+turned off next to,next_to,1
+turned inside out to look like,in,1
+turned over by,above,1
+turned on top of,on,1
+turned on inside,in,1
+being made outside on,next_to,1
+being made inside of,in,1
+turned under,under,1
+being looked at over,above,1
+turning left next to,next_to,1
+turning in front of,overlap,1
+turning below,under,1
+typing near,next_to,1
+typing in front of,overlap,1
+being hold next to,next_to,1
+twisting over a,above,1
+being herded next to,next_to,1
+being herded behind,overlap,1
+under a cutting,under,1
+being held out in front of,overlap,1
+uncovered,above,1
+under foot of,under,1
+under edge of,under,1
+under construction at,under,1
+under the watch of,under,1
+under coffee,under,1
+under chin,under,1
+under cfv on,under,1
+under bus,under,1
+under brach of,under,1
+under boys,under,1
+under blue,under,1
+under another,under,1
+under plaid,under,1
+under people,under,1
+under neath of,under,1
+under a boys,under,1
+being held inside of,in,1
+under little,under,1
+under its,under,1
+under in,under,1
+under handed in,under,1
+under h,under,1
+under gray,under,1
+under wat of a,under,1
+under tree,under,1
+under top of,under,1
+under the protection of,under,1
+under splayed,under,1
+under some,under,1
+under shade of a,under,1
+under road,under,1
+underwater,under,1
+underside,under,1
+underrneath,under,1
+underneath white,under,1
+underneath carpet,under,1
+underneath and next to,next_to,1
+being grown outside in,next_to,1
+being held under,under,1
+being grilled outside,next_to,1
+underneath a dark cloudy,under,1
+undergoing repairs,under,1
+undergoing,under,1
+undercover,under,1
+underbody,under,1
+under wooden,under,1
+being hand-fed over,above,1
+up behind,overlap,1
+being fried inside,in,1
+being flushed inside of,in,1
+being flown overhead,above,1
+up and over,above,1
+up in the air over,above,1
+up on top of,on,1
+up next to,next_to,1
+up outside in front of,overlap,1
+being flown high above,above,1
+up over,above,1
+upright next to,next_to,1
+upright beside,next_to,1
+being excited over,above,1
+being eaten in front of,overlap,1
+upside down outside on,next_to,1
+urinating all over,above,1
+used to cover,above,1
+used to contain,contains,1
+being displayed under,under,1
+being displayed over,above,1
+being displayed on top of,on,1
+being displayed next to,next_to,1
+being displayed near,next_to,1
+vehicle beside,next_to,1
+being dangled over,above,1
+being dangled above,above,1
+view-able behind,overlap,1
+very high above,above,1
+view above,above,1
+being displayed in front of,overlap,1
+being displayed behind,overlap,1
+being cut on top of,on,1
+being cut in front of,overlap,1
+being covered up by,above,1
+being consulted in front of,overlap,1
+being constructed over,above,1
+view from underneath,under,1
+being charged next to,next_to,1
+visible near a,next_to,1
+visible inside,in,1
+being covered over by,above,1
+visible beside,next_to,1
+being carried over,above,1
+being carried near,next_to,1
+being cared for inside in,in,1
+wade in front of,overlap,1
+waddles in front of,overlap,1
+wading ashore near,next_to,1
+wading amid,next_to,1
+wading on top of,on,1
+being built over,above,1
+wading next to,next_to,1
+wading near,next_to,1
+wait near,next_to,1
+wait in front of,overlap,1
+being boiled over,above,1
+wait nearby,next_to,1
+being air lifted over,above,1
+wait to travel atop,on,1
+waiting in line near,next_to,1
+waiting in line in front of,overlap,1
+waiting on top of th,on,1
+waiting on top of,on,1
+waiting inside,in,1
+behinds,overlap,1
+behind y,overlap,1
+behind womans,overlap,1
+behind which rests,overlap,1
+behind which is,overlap,1
+behind which,overlap,1
+behind urinal on,overlap,1
+waiting patiently outside,next_to,1
+waiting outside on,next_to,1
+waiting outside for,next_to,1
+behind street,overlap,1
+behind stacks of,overlap,1
+behind railroad,overlap,1
+behind posing,overlap,1
+behind tree,overlap,1
+behind tray,overlap,1
+behind through,overlap,1
+behind th,overlap,1
+behind mans right,overlap,1
+behind man on,overlap,1
+behind man,overlap,1
+behind herd of,overlap,1
+behind held by,overlap,1
+waiting to get inside,in,1
+behind pickup,overlap,1
+behind people and,overlap,1
+behind orange,overlap,1
+behind or rear,overlap,1
+behind elephant,overlap,1
+behind downed,overlap,1
+behind crest of,overlap,1
+behind car,overlap,1
+behind banana,overlap,1
+behind back of,overlap,1
+waits alongside,next_to,1
+waiting underneath,under,1
+waiting under,under,1
+waits outside,next_to,1
+waits next to,next_to,1
+waits in front of,overlap,1
+waits atop,on,1
+behind green,overlap,1
+behind girl,overlap,1
+behind first,overlap,1
+behind fallen,overlap,1
+behind a red,overlap,1
+behind a motor,overlap,1
+behind a group of,overlap,1
+behind  the,overlap,1
+wakeboarding behind,overlap,1
+wake boarding behind,overlap,1
+waits while surrounded by,contains,1
+waits under,under,1
+behind a trunk of,overlap,1
+waking inside,in,1
+walk and graze behind,overlap,1
+walk and stand near,next_to,1
+walk above,above,1
+walk about outside of,next_to,1
+behind and next to,next_to,1
+behind an apple,overlap,1
+walk beneath,under,1
+walk around inside,in,1
+walk around in front of,overlap,1
+walk underneath,under,1
+walk inside,in,1
+walk close behind,overlap,1
+walk side by side under,under,1
+walk out in front of,overlap,1
+beginning its ascent over,above,1
+walked near,next_to,1
+walked behind,overlap,1
+walk together under,under,1
+walking along in front of,overlap,1
+walking along beside,next_to,1
+walking alongside a,next_to,1
+walking and standing outside of,next_to,1
+walking and standing next to,next_to,1
+walking around in front of,overlap,1
+walking around next to,next_to,1
+walking away on top of,on,1
+walking beneath an,under,1
+beak behind a,overlap,1
+battling over,above,1
+walking in front of another,overlap,1
+bathing near,next_to,1
+walking outside underneath,under,1
+walking next to a wall,next_to,1
+barrier next to,next_to,1
+walking outside in front of,overlap,1
+barking next to,next_to,1
+barking near,next_to,1
+barely visible behind,overlap,1
+balancing outside of,next_to,1
+walking together outside of,next_to,1
+walking up on top of,on,1
+walking while surrounding,contains,1
+walks around within,in,1
+balanced behind,overlap,1
+walkling over,above,1
+balances atop,on,1
+walks amid,next_to,1
+walks alone next to,next_to,1
+balanced inside of,in,1
+walks beneath,under,1
+walks atop,on,1
+bakes inside of,in,1
+balances over,above,1
+badly parked next to,next_to,1
+walks inside,in,1
+backpack next to man,next_to,1
+walks inside of,in,1
+walks outside,next_to,1
+wandering under,under,1
+back over,above,1
+wander around beneath,under,1
+wander around behind,overlap,1
+wandering near,next_to,1
+wants to go outside with,next_to,1
+was outside on,next_to,1
+was on a,on,1
+was on,on,1
+back in front of,overlap,1
+was served over,above,1
+washes ashore behind,overlap,1
+available near,next_to,1
+watch near,next_to,1
+are right next to,next_to,1
+are resting on top,on,1
+watch over,above,1
+watches in front of,overlap,1
+watches from behind,overlap,1
+watched over by,above,1
+water over rocks,above,1
+water over road,above,1
+waterskiing next to,next_to,1
+waves near,next_to,1
+waves in front of,overlap,1
+waves behind,overlap,1
+waved outside,next_to,1
+waved on top of,on,1
+waving under,under,1
+way in front of,overlap,1
+atop te,on,1
+atop wooden,on,1
+atop trunk of,on,1
+atop table,on,1
+atop of wooden,on,1
+atop of a,on,1
+attached behind,overlap,1
+at some distance behind,overlap,1
+wedged within,in,1
+wedged inside of,in,1
+wedged behind,overlap,1
+at bottom of near,next_to,1
+were down,under,1
+went under,under,1
+what's inside,in,1
+a few feet above,above,1
+at attention in front of,overlap,1
+while skating near,next_to,1
+while standing on top of,on,1
+while standing next to,next_to,1
+asleep on top of,on,1
+asleep near,next_to,1
+asleep inside of,in,1
+asleep behind,overlap,1
+white behind,overlap,1
+white shag under,under,1
+white in front of,overlap,1
+ascending over,above,1
+wind surfing next to,next_to,1
+wiggling behind,overlap,1
+ascends in front of,overlap,1
+wind sailing next to,next_to,1
+windows behind,overlap,1
+arrives next to,next_to,1
+windsurfs over,above,1
+windsurfs near,next_to,1
+wiping out under,under,1
+wire behind stop,overlap,1
+wire behind,overlap,1
+arre above,above,1
+arranged outside of,next_to,1
+arranged on top of,on,1
+arranged next to,next_to,1
+with a painted above it,above,1
+with a snow covered,above,1
+arranged in row near,next_to,1
+arranged beside,next_to,1
+are seen outside,next_to,1
+are seen from,next_to,1
+with arms over,above,1
+with brown roof next to,next_to,1
+arranged near,next_to,1
+arranged above,above,1
+with covered headrest,above,1
+with cover over,above,1
+around outside of,next_to,1
+around and behind,overlap,1
+with food inside,in,1
+with head inside of,in,1
+with head extended over,above,1
+with heads over,above,1
+with head near,next_to,1
+arm above,above,1
+arguing in front of,overlap,1
+area written on overhead,above,1
+with head behind,overlap,1
+with head above,above,1
+with inside,in,1
+with head outside of,next_to,1
+with head outside,next_to,1
+with her behind on,overlap,1
+with large leaves next to,next_to,1
+with neck stretched over,above,1
+with nearby,next_to,1
+with parking underneath on,under,1
+are walking on top of,on,1
+with no time left in front of,overlap,1
+are visible in front and behind,overlap,1
+are visible behind,overlap,1
+are up over,above,1
+are up on,on,1
+are up against,overlap,1
+are under an,under,1
+are talking near,next_to,1
+with surrounding,contains,1
+are toward,next_to,1
+are talking in front of,overlap,1
+with white under,under,1
+with wheels behind a,overlap,1
+are stored within,in,1
+are tied up next to,next_to,1
+are through,overlap,1
+are standing on top,on,1
+wondering what is behind,overlap,1
+within some,in,1
+within reach of,in,1
+woken up inside of,in,1
+are stacked up outside against,next_to,1
+working atop of,on,1
+working nearby,next_to,1
+working inside of,in,1
+worn above,above,1
+works inside of,in,1
+works inside,in,1
+works in front of,overlap,1
+works behind,overlap,1
+are stacked next to,next_to,1
+worn by behind,overlap,1
+works underneath,under,1
+works outside on,next_to,1
+worn under a,under,1
+are sitting on top,on,1
+are shining over,above,1
+worn underneath,under,1
+wrapped next to,next_to,1
+wrapped up on top of,on,1
+wrapped up in front of,overlap,1
+are side by side,next_to,1
+wrapped under,under,1
+wrestles over,above,1
+wrestling over,above,1
+wrapped under a,under,1
+are set up near,next_to,1
+yawning while it sits inside,in,1
+yawning next to,next_to,1
+written underneath,under,1
+written on top of,on,1
+written inside,in,1
+written all over,above,1
+yelling over,above,1

@@ -1,0 +1,543 @@
+# geo_rel_alias.txt
+# ============================================================
+# Ánh xạ geo_rel thô → canonical spatial_geo_rel
+#
+# Format    : geo_rel|spatial_geo_rel
+# Canonical : in, on, overlap, above, under, next_to, unknown
+#
+# ⚠️  NGỮ CẢNH 2D (Bounding Box trong ảnh):
+#   Tất cả quan hệ được diễn giải theo tọa độ 2D bounding box:
+#   in       – bbox A nằm BÊN TRONG bbox B (containment)
+#   on       – đáy bbox A ≈ đỉnh bbox B (tiếp xúc bề mặt từ trên)
+#   overlap  – hai bbox giao nhau đáng kể; bao gồm che khuất (occlusion):
+#              "behind" / "in front of" / "around" đều = bbox giao nhau
+#   above    – tâm Y của A NHỎ HƠN tâm Y của B (A ở cao hơn trong ảnh);
+#              bao gồm "on top of" vì trong 2D = vị trí Y cao hơn
+#   under    – tâm Y của A LỚN HƠN tâm Y của B
+#   next_to  – hai bbox gần nhau theo chiều ngang, không giao nhau
+#   unknown  – không xác định được quan hệ không gian
+#
+# Lines bắt đầu bằng # là comment, ## là section header.
+# ============================================================
+
+
+## ── IN ──────────────────────────────────────────────────────────────────────
+## bbox A nằm bên trong / được bọc bởi bbox B
+in|in
+inside|in
+inside of|in
+inside a|in
+inside of a|in
+in a|in
+in the|in
+in an|in
+in side of|in
+in side|in
+in s|in
+are in|in
+are in a|in
+is in|in
+is inside|in
+is inside of|in
+into|in
+full of|in
+is full of|in
+full on|in
+filled with|in
+in middle of|in
+in the middle of|in
+in center of|in
+in between|in
+within|in
+within a|in
+contained in|in
+embedded in|in
+submerged in|in
+buried in|in
+baked in|in
+baking in|in
+bathing in|in
+sealed in|in
+enclosed in|in
+trapped in|in
+kept in|in
+locked in|in
+hidden in|in
+hiding in|in
+packed in|in
+jammed in|in
+nested in|in
+nestled in|in
+placed in|in
+stored in|in
+located in|in
+located inside|in
+caged in|in
+part of|in
+apart of|in
+are inside|in
+are inside of|in
+are inside of a|in
+are inside a|in
+visible in|in
+seen in|in
+together in|in
+sitting in|in
+rolling in|in
+splashing in|in
+soaking in|in
+swimming in|in
+bathed in|in
+anchored in|in
+dipped in|in
+planted in|in
+piled in|in
+crammed in|in
+in brown|in
+in blue|in
+in the center of|in
+in corner of|in
+in middle|in
+in the midst of|in
+in hand of|in
+in hand|in
+in wall of|in
+in vase|in
+in mouth of|in
+in from of|next_to
+are part of|in
+a part of|in
+together in|in
+
+
+## ── ON ──────────────────────────────────────────────────────────────────────
+## đáy bbox A ≈ đỉnh bbox B (đặt/nằm/tiếp xúc trên bề mặt)
+## ⚠️  "on top of" KHÔNG thuộc nhóm này → xem ABOVE
+on|on
+on a|on
+on the|on
+on an|on
+o top of|on
+are on|on
+are on a|on
+is on|on
+sitting on|on
+sat on|on
+resting on|on
+perched on|on
+placed on|on
+laid on|on
+laying on|on
+layed on|on
+lying on|on
+napping on|on
+sleeping on|on
+posted on|on
+piled on|on
+mounted on|on
+drawn on|on
+painted on|on
+written on|on
+scratched on|on
+attached on|on
+located on|on
+kept on|on
+standing on|on
+positioned on|on
+balanced on|on
+loaded on|on
+propped on|on
+propped up on|on
+stretched out on|on
+crouching on|on
+crouched on|on
+squatting on|on
+kneeling on|on
+walking on|on
+running on|on
+rolling on|on
+leaning on|on
+skiing on|on
+skating on|on
+skateboarding on|on
+surfing on|on
+munching on|on
+nibbling on|on
+stepping on|on
+travelling on|on
+sailing on|on
+paddling on|on
+grinding on|on
+spread out on|on
+draped on|on
+hanging on|on
+scattered on|on
+visible on|on
+seen on|on
+left on|on
+on surface of|on
+on back|on
+on front|on
+on side|on
+on side of|on
+on side of a|on
+on right side of|on
+on right of|on
+on edge of|on
+on corner of|on
+on end of|on
+on wall of|on
+on both sides of|on
+on each side of|on
+on sides of|on
+on or side of|on
+on outside of|on
+on rear of|on
+on bottom of|on
+on front of|on
+on back of|on
+on the side of|on
+on the back of|on
+on the edge of|on
+on the other side of|next_to
+on either side of|next_to
+on other side of|next_to
+on other side|next_to
+on right side|next_to
+on far side of|next_to
+on one side of|next_to
+on middle of|on
+on the side|on
+on h|on
+on some|on
+on  a|on
+on white|on
+on brick|on
+on faade of|on
+on which|on
+on her|on
+on back of a|on
+on bathroom|on
+on frosty|on
+on two story|on
+on side of silver|next_to
+on far side|next_to
+draped over|on
+piled on|on
+planted on|on
+propped against|overlap
+turning on|on
+texting on|on
+reclining on|on
+upon|on
+onto|on
+top of|on
+
+
+## ── ABOVE ───────────────────────────────────────────────────────────────────
+## tâm Y của A NHỎ HƠN tâm Y của B (A cao hơn trong ảnh, không tiếp xúc)
+## ⚠️  "on top of" thuộc nhóm này vì trong 2D = vị trí Y cao hơn object
+above|above
+above a|above
+above an|above
+above the|above
+are above|above
+is above|above
+over|above
+over a|above
+over the|above
+are over|above
+hovering over|above
+hovering above|above
+towering over|above
+soaring above|above
+soaring in|above
+soaring over|above
+flying above|above
+floating above|above
+suspended over|above
+suspended above|above
+high above|above
+directly above|above
+elevated above|above
+looming over|above
+looming above|above
+rising above|above
+aerial view of|above
+view of|above
+overlooking|above
+at top of|above
+at the top of|above
+in the air|above
+in the air on|above
+in the air with|above
+in mid air|above
+in mid-air|above
+in midair|above
+in flight|above
+high up in|above
+high in|above
+up in|above
+up|above
+up on|above
+# ── on top of / atop → above (2D: vị trí Y cao hơn object) ─────────────────
+on top of|above
+on top of a|above
+on top|above
+on top fo|above
+atop|above
+atop of|above
+atop a|above
+are on top of|above
+are on top of a|above
+sitting on top of|above
+piled on top of|above
+
+
+## ── UNDER ───────────────────────────────────────────────────────────────────
+## tâm Y của A LỚN HƠN tâm Y của B (A thấp hơn trong ảnh)
+under|under
+under a|under
+under an|under
+under the|under
+underneath|under
+underneath of|under
+beneath|under
+beneath a|under
+beneath the|under
+below|under
+below a|under
+below the|under
+down|under
+are under|under
+are below|under
+are beneath|under
+is under|under
+is below|under
+buried under|under
+hiding under|under
+hidden under|under
+crouching under|under
+sheltering under|under
+hanging from|under
+dangling from|under
+at bottom of|under
+at the bottom of|under
+at bottom|under
+at the base of|under
+at base of|under
+at foot of|under
+at the foot of|under
+in bottom of|under
+bottom of|under
+
+
+## ── OVERLAP ──────────────────────────────────────────────────────────────────
+## hai bbox giao nhau / cắt nhau / che khuất nhau trong ảnh 2D
+## ⚠️  Bao gồm: behind, in front of, around (depth cues = occlusion trong 2D)
+across|overlap
+through|overlap
+through a|overlap
+can be seen through|overlap
+seen through|overlap
+visible through|overlap
+peeking through|overlap
+peeking over|overlap
+poking through|overlap
+peering through|overlap
+peering over|overlap
+looking through|overlap
+against|overlap
+against a|overlap
+are against|overlap
+against a grey|overlap
+leaning against|overlap
+pressed against|overlap
+propped up against|overlap
+up against|overlap
+bumping into|overlap
+running into|overlap
+crashing into|overlap
+touching|overlap
+intersecting|overlap
+crossing|overlap
+all over|overlap
+reflection on|overlap
+reflection in|overlap
+in the reflection of|overlap
+# ── Depth cues → overlap (occlusion trong 2D image plane) ───────────────────
+behind|overlap
+behind a|overlap
+behind the|overlap
+are behind|overlap
+is behind|overlap
+from behind|overlap
+hiding behind|overlap
+seen behind|overlap
+visible behind|overlap
+in front of|overlap
+in front of a|overlap
+in front|overlap
+are in front of|overlap
+in front fo|overlap
+in back of|overlap
+in back|overlap
+in the back of|overlap
+# ── around = subject bbox bao quanh / bọc object bbox ───────────────────────
+around|overlap
+around a|overlap
+
+
+## ── NEXT_TO ──────────────────────────────────────────────────────────────────
+## hai bbox gần nhau theo chiều ngang, KHÔNG giao nhau
+next to|next_to
+next to a|next_to
+next to an|next_to
+next|next_to
+near|next_to
+near a|next_to
+near by|next_to
+near to|next_to
+nearby|next_to
+close to|next_to
+beside|next_to
+beside a|next_to
+beside of|next_to
+besides|next_to
+by|next_to
+by a|next_to
+by the|next_to
+by side of|next_to
+by the side of|next_to
+alongside|next_to
+alongside of|next_to
+along side|next_to
+along side of|next_to
+along|next_to
+along a|next_to
+along with|next_to
+with|next_to
+with a|next_to
+with an|next_to
+with no|next_to
+with lots of|next_to
+with a view of|next_to
+accompanied by|next_to
+side by side|next_to
+side by side on|next_to
+side by side with|next_to
+flanked by|next_to
+between|next_to
+between a|next_to
+in between|next_to
+among|next_to
+among a|next_to
+amongst|next_to
+at|next_to
+at a|next_to
+outside|next_to
+outside of|next_to
+outside on|next_to
+outside by|next_to
+outside in|next_to
+outside with|next_to
+outside a|next_to
+out of|next_to
+out in|next_to
+out on|next_to
+out front of|next_to
+beyond|next_to
+before|next_to
+ahead of|next_to
+left of|next_to
+right of|next_to
+to left of|next_to
+to right of|next_to
+to side of|next_to
+to the side of|next_to
+separated by|next_to
+side of|next_to
+side|next_to
+in the distance|next_to
+in the background|next_to
+in the background of|next_to
+in the foreground|next_to
+in the foreground of|next_to
+in background|next_to
+in the background of|next_to
+in the foreground of|next_to
+in background of|next_to
+in the back of|next_to
+in the foreground|next_to
+are next to|next_to
+is next to|next_to
+are by|next_to
+is near|next_to
+are near|next_to
+are beside|next_to
+are along|next_to
+towards|next_to
+toward|next_to
+together on|next_to
+smiling at|next_to
+followed by|next_to
+shaded by|next_to
+illuminated by|next_to
+hidden by|next_to
+across from|next_to
+off to the side|next_to
+fighting over|next_to
+in the shade of|next_to
+in view of|next_to
+facing|next_to
+facing a|next_to
+off|next_to
+off of|next_to
+out|next_to
+up to|next_to
+front of|next_to
+front|next_to
+back of|next_to
+middle of|next_to
+other side of|next_to
+closeup of|next_to
+in the shade of|next_to
+opposite of|next_to
+ide of|next_to
+at end of|next_to
+at the end of|next_to
+at edge of|next_to
+at the edge of|next_to
+at side of|next_to
+at the side of|next_to
+at head of|next_to
+at back of|next_to
+
+
+## ── UNKNOWN ───────────────────────────────────────────────────────────────────
+## Không xác định được quan hệ không gian (sở hữu, liên từ, động từ chung)
+## ⚠️  Rows có spatial_geo_rel=unknown KHÔNG bị xóa — vẫn giữ trong KB
+of|unknown
+of a|unknown
+of an|unknown
+of the|unknown
+for|unknown
+for a|unknown
+from|unknown
+from a|unknown
+to|unknown
+and|unknown
+is|unknown
+are|unknown
+has|unknown
+has a|unknown
+without|unknown
+made of|unknown
+made from|unknown
+view of|unknown
+back to|unknown
+are for|unknown
+are from|unknown
+is a|unknown
+comprised of|unknown
+instead of|unknown

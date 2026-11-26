@@ -1,0 +1,137 @@
+========================================================================
+  PREDICATE STATISTICS — kb_stats_clean_merged.csv
+========================================================================
+  Total unique predicates      :  27,275
+  Total relation instances     : 2,739,967
+
+  SPATIAL predicates (unique)  :   6,594
+  SPATIAL relation instances   : 1,646,629  (60.1%)
+  SPATIAL rows in CSV          : 113,763
+
+  ACTION predicates (unique)   :  20,681
+  ACTION relation instances    : 1,093,338  (39.9%)
+  ACTION rows in CSV           : 143,142
+
+────────────────────────────────────────────────────────────────────────
+  TOP 50 SPATIAL PREDICATES  (sorted by total frequency)
+────────────────────────────────────────────────────────────────────────
+  Rank   Predicate                            Total Freq     Rows
+  -----  -----------------------------------  ----------  -------
+  1      on                                      606,566    9,591
+  2      in                                      240,842    5,443
+  3      with                                    144,692    7,256
+  4      next to                                  73,475    6,866
+  5      near                                     63,802    6,283
+  6      behind                                   63,271    4,637
+  7      of                                       47,889    2,568
+  8      on top of                                40,170    3,418
+  9      in front of                              33,920    3,780
+  10     by                                       30,770    4,167
+  11     under                                    25,108    2,923
+  12     on a                                     20,166    1,294
+  13     above                                    18,505    2,044
+  14     at                                       15,674    1,158
+  15     beside                                   13,850    2,726
+  16     on side of                               13,734      930
+  17     over                                     12,673    1,667
+  18     inside                                    7,404      963
+  19     around                                    5,600    1,068
+  20     down                                      5,480      245
+  21     are on                                    5,373      571
+  22     below                                     5,146    1,229
+  23     full of                                   4,844      545
+  24     against                                   4,737      637
+  25     in a                                      4,550      530
+  26     for                                       4,275      817
+  27     along                                     4,204      600
+  28     inside of                                 4,098      618
+  29     are in                                    3,976      252
+  30     of a                                      3,697      292
+  31     outside                                   3,670      602
+  32     from                                      3,358      746
+  33     between                                   3,312      869
+  34     on front of                               3,019      272
+  35     across                                    2,962      502
+  36     to                                        2,705      482
+  37     through                                   2,576      497
+  38     beneath                                   1,926      639
+  39     in the background                         1,510      459
+  40     outside of                                1,400      309
+  41     close to                                  1,272      487
+  42     on the side of                            1,267      249
+  43     on back of                                1,130      210
+  44     out of                                    1,088      263
+  45     into                                      1,007      263
+  46     part of                                     975      145
+  47     in middle of                                962      252
+  48     atop                                        953      294
+  49     is on                                       919      261
+  50     next                                        899      355
+
+────────────────────────────────────────────────────────────────────────
+  TOP 50 ACTION PREDICATES  (sorted by total frequency)
+────────────────────────────────────────────────────────────────────────
+  Rank   Predicate                            Total Freq     Rows
+  -----  -----------------------------------  ----------  -------
+  1      has                                     122,726    5,073
+  2      holding                                  63,232      990
+  3      sitting on                               56,675    2,374
+  4      riding                                   31,690      141
+  5      wearing                                  25,164      360
+  6      standing on                              19,911      855
+  7      standing in                              19,583      566
+  8      eating                                   18,798      312
+  9      laying on                                14,571    1,027
+  10     sitting in                               14,448      952
+  11     standing next to                         12,349      813
+  12     flying                                   10,799       71
+  13     sitting at                                9,844      191
+  14     looking at                                9,616      660
+  15     filled with                               9,419      836
+  16     sitting on top of                         9,336    1,167
+  17     has a                                     9,281      794
+  18     parked on                                 9,279      227
+  19     carrying                                  8,667      373
+  20     and                                       7,137    1,714
+  21     walking on                                6,879      300
+  22     sits on                                   6,339      879
+  23     sitting next to                           6,233    1,383
+  24     attached to                               6,107      825
+  25     holds                                     5,964      475
+  26     watching                                  5,767      240
+  27     covered in                                5,643      608
+  28     using                                     5,587      185
+  29     riding on                                 5,203      173
+  30     lying on                                  5,197      581
+  31     laying in                                 4,724      295
+  32     driving down                              4,659       59
+  33     covered with                              4,606      555
+  34     flying in                                 4,515       36
+  35     crossing                                  4,498      168
+  36     playing                                   4,457       61
+  37     playing with                              4,384      251
+  38     covering                                  4,315      435
+  39     standing in front of                      4,297      459
+  40     walking in                                4,278      187
+  41     standing near                             4,150      471
+  42     standing by                               4,047      456
+  43     hanging on                                3,901      434
+  44     surrounded by                             3,860      927
+  45     hanging from                              3,841      474
+  46     topped with                               3,819      350
+  47     cutting                                   3,553       82
+  48     made of                                   3,225      410
+  49     grazing in                                3,204       78
+  50     traveling down                            3,174       64
+
+────────────────────────────────────────────────────────────────────────
+  FREQUENCY DISTRIBUTION
+────────────────────────────────────────────────────────────────────────
+  freq ≥ 1000   spatial:    45   action:   132
+  freq ≥ 500    spatial:    74   action:   230
+  freq ≥ 100    spatial:   188   action:   773
+  freq ≥ 50     spatial:   306   action: 1,249
+  freq ≥ 10     spatial: 1,117   action: 4,164
+  freq ≥ 1      spatial: 6,594   action: 20,681
+
+========================================================================

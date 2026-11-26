@@ -1,0 +1,185 @@
+# ─── FOREGROUND THINGS (80 classes) ─────────────────────────
+person: man, men, woman, women, boy, girl, child, kid, people, individual, human, adult, teenager, youth, senior, elder, gentleman, lady, male, female, baby, toddler, infant, pedestrian, passenger, driver, rider, cyclist, runner, hiker, climber, swimmer, surfer, skier, snowboarder, player, athlete, sportsman, referee, umpire, police officer, officer, soldier, guard, security, chef, cook, waiter, waitress, nurse, doctor, farmer, fisherman, worker, employee, student, tourist, spectator, tennis player, baseball player, football player, soccer player, basketball player, hockey player, crowd, bystander, persons, somebody, someone, womans, guy, skateboarder, batter, catcher, pitcher, goalkeeper, jockey, biker, boys, girls, kids, players, skiers, spectators, crowd members, audience, fan, fans, athletes, sportsmen, sportswoman, sportswomen, jogger, joggers, walker, walkers, commuter, commuters, vendor, vendors, shopper, shoppers, onlooker, onlookers, officers, soldiers, guards
+bird: birds, fowl, avian, pigeon, pigeons, seagull, seagulls, parrot, parrots, duck, ducks, goose, geese, swan, swans, crow, crows, sparrow, sparrows, eagle, eagles, hawk, hawks, owl, owls, penguin, penguins, flamingo, flamingos, pelican, pelicans, heron, herons, robin, robins, hummingbird, hummingbirds, woodpecker, woodpeckers
+cat: kitten, kittens, kitty, kitties, feline, felines, tabby, house cat
+dog: puppy, puppies, pup, pups, canine, canines, hound, hounds, labrador, poodle, bulldog, terrier, retriever, shepherd, dachshund, husky
+horse: pony, ponies, stallion, stallions, mare, mares, foal, foals, equine
+sheep: lamb, lambs, ram, rams, ewe, ewes, goat, goats
+cow: cows, cattle, bull, bulls, calf, calves, bovine, ox, oxen
+elephant: elephants, pachyderm, pachyderms
+bear: bears, grizzly, grizzlies, polar bear, polar bears, panda, pandas, black bear
+zebra: zebras
+giraffe: giraffes
+bicycle: bicycles, bike, bikes, cycle, cycles, mountain bike, road bike
+car: cars, auto, autos, automobile, automobiles, sedan, sedans, SUV, SUVs, hatchback, coupe, convertible, taxi, taxicab, cab, sports car, jeep, vehicle, vehicles
+motorcycle: motorcycles, motorbike, motorbikes, chopper, choppers, scooter, scooters
+airplane: airplanes, plane, planes, aircraft, aircrafts, jet, jets, aeroplane, aeroplanes, airliner
+bus: buses, busses, coach, coaches, shuttle, shuttles, minibus, school bus, transit bus
+train: trains, locomotive, locomotives, subway, metro, tram, trolley
+truck: trucks, lorry, lorries, pickup, pickups, van, vans, semi-truck, trailer, dump truck, fire truck
+boat: boats, ship, ships, vessel, vessels, yacht, yachts, canoe, canoes, kayak, kayaks, sailboat, sailboats, rowboat, rowboats, ferry, ferries, speedboat, speedboats, dinghy, dinghies, barge, barges, watercraft
+traffic light: traffic lights, stoplight, stoplights, signal light, traffic signal, traffic signals, red light
+fire hydrant: fire hydrants, hydrant, hydrants, fireplug, fireplugs
+stop sign: stop signs, road sign, traffic sign, signage, signboard, billboard
+parking meter: parking meters, meter, pay station
+bench: benches, pew, pews, park bench, park seat
+frisbee: frisbees, flying disc, flying discs
+skis: ski, skiing equipment, ski poles, ski gear
+snowboard: snowboards
+sports ball: ball, balls, soccer ball, football, basketball, tennis ball, baseball, volleyball, rugby ball, cricket ball, golf ball
+kite: kites, glider, gliders
+baseball bat: bat, bats, baseball bats, wooden bat, aluminum bat
+baseball glove: glove, gloves, mitt, mitts, baseball mitt, catcher's mitt, mitten
+skateboard: skateboards, decks
+surfboard: surfboards, longboard, longboards
+tennis racket: racket, rackets, racquet, racquets, tennis racquet
+backpack: backpacks, rucksack, rucksacks, knapsack, knapsacks, school bag
+umbrella: umbrellas, parasol, parasols
+handbag: handbags, purse, purses, pocketbook, clutch
+tie: ties, necktie, neckties, bowtie, bowties, cravat
+suitcase: suitcases, luggage, trolley bag, travel bag, baggage
+bottle: bottles, flask, flasks, container, containers, water bottle
+wine glass: wine glasses, goblet, goblets, wineglass, wineglasses, chalice
+cup: cups, mug, mugs, glass, tumbler, tumblers, teacup, coffee cup, wine, wines, juice, juices, milk, water glass, soda, coffee, tea, beer, cocktail, smoothie
+fork: forks, utensil, utensils, cutlery
+knife: knives, blade, blades, cutter, cutters, carving knife, steak knife
+spoon: spoons, ladle, ladles, tablespoon, teaspoon
+bowl: bowls, dish, dishes, salad bowl, mixing bowl, basket, baskets, colander, colanders, strainer
+banana: bananas, plantain, plantains
+apple: apples, red apple, green apple
+sandwich: sandwiches, sub, subs, hoagie, hoagies, burger, burgers, wrap, wraps
+orange: oranges, citrus, mandarin, tangerine
+broccoli: (no aliases)
+carrot: carrots
+hot dog: hotdog, frankfurter, sausage, wiener
+pizza: pizzas, pie, pies, pizza pie, flatbread
+donut: donuts, doughnut, doughnuts
+cake: cakes, pastry, pastries, dessert, desserts, birthday cake, cupcake, cupcakes
+chair: chairs, seat, seats, stool, stools, armchair, armchairs, folding chair, office chair
+couch: couches, sofa, sofas, loveseat, loveseats, settee, settees, sectional, davenport
+potted plant: potted plants, houseplant, houseplants, flower pot, planter, indoor plant
+bed: beds, mattress, mattresses, bunk, bunks, cot, cots, bunk bed, king bed, queen bed
+dining table: dining tables, dinner table, kitchen table, dining room table
+toilet: toilets, restroom, bathroom, lavatory, lavatories, commode, commodes, loo, throne
+tv: tvs, television, televisions, telly, screen, screens, monitor, monitors, flat screen
+laptop: laptops, notebook, notebooks, computer, computers, pc, pcs, notebook computer
+mouse: mice, computer mouse, wireless mouse, trackpad, input device
+remote: remotes, remote control, remote controls, controller, controllers, clicker
+keyboard: keyboards, computer keyboard, wireless keyboard, typewriter
+cell phone: cell phones, phone, phones, smartphone, smartphones, mobile, mobiles, cellphone, cellphones, iphone, android phone, telephone
+microwave: microwaves, microwave oven, microwave ovens
+oven: ovens, stove, stoves, range, ranges, cooker
+toaster: toasters, toaster oven
+sink: sinks, basin, basins, washbasin, washbasins, kitchen sink
+refrigerator: refrigerators, fridge, fridges, freezer, freezers, icebox
+book: books, novel, novels, textbook, textbooks, volume, volumes, magazine, magazines
+clock: clocks, timepiece, timepieces, watch, watches, wall clock, alarm clock
+vase: vases, pot, pots, urn, urns, jar, jars, flower vase
+scissors: shears, cutting tool
+teddy bear: teddy bears, stuffed animal, stuffed bear, plush toy, stuffed toy, toy bear
+hair drier: hair dryer, blow dryer, hairdryer, dryer
+toothbrush: toothbrushes, brush, dental brush
+
+# ─── BACKGROUND STUFF (102 entries) ─────────────────────────
+water: waters, lake, lakes, pond, ponds, puddle, puddles, pool, pools
+river: rivers, stream, streams, creek, creeks, brook, brooks, canal
+sea: ocean, oceans, seas, open sea, saltwater, wave, waves, shore, shores, shoreline, shorelines, dock, docks, pier, piers, tide, tides, surf, current, currents, foam, spray
+waterdrops: water drops, rain drops, droplets, drops, dew
+fog: mist, haze, smog, overcast, vapour, vapor
+ground: earth, soil, terrain
+road: roads, highway, highways, driveway, freeway, expressway, ramp, ramps, overpass road, highway ramp
+street: streets, avenue, avenues, lane, lanes, boulevard, boulevards, alley
+pavement: sidewalk, sidewalks, footpath, footpaths, walkway, walkways, path, paths, tarmac, parking lot, parking lots, parking area, parking garage, car park
+railroad: railway, railways, rail, rails, tracks, train tracks, rail line
+dirt: (no aliases)
+snow: snowfall, ice, frost, sleet, blizzard, powder
+sand: sandy ground, beach sand, desert sand, grit, beach, beaches, dune, dunes, sandbar, sandbars
+grass: lawn, lawns, turf, meadow, meadows, pasture, grasses, park, parks, lawn area, field area, meadow area, pasture area, pitch area
+mud: mire, silt, clay
+playingfield: playing field, sports field, pitch, court, field, stadium turf
+rock: rocks, boulder, boulders, pebble, pebbles
+hill: hills, mound, mounds, slope, slopes, hillock
+mountain: mountains, peak, peaks, summit, summits, highland
+stone: stones
+wood: wooden, timber, lumber, plank, planks, log, logs
+sky: skies, heaven, atmosphere, blue sky, overcast sky, horizon line
+clouds: cloud, cumulus, cloud cover, storm clouds
+tree: trees, oak, oaks, pine, pines, palm, palms, willow, willows, maple, forest, forests, jungle, jungles, woodland, woodlands, grove, groves
+branch: branches, limb, limbs, bough, boughs, twig, twigs
+leaves: leaf, frond, fronds
+bush: bushes, shrub, shrubs, hedge, hedges
+flower: flowers, bloom, blooms, blossom, blossoms, petal, petals, rose, roses, daisy, daisies, tulip, tulips
+moss: lichen, algae, mold
+building: buildings, structure, structures, edifice, edifices, construction, constructions, architecture, city, cities, airport, airports, station, stations, store, stores, mall, malls
+wall: walls, partition, partitions, barrier, barriers
+ceiling: ceilings, overhead
+floor: floors, flooring
+roof: roofs, rooftop, rooftops
+stairs: staircase, staircases, steps, stairway, stairways
+fence: fences, gate, gates
+railing: railings, banister, banisters, handrail, handrails, guardrail
+bridge: bridges, overpass, overpasses, viaduct, viaducts, footbridge
+tent: tents, canopy, canopies, shelter, shelters, awning, awnings
+house: houses, home, homes, residence, residences, dwelling, dwellings, cottage, bungalow, villa
+skyscraper: skyscrapers, tower, towers, high-rise, high-rises, tall building
+rug: rugs, area rug
+mat: mats, doormat
+carpet: carpets
+curtain: curtains, drape, drapes, shade, shades, drapery
+window: windows, pane, panes, windowpane, windowpanes
+door: doors, doorway, doorways, entrance, entrances, entry, entries
+blind: blinds, shutter, shutters
+cloth: cloth material
+clothes: clothing, garment, garments, outfit, outfits, attire, wear, apparel, dress, wardrobe
+napkin: napkins, tissue, tissues, serviette, serviettes
+towel: towels, rag, rags, hand towel, bath towel
+banner: banners, flag, flags, sign, poster, posters, placard
+pillow: pillows, cushion, cushions, bolster, bolsters
+salad: salads, lettuce, leafy greens, mixed greens
+vegetable: vegetables, veggie, veggies, produce, greens
+fruit: fruits, berries
+metal: metallic, steel, iron, aluminum, chrome, copper, brass
+plastic: plastics, synthetic, polymer, nylon
+paper: papers, document, documents, sheet, sheets, page, pages
+cardboard: cardboards, box, boxes, carton, cartons
+blanket: blankets, quilt, quilts, comforter, duvet, throw
+building-other: (no aliases)
+cabinet: cabinets, closet, closets, wardrobes, locker
+cage: cages, enclosure, crate, kennel
+ceiling-other: (no aliases)
+ceiling-tile: ceiling tiles, tile, tiles, acoustic tile
+counter: counters, countertop, countertops, surface
+cupboard: cupboards
+desk-stuff: desk, desks, workstation, study desk
+door-stuff: (no aliases)
+floor-marble: marble floor, marble flooring, marble
+floor-other: ground surface
+floor-stone: stone floor, stone flooring
+floor-tile: tile floor, tiled floor, ceramic floor
+floor-wood: wood floor, wooden floor, hardwood, laminate floor, parquet
+food-other: food, meal, cuisine, groceries, cheese, meat, bread, sauce, condiment, condiments, seasoning, ingredient, ingredients, stuffing, filling, topping, toppings, garnish, dip, spread, syrup, dressing, gravy, broth, soup, stew, curry, noodle, noodles, rice, pasta, tortilla, tortillas, taco, tacos, burrito, burritos, sushi, sashimi, dim sum, dumpling, dumplings, biscuit, biscuits, cracker, crackers, chip, chips, snack, snacks, pretzel, pretzels, candy, candies, chocolate, sweets, dessert food, jelly, jam
+furniture-other: furniture, furnishing, furnishings, home decor
+gravel: crushed stone, gravel path
+ground-other: (no aliases)
+light: lights, lamp, lamps, bulb, bulbs, lighting, lantern, illumination, streetlight, spotlight, chandelier
+mirror-stuff: mirror, mirrors, looking glass, reflection
+net: nets, mesh, netting, grid, wire mesh
+plant-other: plant, plants, vegetation, greenery, foliage, vine, vines
+platform: platforms, stage, stages, podium, stand, deck
+shelf: shelves, rack, racks, ledge, bookshelf, bookcase
+sky-other: (no aliases)
+solid-other: solid, surface material
+straw: straws, drinking straw, hay, haystack
+structural-other: framework, structural element, support beam
+table: (no aliases)
+textile-other: textile, fabric, material, upholstery
+wall-brick: brick wall, bricks, brick facade
+wall-concrete: concrete wall, concrete, cement wall
+wall-other: (no aliases)
+wall-panel: panel wall, paneling, wall panel
+wall-stone: stone wall, stone facade, cobblestone wall
+wall-tile: tiled wall, tile wall, ceramic wall
+wall-wood: wood wall, wooden wall, wood paneling
+water-other: liquid, fluid
+window-blind: window blind, roller blind
+window-other: glass pane

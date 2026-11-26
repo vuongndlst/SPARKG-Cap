@@ -1,0 +1,184 @@
+person: elderly man, young man, man, older man, older woman, young woman, elderly woman, woman, people, child, adult, boy, young boy, little boy, young girl, little girl, girl, kid, baby, guy, lady, football player, baseball player, tennis player, skier, snowboarder, surfer, skateboarder, rider, cyclist
+bird: seagull, parrot, eagle, hawk
+cat: kitten, kitty
+dog: puppy, dog, husky
+horse: pony, stallion, foal, equine, mare, colt
+sheep: lamb, ewe, ram
+cow: (no aliases)
+elephant: (no aliases)
+bear: (no aliases)
+zebra: (no aliases)
+giraffe: (no aliases)
+bicycle: bike, cycle, mountain bike, road bike
+car: car, vehicle, sedan
+motorcycle: motorbike, scooter
+airplane: plane, aircraft, jet, aeroplane, airliner
+bus: (no aliases)
+train: locomotive, train
+truck: (no aliases)
+boat: ship, yacht, sailboat
+traffic light: stoplight, signal light, traffic signal, red light
+fire hydrant: hydrant, fireplug
+stop sign: road sign, traffic sign, signage, signboard, billboard
+parking meter: meter, pay station
+bench: bench, seat
+frisbee: (no aliases)
+skis: ski, skiing equipment, ski poles, ski gear
+snowboard:
+sports ball: ball, soccer ball, football, basketball, tennis ball, baseball, volleyball, rugby ball, cricket ball, golf ball
+kite: (no aliases)
+baseball bat: bat, wooden bat, aluminum bat
+baseball glove: glove, mitt, baseball mitt, catcher's mitt, mitten
+skateboard: (no aliases)
+surfboard: (no aliases)
+tennis racket: racket, racquet, tennis racquet
+backpack: (no aliases)
+umbrella: (no aliases)
+handbag: purse, pocketbook, clutch, tote bag
+tie: necktie, tie
+suitcase: luggage, baggage
+bottle: (no aliases)
+wine glass: goblet, wineglass, chalice, stemware
+cup: mug, glass, tumbler, teacup, coffee cup
+fork: utensil, cutlery
+knife: blade, cutter, carving knife, steak knife
+spoon: ladle, tablespoon, teaspoon
+bowl: dish
+banana: (no aliases)
+apple: red apple, green apple, fruit
+sandwich: (no aliases)
+orange: (no aliases)
+broccoli: (no aliases)
+carrot: (no aliases)
+hot dog: hotdog, frankfurter, sausage, wiener
+pizza: (no aliases)
+donut: (no aliases)
+cake: dessert, pastry
+chair: seat, stool, armchair, folding chair, office chair
+couch: sofa, couch
+potted plant: (no aliases)
+bed: mattress, bed
+dining table: table, dinner table, kitchen table, dining room table
+toilet: commode
+tv: television, tv
+laptop: notebook, computer, pc, notebook computer
+mouse: mice, computer mouse, wireless mouse, trackpad, input device
+remote: remote control, controller
+keyboard: computer keyboard, wireless keyboard, typewriter
+cell phone: phone, smartphone, mobile, cellphone, iphone, android phone, telephone
+microwave: microwave oven
+oven: stove
+toaster: toaster oven
+sink: (no aliases)
+refrigerator: fridge, freezer, icebox
+book: (no aliases)
+clock: (no aliases)
+vase: pot, urn, jar, flower vase
+scissors: (no aliases)
+teddy bear: teddy, teddy bear
+hair drier: hair dryer, blow dryer, hairdryer, dryer
+toothbrush: brush, dental brush
+
+# ─── BACKGROUND STUFF ────────────────────────────────────────
+water: waters, lake, pond, puddle, pool
+river: stream, creek, brook, canal
+sea: ocean, open sea, saltwater
+waterdrops: water drops, rain drops, dew
+fog: mist, haze, smog, vapour, vapor
+ground: earth, terrain, land
+road: highway, driveway, freeway, expressway
+street: avenue, lane, boulevard, alley
+pavement: sidewalk, footpath, walkway, tarmac
+railroad: railway, rail, rails, tracks, train tracks, rail line
+dirt: loose soil, grime, dusty ground
+snow: snowfall, ice, frost, sleet, blizzard, powder
+sand: sandy ground, beach sand, desert sand, grit
+grass: lawn, turf, meadow, pasture, field
+mud: mire, clay, muck
+playingfield: field, court, tennis court
+rock: boulder, pebble
+hill: mound, slope, hillock
+mountain: peak, summit, highland, massif
+stone: cobblestone, gravel
+wood: wooden, timber, lumber, plank, log
+sky: heaven, blue sky
+clouds: cloud, cumulus, overcast, cloud cover, storm clouds
+tree: oak, pine, palm, willow, maple
+branch: limb, bough, twig
+leaves: leaf, frond
+bush: shrub, hedge
+flower: bloom, blossom, petal, rose, daisy, tulip
+moss: lichen, algae, mold
+building: structure, edifice, architecture
+wall: partition, barrier
+ceiling: overhead
+floor: flooring
+roof: rooftop
+stairs: staircase, stairway
+fence: gate, picket fence, chain-link fence
+railing: banister, handrail, guardrail
+bridge: overpass, viaduct, footbridge
+tent: canopy, shelter, awning
+house: home, residence, dwelling, cottage, bungalow, villa
+skyscraper: tower, high-rise, tall building
+rug: area rug, floor rug
+mat: doormat, floor mat
+carpet: fitted carpet, wall-to-wall carpet
+curtain: drape, shade, drapery
+window: pane, windowpane
+door: doorway, entrance, entry
+blind: window shade, shutter
+cloth: linen, canvas, woven fabric
+clothes: tshirt, t-shirt, dress, shirt, pants, jeans, shorts, skirt, jacket, coat, sweater, hoodie, sweatshirt, uniform, costume, suit, tie, bow tie, scarf, gloves, hat, cap, beanie, helmet, goggles, mask, veil, shawl, wrap, poncho, robe, pajamas, nightgown, lingerie, swimsuit, bikini, trunks, wetsuit, uniform, costume, suit, tie, bow tie, scarf, gloves, hat, cap, beanie, helmet, goggles, mask, veil, shawl, wrap, poncho, robe, pajamas, nightgown, lingerie, swimsuit, bikini, trunks, wetsuit
+napkin: tissue, serviette
+towel: hand towel, bath towel, rag
+banner: flag, sign, poster
+pillow: cushion, bolster
+salad: greens, lettuce, leafy greens, mixed greens
+vegetable: veggie, produce
+fruit: berries, stone fruit
+metal: metallic, steel, iron, aluminum, chrome, copper, brass
+plastic: synthetic, polymer, nylon
+paper: document, sheet, page
+cardboard: box, carton
+blanket: quilt, comforter, duvet, cover, throw
+building-other: construction, annex, outbuilding, shed
+cabinet: cupboard, locker, storage unit
+cage: enclosure, crate, kennel, pen
+ceiling-other: drop ceiling, suspended ceiling
+ceiling-tile: ceiling tiles, acoustic tile
+counter: countertop, kitchen counter
+cupboard: closet, pantry
+desk-stuff: desk, workstation, study desk
+door-stuff: (no aliases)
+floor-marble: marble floor, marble flooring, marble
+floor-other: ground surface, subfloor
+floor-stone: stone floor, stone flooring
+floor-tile: tile floor, tiled floor, ceramic floor
+floor-wood: wood floor, wooden floor, hardwood, laminate floor, parquet
+food-other: food, meal, cuisine, groceries
+furniture-other: furniture, furnishing, home decor
+gravel: crushed stone, gravel path
+ground-other: bare ground, unpaved ground
+light: lamp, bulb, lighting, lantern, illumination, streetlight, spotlight, chandelier
+mirror-stuff: mirror, looking glass, reflection
+net: mesh, netting, grid, wire mesh
+plant-other: plant, houseplant, vegetation, vine
+platform: stage, podium, stand, raised platform
+shelf: rack, ledge, bookshelf, bookcase
+sky-other: overcast sky, hazy sky
+solid-other: solid object, dense material
+straw: drinking straw, hay, haystack
+structural-other: framework, structural element, support beam
+table: tabletop, dining surface
+textile-other: textile, fabric, material, upholstery
+wall-brick: brick wall, brick facade
+wall-concrete: concrete wall, concrete, cement wall
+wall-other: interior wall, drywall, plaster wall
+wall-panel: panel wall, paneling, wall panel
+wall-stone: stone wall, stone facade, cobblestone wall
+wall-tile: tiled wall, tile wall, ceramic wall
+wall-wood: wood wall, wooden wall, wood paneling
+water-other: liquid, fluid, standing water
+window-blind: window blind, venetian blind, roller shade
+window-other: glass pane, bay window, skylight

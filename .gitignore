@@ -1,0 +1,34 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets & local configs
+.env
+.env.*
+!.env.example
+
+# Datasets, checkpoints, and generated outputs
+data/
+checkpoints/
+configs/
+outputs/
+logs/
+*.pth
+*.pt
+*.ckpt
+*.sqlite
+*.tmp
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

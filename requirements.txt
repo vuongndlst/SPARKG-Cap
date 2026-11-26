@@ -1,0 +1,36 @@
+# Core scientific & data libraries
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+orjson>=3.9.0
+Pillow>=10.0.0
+opencv-python>=4.8.0
+matplotlib>=3.7.0
+networkx>=3.1
+
+# Primary LLM Caption Generator (OpenAI)
+openai>=1.30.0
+
+# Optional Open-Weight LLM Backend (--backend qwen)
+torch>=2.1.0
+transformers>=4.43.0
+accelerate>=0.30.0
+bitsandbytes>=0.43.0
+
+# Vision Backbones (Stage 1 & Stage 2 Scene Graph Construction)
+# Install OpenMMLab packages via mim:
+#   pip install -U openmim && mim install mmengine mmcv mmdet mmsegmentation
+# Install CLIP:
+#   pip install git+https://github.com/openai/CLIP.git
+
+# Evaluation Metrics (PTBTokenizer, BLEU, METEOR, ROUGE-L, CIDEr, SPICE)
+nltk>=3.8.1
+pycocotools>=2.0.7
+pycocoevalcap>=1.2
+rouge-score>=0.1.2
+bert-score>=0.3.13
+
+# Optional Neo4j Graph Database Driver
+neo4j>=5.14.0

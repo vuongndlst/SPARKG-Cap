@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SPARKG-Cap — Blinded Human Evaluation Suite</title>
+<style>
+
+:root {
+  --bg: #f6f8fa;
+  --card: #ffffff;
+  --border: #d0d7de;
+  --text: #1f2328;
+  --muted: #57606a;
+  --accent: #0969da;
+  --accent-hover: #0550ae;
+  --done-bg: #dafbe1;
+  --done-border: #2da44e;
+}
+* { box-sizing: border-box; }
+body {
+  font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px 64px;
+}
+header {
+  position: sticky;
+  top: 0;
+  background: rgba(246, 248, 250, 0.96);
+  backdrop-filter: blur(6px);
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border);
+  z-index: 10;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+h1 { font-size: 1.65rem; margin: 22px 0 8px; }
+h2 { font-size: 1.02rem; margin: 0 0 8px; color: #24292f; display: flex; justify-content: space-between; align-items: center; }
+.nav-link { color: var(--accent); text-decoration: none; font-weight: 600; margin-right: 8px; }
+.nav-link:hover { text-decoration: underline; }
+.guidelines {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 18px;
+  margin: 14px 0 20px;
+}
+.guidelines ul { margin: 8px 0 0; padding-left: 20px; }
+.guidelines li { margin-bottom: 5px; }
+article {
+  background: var(--card);
+  padding: 18px;
+  margin: 18px 0;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 1px 2px rgba(31,35,40,0.04);
+}
+article.answered { border-left: 4px solid var(--done-border); }
+svg, .eval-img {
+  display: block;
+  width: min(100%, 620px);
+  max-height: 460px;
+  height: auto;
+  background: #eaeef2;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+button, input, select { font: inherit; }
+button {
+  background: var(--accent);
+  color: #fff;
+  border: 1px solid rgba(31,35,40,0.15);
+  border-radius: 6px;
+  padding: 6px 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+button:hover { background: var(--accent-hover); }
+button.secondary { background: #fff; color: var(--text); border: 1px solid var(--border); }
+button.secondary:hover { background: #f3f4f6; }
+input[type="text"] {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 5px 10px;
+}
+.choices, fieldset {
+  display: flex;
+  gap: 8px 16px;
+  flex-wrap: wrap;
+  padding: 10px 12px;
+  margin: 10px 0 6px;
+  border: 1px solid #e5e9ef;
+  border-radius: 6px;
+  background: #fafbfc;
+}
+fieldset legend { font-weight: 600; padding: 0 6px; font-size: 0.94rem; }
+label.opt {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  padding: 3px 8px;
+  border-radius: 4px;
+}
+label.opt:hover { background: #eef2f7; }
+.note { width: min(100%, 560px); margin-top: 6px; font-size: 0.92rem; }
+.badge {
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: #eef2f7;
+  color: var(--muted);
+}
+.cap-box {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  padding: 10px 14px;
+  margin: 8px 0;
+}
+.hidden-card { display: none !important; }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; margin-top: 20px; }
+.module-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.module-card h3 { margin: 0 0 8px; font-size: 1.15rem; }
+.module-card p { color: var(--muted); margin: 0 0 16px; font-size: 0.95rem; }
+.cta {
+  display: inline-block;
+  text-align: center;
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-weight: 600;
+}
+.cta:hover { background: var(--accent-hover); }
+</style>
+</head>
+<body>
+<h1>SPARKG-Cap — Blinded Human Evaluation Portal</h1>
+<p style="color:var(--muted); font-size:1.02rem;">
+  Self-contained browser interface for independent human verification of intermediate scene-graph semantics
+  (entity roles and directed relations) and downstream paired image captions across the MS-COCO and Flickr30K benchmarks.
+</p>
+
+<div class="guidelines">
+  <b>Protocol &amp; Blinding Integrity</b>
+  <ul>
+    <li>All items are strictly <b>blinded</b>: system provenance, relation lookup tiers, and A/B condition assignments are stripped from this web suite.</li>
+    <li>Each evaluator should enter a consistent <b>Annotator ID</b> (e.g., <code>A1</code>, <code>A2</code>, <code>A3</code>), work independently without consulting reference captions, and export their completed <code>.csv</code> file.</li>
+    <li>Progress is saved automatically in local browser storage so sessions can be paused and resumed safely.</li>
+  </ul>
+</div>
+
+<div class="grid">
+  <div class="module-card">
+    <div>
+      <span class="badge">Step 1 &middot; 60 Items</span>
+      <h3 style="margin-top:8px;">Calibration Pilot</h3>
+      <p>Stratified onboarding subset covering Foreground / Auxiliary / Background role labels and directed A &rarr; B relation verification to align annotator criteria.</p>
+    </div>
+    <a class="cta" href="calibration_pilot.html">Open Calibration Pilot &rarr;</a>
+  </div>
+
+  <div class="module-card">
+    <div>
+      <span class="badge">Step 2 &middot; 677 Items</span>
+      <h3 style="margin-top:8px;">Intrinsic Role &amp; Relation Verification</h3>
+      <p>Full blinded evaluation of entity role partitioning and extracted relational predicates localized by 2D bounding boxes.</p>
+    </div>
+    <a class="cta" href="role_and_relation_eval.html">Open Role &amp; Relation Suite &rarr;</a>
+  </div>
+
+  <div class="module-card">
+    <div>
+      <span class="badge">Step 3 &middot; 200 Pairs</span>
+      <h3 style="margin-top:8px;">Extrinsic Paired Caption Evaluation</h3>
+      <p>Randomized A/B comparison of generated captions along two independent axes: scene <b>Relevance</b> and <b>Visual Grounding</b>.</p>
+    </div>
+    <a class="cta" href="paired_caption_eval.html">Open Paired A/B Suite &rarr;</a>
+  </div>
+</div>
+
+<div class="guidelines" style="margin-top:26px;">
+  <b>Offline Aggregation (For Study Coordinators)</b>
+  <p style="margin:6px 0 0; font-size:0.93rem; color:var(--muted);">
+    Once independent annotators export their CSV files, run <code>src/evaluation/score_human_evaluation.py</code> against the offline unblinding keys to compute confusion matrices, macro-F1, relation precision, win/tie/loss rates, and inter-annotator agreement.
+  </p>
+</div>
+</body>
+</html>

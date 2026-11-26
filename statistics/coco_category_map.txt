@@ -1,0 +1,99 @@
+# ══════════════════════════════════════════════════════════════════
+# COCO-Stuff Category Map (KG Schema)
+# Nguồn: https://github.com/nightrome/cocostuff
+#
+# Format: domain|category|class1,class2,...
+#   domain   : things | stuff
+#   category : tên nhóm theo COCO-Stuff taxonomy
+#   class    : tên class (khớp với foreground_things_coco.txt / background_stuff_coco.txt)
+#
+# Schema KG:
+#   (Root)-[:HAS_DOMAIN]->(Domain)-[:HAS_CATEGORY]->(Category)-[:HAS_CLASS]->(Class)
+#   (Object)-[:INSTANCE_OF]->(Class)-[:BELONGS_TO]->(Category)-[:PART_OF]->(Domain)
+# ══════════════════════════════════════════════════════════════════
+
+# ─────────────────── THINGS ────────────────────────────────────────
+
+# ID 1
+things|person|person
+
+# ID 2–9
+things|vehicle|bicycle,car,motorcycle,airplane,bus,train,truck,boat
+
+# ID 10–15
+things|outdoor|traffic light,fire hydrant,stop sign,parking meter,bench
+
+# ID 16–25
+things|animal|bird,cat,dog,horse,sheep,cow,elephant,bear,zebra,giraffe
+
+# ID 27–33
+things|accessory|backpack,umbrella,handbag,tie,suitcase
+
+# ID 34–43
+things|sports|frisbee,skis,snowboard,sports ball,kite,baseball bat,baseball glove,skateboard,surfboard,tennis racket
+
+# ID 44–51 (plate không có trong txt → bỏ)
+things|kitchen|bottle,wine glass,cup,fork,knife,spoon,bowl
+
+# ID 52–61
+things|food|banana,apple,sandwich,orange,broccoli,carrot,hot dog,pizza,donut,cake
+
+# ID 62–70 (mirror/window/door/desk → stuff domain)
+things|furniture|chair,couch,potted plant,bed,dining table,toilet
+
+# ID 72–77
+things|electronic|tv,laptop,mouse,remote,keyboard,cell phone
+
+# ID 78–83 (blender không có trong txt → bỏ)
+things|appliance|microwave,oven,toaster,sink,refrigerator
+
+# ID 84–91 (hair brush không có trong txt → bỏ)
+things|indoor|book,clock,vase,scissors,teddy bear,hair drier,toothbrush
+
+
+# ─────────────────── STUFF ─────────────────────────────────────────
+
+# water (IDs 120,148,155,178,179 + fog)
+stuff|water|water,river,sea,waterdrops,fog,water-other
+
+# ground (IDs 111,125,126,136,140,144,145,147,149,159 + street,road,snow,sand,dirt,mud,gravel)
+stuff|ground|ground,road,street,pavement,railroad,dirt,snow,sand,mud,playingfield,gravel,ground-other,platform
+
+# solid (IDs 127,135,150,160,162 + rock,hill,mountain,stone,wood)
+stuff|solid|rock,hill,mountain,stone,wood,solid-other
+
+# sky (IDs 106,157)
+stuff|sky|sky,clouds,sky-other
+
+# plant (IDs 94,97,119,124,129,134,163,169 + grass,tree,branch,leaves,bush,flower,moss)
+stuff|plant|grass,tree,branch,leaves,bush,flower,moss,straw,plant-other
+
+# structural (IDs 95,99,138,146,164 + fence,railing,bridge)
+stuff|structural|fence,railing,bridge,cage,net,structural-other
+
+# building (IDs 96,151,158,166 + building,wall,roof,house,skyscraper,tent)
+stuff|building|building,roof,tent,house,skyscraper,building-other
+
+# food-stuff (IDs 121,122,153,170)
+stuff|food-stuff|salad,vegetable,fruit,food-other
+
+# textile (IDs 92,93,104,105,109,131,137,141,152,167,168 + cloth,clothes,napkin,towel,banner,pillow,blanket,rug,mat,carpet,curtain)
+stuff|textile|rug,mat,carpet,curtain,cloth,clothes,napkin,towel,banner,pillow,blanket,textile-other
+
+# furniture-stuff (IDs 98,107,108,123,130,133,156,161,165 + table,light,counter,cabinet,cupboard,shelf,stairs,desk-stuff,door-stuff,mirror-stuff,furniture-other)
+stuff|furniture-stuff|stairs,light,counter,cabinet,cupboard,shelf,table,mirror-stuff,desk-stuff,door-stuff,furniture-other
+
+# wall (IDs 171–177 + wall generic)
+stuff|wall|wall,wall-brick,wall-concrete,wall-other,wall-panel,wall-stone,wall-tile,wall-wood
+
+# floor (IDs 114–118 + floor generic, carpet already in textile but also floor here)
+stuff|floor|floor,floor-marble,floor-other,floor-stone,floor-tile,floor-wood
+
+# ceiling (IDs 102–103 + ceiling generic)
+stuff|ceiling|ceiling,ceiling-other,ceiling-tile
+
+# window (IDs 180–181 + window generic, blind)
+stuff|window|window,door,blind,window-blind,window-other
+
+# rawmaterial (IDs 100,132,139,143)
+stuff|rawmaterial|metal,plastic,paper,cardboard
