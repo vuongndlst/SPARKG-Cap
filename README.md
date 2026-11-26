@@ -223,7 +223,7 @@ python src/evaluation/evaluate_karpathy.py \
 
 ## Human Evaluation Suite
 
-A self-contained, blinded browser-based evaluation portal is provided in [`human_evaluation/`](human_evaluation/index.html) (compatible with GitHub Pages or any static browser session):
+A self-contained, blinded browser-based evaluation portal is hosted via GitHub Pages at **[https://vuongndlst.github.io/SPARKG-Cap/human_evaluation/](https://vuongndlst.github.io/SPARKG-Cap/human_evaluation/)** (source files in [`human_evaluation/`](human_evaluation/index.html)):
 
 1. **Calibration Pilot (`calibration_pilot.html`)**: Annotator onboarding set for aligning role (`Foreground`, `Auxiliary`, `Background`) and relation verification criteria prior to main scoring.
 2. **Intrinsic Role & Relation Verification (`role_and_relation_eval.html`)**: Blinded image-grounded verification of entity role assignments and extracted relation edges with bounding-box overlays.
